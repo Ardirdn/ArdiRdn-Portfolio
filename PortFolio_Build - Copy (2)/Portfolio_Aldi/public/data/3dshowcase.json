@@ -1,0 +1,74 @@
+[
+    {
+        "id": "animal-knight-series",
+        "title": "Animal Knight Series",
+        "category": "Stylized Character",
+        "year": "2024",
+        "description": "A collection of stylized animal characters tailored for RPG games.",
+        "folder": "/assets/3d Assets/Stylized Character/AnimalKnight",
+        "thumbnail": "/assets/3d Assets/Stylized Character/AnimalKnight/Cover.webp",
+        "images": [
+            "AnimalKnight_Ant/Render/SingleView/Textured/AnimalKnight_Ant_FRONT_RIGHT_3_4.webp",
+            "AnimalKnight_Ant/Render/SingleView/Textured/AnimalKnight_Ant_BACK.png",
+            "AnimalKnight_Capybara/Render/SingleView/Textured/AnimalKnight_Capybara_FRONT_RIGHT_3_4.webp",
+            "AnimalKnight_Dog/Render/SingleView/Textured/AnimalKnight_Dog_FRONT_RIGHT_3_4.webp"
+        ]
+    },
+    {
+        "id": "caveman-series",
+        "title": "Caveman Series",
+        "category": "Stylized Character",
+        "year": "2024",
+        "description": "Stylized caveman characters with various roles.",
+        "folder": "/assets/3d Assets/Stylized Character/Caveman",
+        "thumbnail": "/assets/3d Assets/Stylized Character/Caveman/Cover.webp",
+        "images": [
+            "Caveman_Farmer_High/Render/SingleView/Textured/Caveman_Farmer_High_FRONT_RIGHT_3_4.webp",
+            "Caveman_Guy_High/Render/SingleView/Textured/Caveman_Guy_High_FRONT_RIGHT_3_4.webp",
+            "Caveman_Soldier_High/Render/SingleView/Textured/Caveman_Soldier_High_FRONT_RIGHT_3_4.webp"
+        ]
+    },
+    {
+        "id": "fauna-characters",
+        "title": "Fauna Characters",
+        "category": "Stylized Character",
+        "year": "2024",
+        "description": "A broad collection of stylized fauna characters.",
+        "folder": "/assets/3d Assets/Stylized Character/FaunaCharacter",
+        "thumbnail": "/assets/3d Assets/Stylized Character/FaunaCharacter/Cover.webp",
+        "images": [
+            "Racoon/Render/SingleView/Textured/Racoon_FRONT_RIGHT_3_4.webp",
+            "Racoon/Render/SingleView/Textured/Racoon_BACK.png",
+            "Racoon/Render/SingleView/Textured/Racoon_LEFT.png"
+        ]
+    },
+    {
+        "id": "low-poly-bikes",
+        "title": "Low Poly Motor Series",
+        "category": "Prop",
+        "year": "2024",
+        "description": "A varied collection of low poly motorcycles suitable for mobile games.",
+        "folder": "/assets/3d Assets/Other/low Poly Bike",
+        "thumbnail": "/assets/3d Assets/Other/low Poly Bike/Cover.webp",
+        "images": [
+            "Motor_Beat/Render/SingleView/Textured/Motor_Beat_FRONT_RIGHT_3_4.webp",
+            "Motor_Beat/Render/SingleView/Textured/Motor_Beat_BACK.png",
+            "Motor_Scoopy/Render/SingleView/Textured/Motor_Scoopy_FRONT_RIGHT_3_4.webp"
+        ]
+    },
+    {
+        "id": "basarnas-helicopter",
+        "title": "Basarnas Helicopter",
+        "category": "PBR",
+        "year": "2024",
+        "description": "High fidelity PBR helicopter model inspired by Basarnas fleet.",
+        "folder": "/assets/3d Assets/PBR/Basarnas Helicopter",
+        "thumbnail": "/assets/3d Assets/PBR/Basarnas Helicopter/Heli2.webp",
+        "images": [
+            "Heli2.webp",
+            "Heli3.webp",
+            "Heli4.webp",
+            "Heli5.webp"
+        ]
+    }
+]

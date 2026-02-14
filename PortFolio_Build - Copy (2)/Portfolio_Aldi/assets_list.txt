@@ -1,0 +1,709 @@
+﻿C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Featured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_AK47\Render\3View\Gun_AK47_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_AK47\Render\SingleView\Textured\Gun_AK47_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Anchor\Render\3View\Gun_Anchor_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Anchor\Render\SingleView\Textured\Gun_Anchor_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Blaster\Render\3View\Gun_Blaster_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Blaster\Render\SingleView\Textured\Gun_Blaster_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_GoldenGun\Render\3View\Gun_GoldenGun_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_GoldenGun\Render\SingleView\Textured\Gun_GoldenGun_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Kokang_Crabs\Render\3View\Gun_Kokang_Crabs_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Kokang_Crabs\Render\SingleView\Textured\Gun_Kokang_Crabs_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_RobotGUn\Render\3View\Gun_RobotGUn_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_RobotGUn\Render\SingleView\Textured\Gun_RobotGUn_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Sniper\Render\3View\Gun_Sniper_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_Sniper\Render\SingleView\Textured\Gun_Sniper_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_TransformerGun\Render\3View\Gun_TransformerGun_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_TransformerGun\Render\SingleView\Textured\Gun_TransformerGun_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun\Render\3View\Gun_WoodenGun_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun\Render\SingleView\Textured\Gun_WoodenGun_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGUn2\Render\3View\Gun_WoodenGUn2_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGUn2\Render\SingleView\Textured\Gun_WoodenGUn2_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun3\Render\3View\Gun_WoodenGun3_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun3\Render\SingleView\Textured\Gun_WoodenGun3_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun4\Render\3View\Gun_WoodenGun4_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun4\Render\SingleView\Textured\Gun_WoodenGun4_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun5\Render\3View\Gun_WoodenGun5_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\Gun\Gun_WoodenGun5\Render\SingleView\Textured\Gun_WoodenGun5_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Beat\Render\SingleView\Normal\Motor_Beat_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Beat\Render\SingleView\Textured\Motor_Beat_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_BeatMerah\Render\SingleView\Normal\Motor_BeatMerah_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_BeatMerah\Render\SingleView\Textured\Motor_BeatMerah_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_CafeRacer2\Render\SingleView\Normal\Motor_CafeRacer2_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_CafeRacer2\Render\SingleView\Textured\Motor_CafeRacer2_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Futuristik\Render\SingleView\Normal\Motor_Futuristik_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Futuristik\Render\SingleView\Textured\Motor_Futuristik_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_KawasakiNinja\Render\SingleView\Normal\Motor_KawasakiNinja_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_KawasakiNinja\Render\SingleView\Textured\Motor_KawasakiNinja_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Mio\Render\SingleView\Normal\Motor_Mio_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Mio\Render\SingleView\Textured\Motor_Mio_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Racer\Render\SingleView\Normal\Motor_Racer_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Racer\Render\SingleView\Textured\Motor_Racer_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Rider\Render\SingleView\Normal\Motor_Rider_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Rider\Render\SingleView\Textured\Motor_Rider_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Rxking\Render\SingleView\Normal\Motor_Rxking_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Rxking\Render\SingleView\Textured\Motor_Rxking_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Scoopy\Render\SingleView\Normal\Motor_Scoopy_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Scoopy\Render\SingleView\Textured\Motor_Scoopy_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_SupraTas\Render\SingleView\Normal\Motor_SupraTas_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_SupraTas\Render\SingleView\Textured\Motor_SupraTas_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Vespa\Render\SingleView\Normal\Motor_Vespa_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\low Poly Bike\Motor_Vespa\Render\SingleView\Textured\Motor_Vespa_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Pirate_Ship\Render\SingleView\Normal\Pirate_Ship_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Pirate_Ship\Render\SingleView\Textured\Pirate_Ship_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Shark_Ship\Render\SingleView\Normal\Shark_Ship_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Shark_Ship\Render\SingleView\Textured\Shark_Ship_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Angle\Render\SingleView\Normal\Ship_Angle_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Angle\Render\SingleView\Textured\Ship_Angle_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Basics\Render\SingleView\Normal\Ship_Basics_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Basics\Render\SingleView\Textured\Ship_Basics_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Bone\Render\SingleView\Normal\Ship_Bone_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Bone\Render\SingleView\Textured\Ship_Bone_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Dragon_Merah\Render\SingleView\Normal\Ship_Dragon_Merah_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Dragon_Merah\Render\SingleView\Textured\Ship_Dragon_Merah_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Fantasy2\Render\SingleView\Normal\Ship_Fantasy2_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Fantasy2\Render\SingleView\Textured\Ship_Fantasy2_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Fantsy\Render\SingleView\Normal\Ship_Fantsy_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Fantsy\Render\SingleView\Textured\Ship_Fantsy_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Ghost\Render\SingleView\Normal\Ship_Ghost_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Ghost\Render\SingleView\Textured\Ship_Ghost_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Red_Pirate\Render\SingleView\Normal\Ship_Red_Pirate_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Red_Pirate\Render\SingleView\Textured\Ship_Red_Pirate_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Robot\Render\SingleView\Normal\Ship_Robot_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Robot\Render\SingleView\Textured\Ship_Robot_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Satelit\Render\SingleView\Normal\Ship_Satelit_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Satelit\Render\SingleView\Textured\Ship_Satelit_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Scorpio\Render\SingleView\Normal\Ship_Scorpio_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Scorpio\Render\SingleView\Textured\Ship_Scorpio_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Skin_One_Piece\Render\SingleView\Normal\Ship_Skin_One_Piece_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Skin_One_Piece\Render\SingleView\Textured\Ship_Skin_One_Piece_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Turtle\Render\SingleView\Normal\Ship_Turtle_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Turtle\Render\SingleView\Textured\Ship_Turtle_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Water_MillWheel\Render\SingleView\Normal\Ship_Water_MillWheel_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Water_MillWheel\Render\SingleView\Textured\Ship_Water_MillWheel_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Wings\Render\SingleView\Normal\Ship_Wings_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Ship_Wings\Render\SingleView\Textured\Ship_Wings_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Space_Skin\Render\SingleView\Normal\Space_Skin_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Space_Skin\Render\SingleView\Textured\Space_Skin_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Tribes_Ship\Render\SingleView\Normal\Tribes_Ship_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Tribes_Ship\Render\SingleView\Textured\Tribes_Ship_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Viking_Shipss\Render\SingleView\Normal\Viking_Shipss_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Other\loyPolyShips\Viking_Shipss\Render\SingleView\Textured\Viking_Shipss_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Featured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Heli2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Heli3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Heli4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Heli5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Heli6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Untitled-Camera.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\PBR\Basarnas Helicopter\Untitled-Camera3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Featured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Ant\Render\3View\AnimalKnight_Ant_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Ant\Render\SingleView\MaterialPreview\AnimalKnight_Ant_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Ant\Render\SingleView\Normal\AnimalKnight_Ant_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Ant\Render\SingleView\Solid\AnimalKnight_Ant_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Ant\Render\SingleView\Textured\AnimalKnight_Ant_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Capybara\Render\3View\AnimalKnight_Capybara_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Capybara\Render\SingleView\MaterialPreview\AnimalKnight_Capybara_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Capybara\Render\SingleView\Normal\AnimalKnight_Capybara_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Capybara\Render\SingleView\Solid\AnimalKnight_Capybara_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Capybara\Render\SingleView\Textured\AnimalKnight_Capybara_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Dog\Render\3View\AnimalKnight_Dog_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Dog\Render\SingleView\MaterialPreview\AnimalKnight_Dog_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Dog\Render\SingleView\Normal\AnimalKnight_Dog_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Dog\Render\SingleView\Solid\AnimalKnight_Dog_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Dog\Render\SingleView\Textured\AnimalKnight_Dog_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Eagle\Render\3View\AnimalKnight_Eagle_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Eagle\Render\SingleView\MaterialPreview\AnimalKnight_Eagle_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Eagle\Render\SingleView\Normal\AnimalKnight_Eagle_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Eagle\Render\SingleView\Solid\AnimalKnight_Eagle_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Eagle\Render\SingleView\Textured\AnimalKnight_Eagle_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Geraph\Render\3View\AnimalKnight_Geraph_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Geraph\Render\SingleView\MaterialPreview\AnimalKnight_Geraph_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Geraph\Render\SingleView\Normal\AnimalKnight_Geraph_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Geraph\Render\SingleView\Solid\AnimalKnight_Geraph_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Geraph\Render\SingleView\Textured\AnimalKnight_Geraph_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Hippo\Render\3View\AnimalKnight_Hippo_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Hippo\Render\SingleView\MaterialPreview\AnimalKnight_Hippo_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Hippo\Render\SingleView\Normal\AnimalKnight_Hippo_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Hippo\Render\SingleView\Solid\AnimalKnight_Hippo_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Hippo\Render\SingleView\Textured\AnimalKnight_Hippo_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Horse\Render\3View\AnimalKnight_Horse_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Horse\Render\SingleView\MaterialPreview\AnimalKnight_Horse_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Horse\Render\SingleView\Normal\AnimalKnight_Horse_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Horse\Render\SingleView\Solid\AnimalKnight_Horse_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Horse\Render\SingleView\Textured\AnimalKnight_Horse_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lion\Render\3View\AnimalKnight_Lion_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lion\Render\SingleView\MaterialPreview\AnimalKnight_Lion_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lion\Render\SingleView\Normal\AnimalKnight_Lion_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lion\Render\SingleView\Solid\AnimalKnight_Lion_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lion\Render\SingleView\Textured\AnimalKnight_Lion_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lizard\Render\3View\AnimalKnight_Lizard_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lizard\Render\SingleView\MaterialPreview\AnimalKnight_Lizard_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lizard\Render\SingleView\Normal\AnimalKnight_Lizard_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lizard\Render\SingleView\Solid\AnimalKnight_Lizard_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Lizard\Render\SingleView\Textured\AnimalKnight_Lizard_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_PolarBear\Render\3View\AnimalKnight_PolarBear_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_PolarBear\Render\SingleView\MaterialPreview\AnimalKnight_PolarBear_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_PolarBear\Render\SingleView\Normal\AnimalKnight_PolarBear_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_PolarBear\Render\SingleView\Solid\AnimalKnight_PolarBear_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_PolarBear\Render\SingleView\Textured\AnimalKnight_PolarBear_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Rhinos\Render\3View\AnimalKnight_Rhinos_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Rhinos\Render\SingleView\MaterialPreview\AnimalKnight_Rhinos_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Rhinos\Render\SingleView\Normal\AnimalKnight_Rhinos_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Rhinos\Render\SingleView\Solid\AnimalKnight_Rhinos_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Rhinos\Render\SingleView\Textured\AnimalKnight_Rhinos_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Tiger\Render\3View\AnimalKnight_Tiger_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Tiger\Render\SingleView\MaterialPreview\AnimalKnight_Tiger_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Tiger\Render\SingleView\Normal\AnimalKnight_Tiger_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Tiger\Render\SingleView\Solid\AnimalKnight_Tiger_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\AnimalKnight\AnimalKnight_Tiger\Render\SingleView\Textured\AnimalKnight_Tiger_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Farmer_High\Render\3View\Caveman_Farmer_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Farmer_High\Render\SingleView\MaterialPreview\Caveman_Farmer_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Farmer_High\Render\SingleView\Normal\Caveman_Farmer_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Farmer_High\Render\SingleView\Solid\Caveman_Farmer_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Farmer_High\Render\SingleView\Textured\Caveman_Farmer_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Guy_High\Render\3View\Caveman_Guy_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Guy_High\Render\SingleView\MaterialPreview\Caveman_Guy_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Guy_High\Render\SingleView\Normal\Caveman_Guy_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Guy_High\Render\SingleView\Solid\Caveman_Guy_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Guy_High\Render\SingleView\Textured\Caveman_Guy_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Kid_High\Render\3View\Caveman_Kid_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Kid_High\Render\SingleView\MaterialPreview\Caveman_Kid_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Kid_High\Render\SingleView\Normal\Caveman_Kid_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Kid_High\Render\SingleView\Solid\Caveman_Kid_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Kid_High\Render\SingleView\Textured\Caveman_Kid_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_King_High\Render\3View\Caveman_King_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_King_High\Render\SingleView\MaterialPreview\Caveman_King_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_King_High\Render\SingleView\Normal\Caveman_King_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_King_High\Render\SingleView\Solid\Caveman_King_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_King_High\Render\SingleView\Textured\Caveman_King_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Mom_High\Render\3View\Caveman_Mom_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Mom_High\Render\SingleView\MaterialPreview\Caveman_Mom_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Mom_High\Render\SingleView\Normal\Caveman_Mom_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Mom_High\Render\SingleView\Solid\Caveman_Mom_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Mom_High\Render\SingleView\Textured\Caveman_Mom_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Nerd_High\Render\3View\Caveman_Nerd_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Nerd_High\Render\SingleView\MaterialPreview\Caveman_Nerd_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Nerd_High\Render\SingleView\Normal\Caveman_Nerd_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Nerd_High\Render\SingleView\Solid\Caveman_Nerd_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Nerd_High\Render\SingleView\Textured\Caveman_Nerd_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Soldier_High\Render\3View\Caveman_Soldier_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Soldier_High\Render\SingleView\MaterialPreview\Caveman_Soldier_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Soldier_High\Render\SingleView\Normal\Caveman_Soldier_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Soldier_High\Render\SingleView\Solid\Caveman_Soldier_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Soldier_High\Render\SingleView\Textured\Caveman_Soldier_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_StrongMan_High\Render\3View\Caveman_StrongMan_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_StrongMan_High\Render\SingleView\MaterialPreview\Caveman_StrongMan_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_StrongMan_High\Render\SingleView\Normal\Caveman_StrongMan_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_StrongMan_High\Render\SingleView\Solid\Caveman_StrongMan_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_StrongMan_High\Render\SingleView\Textured\Caveman_StrongMan_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Witch_High\Render\3View\Caveman_Witch_High_3View_MaterialPreview.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Witch_High\Render\SingleView\MaterialPreview\Caveman_Witch_High_SingleView_MaterialPreview.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Witch_High\Render\SingleView\Normal\Caveman_Witch_High_SingleView_Normal.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Witch_High\Render\SingleView\Solid\Caveman_Witch_High_SingleView_Solid.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\Caveman\Caveman_Witch_High\Render\SingleView\Textured\Caveman_Witch_High_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Akatsuki\Render\3View\Akatsuki_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Akatsuki\Render\SingleView\Textured\Akatsuki_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot\Render\3View\Astronot_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot\Render\SingleView\Textured\Astronot_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot1\Render\3View\Astronot1_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot1\Render\SingleView\Textured\Astronot1_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot2\Render\3View\Astronot2_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Astronot2\Render\SingleView\Textured\Astronot2_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Avatar\Render\3View\Avatar_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Avatar\Render\SingleView\Textured\Avatar_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Banana.002\Render\3View\Banana.002_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Banana.002\Render\SingleView\Textured\Banana.002_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Batman\Render\3View\Batman_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Batman\Render\SingleView\Textured\Batman_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\BlastX\Render\3View\BlastX_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\BlastX\Render\SingleView\Textured\BlastX_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Cactus\Render\3View\Cactus_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Cactus\Render\SingleView\Textured\Cactus_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\CaptainI\Render\3View\CaptainI_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\CaptainI\Render\SingleView\Textured\CaptainI_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Chainsaw\Render\3View\Chainsaw_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Chainsaw\Render\SingleView\Textured\Chainsaw_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Doyok_Muda\Render\3View\Doyok_Muda_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Doyok_Muda\Render\SingleView\Textured\Doyok_Muda_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Dracula\Render\3View\Dracula_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Dracula\Render\SingleView\Textured\Dracula_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Fantasy\Render\3View\Fantasy_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Fantasy\Render\SingleView\Textured\Fantasy_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Fantasy3\Render\3View\Fantasy3_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Fantasy3\Render\SingleView\Textured\Fantasy3_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\GhostRider\Render\3View\GhostRider_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\GhostRider\Render\SingleView\Textured\GhostRider_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Gojo\Render\3View\Gojo_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Gojo\Render\SingleView\Textured\Gojo_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Gundam3\Render\3View\Gundam3_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Gundam3\Render\SingleView\Textured\Gundam3_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Habibi\Render\3View\Habibi_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Habibi\Render\SingleView\Textured\Habibi_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Jack\Render\3View\Jack_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Jack\Render\SingleView\Textured\Jack_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Jawa_Character\Render\3View\Jawa_Character_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Jawa_Character\Render\SingleView\Textured\Jawa_Character_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Kakashi\Render\3View\Kakashi_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Kakashi\Render\SingleView\Textured\Kakashi_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Kakashii\Render\3View\Kakashii_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Kakashii\Render\SingleView\Textured\Kakashii_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Leak\Render\3View\Leak_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Leak\Render\SingleView\Textured\Leak_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Luffy\Render\3View\Luffy_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Luffy\Render\SingleView\Textured\Luffy_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\LuffyNormal\Render\3View\LuffyNormal_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\LuffyNormal\Render\SingleView\Textured\LuffyNormal_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Mecha\Render\3View\Mecha_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Mecha\Render\SingleView\Textured\Mecha_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Mikasa\Render\3View\Mikasa_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Mikasa\Render\SingleView\Textured\Mikasa_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Naruto\Render\3View\Naruto_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Naruto\Render\SingleView\Textured\Naruto_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\NFC_Arena1\Render\3View\NFC_Arena1_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\NFC_Arena1\Render\SingleView\Textured\NFC_Arena1_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\NFC_Toko2\Render\3View\NFC_Toko2_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\NFC_Toko2\Render\SingleView\Textured\NFC_Toko2_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PakKumis\Render\3View\PakKumis_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PakKumis\Render\SingleView\Textured\PakKumis_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pak_Dayat\Render\3View\Pak_Dayat_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pak_Dayat\Render\SingleView\Textured\Pak_Dayat_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pangsi\Render\3View\Pangsi_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pangsi\Render\SingleView\Textured\Pangsi_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pemburu\Render\3View\Pemburu_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Pemburu\Render\SingleView\Textured\Pemburu_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PumpkinHead\Render\3View\PumpkinHead_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PumpkinHead\Render\SingleView\Textured\PumpkinHead_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PumpkinHeadDinosaur\Render\3View\PumpkinHeadDinosaur_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\PumpkinHeadDinosaur\Render\SingleView\Textured\PumpkinHeadDinosaur_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Racoon\Render\3View\Racoon_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Racoon\Render\SingleView\Textured\Racoon_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Roma\Render\3View\Roma_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Roma\Render\SingleView\Textured\Roma_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Saitama\Render\3View\Saitama_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Saitama\Render\SingleView\Textured\Saitama_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Samurai\Render\3View\Samurai_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Samurai\Render\SingleView\Textured\Samurai_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Samuraii\Render\3View\Samuraii_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Samuraii\Render\SingleView\Textured\Samuraii_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Sasuke\Render\3View\Sasuke_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Sasuke\Render\SingleView\Textured\Sasuke_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Sasukee\Render\3View\Sasukee_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Sasukee\Render\SingleView\Textured\Sasukee_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Semangka\Render\3View\Semangka_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Semangka\Render\SingleView\Textured\Semangka_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Skeleton\Render\3View\Skeleton_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Skeleton\Render\SingleView\Textured\Skeleton_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\SquidGame\Render\3View\SquidGame_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\SquidGame\Render\SingleView\Textured\SquidGame_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Tommy\Render\3View\Tommy_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Tommy\Render\SingleView\Textured\Tommy_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Tribes\Render\3View\Tribes_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\FaunaCharacter\Tribes\Render\SingleView\Textured\Tribes_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\Cover.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Army\Render\3View\LolPlay_Army_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Army\Render\SingleView\Textured\LolPlay_Army_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Astronout\Render\3View\LolPlay_Astronout_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Astronout\Render\SingleView\Textured\LolPlay_Astronout_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Cheaf\Render\3View\LolPlay_Cheaf_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Cheaf\Render\SingleView\Textured\LolPlay_Cheaf_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Clown\Render\3View\LolPlay_Clown_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Clown\Render\SingleView\Textured\LolPlay_Clown_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_FireFigter\Render\3View\LolPlay_FireFigter_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_FireFigter\Render\SingleView\Textured\LolPlay_FireFigter_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Pilot\Render\3View\LolPlay_Pilot_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Pilot\Render\SingleView\Textured\LolPlay_Pilot_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Pirate\Render\3View\LolPlay_Pirate_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Pirate\Render\SingleView\Textured\LolPlay_Pirate_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Racer\Render\3View\LolPlay_Racer_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Racer\Render\SingleView\Textured\LolPlay_Racer_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_StreetWear\Render\3View\LolPlay_StreetWear_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_StreetWear\Render\SingleView\Textured\LolPlay_StreetWear_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Worker\Render\3View\LolPlay_Worker_3View_Solid_Wireframe.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\3d Assets\Stylized Character\LolPlay\LolPlay_Worker\Render\SingleView\Textured\LolPlay_Worker_SingleView_Textured.webm
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\FeaturedGraphic.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JAIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS10.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\JASS9.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuFeatured.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganAyam\Gamelanku\GamelankuSS8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JEBanner.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JEFeatured.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JEIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganEmpang\JESS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKFeatured.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\AkuSiJuraganKosan\JKSS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLFeatured.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLIcon.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FallingFloor\FLSS8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFFeatured.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFGameplay.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\FlexFight\FFSS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFBanner.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFFeatured.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\JuraganFauna\JFSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCFeatured.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS7.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LandControl\LCSS8.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHFeatured.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHIcon.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\LegendaryFishHunter\LFHSS8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountHalimun\mt_halimun_6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountNirwana\mt_nirwana_8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\MountRenjana\mt_renjana_7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WIFeatured.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WIGameplay.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WIIcon.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS1.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS2.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS3.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS4.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS5.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS6.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS7.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\game\WipeIt\WISS8.webp
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio10.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio11.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio12.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio13.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio14.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio15.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio16.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio17.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio18.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio19.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cinematic Mountain\RobloxMapPortfolio9.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio7.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Cozy Cafe\RobloxMapPortfolio8.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\roblox\Private Conference Island\Screenshot_7.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_023_00030003.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_024_00070007.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_025_00090009.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_026_00090009.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_027_00070007.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_028_00030003.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_030_00020002.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_031_00020002.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_032_00090009.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Abandoned Palace\Image Sequence_033_00010001.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_002_00010001.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_003_00030003.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_003_00040004.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_004_00010001.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_006_00000000.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_007_00070007.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_008_00100010.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_010_00060006.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_011_00000000.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_012_00030003.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_013_00070007.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_014_00000000.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_015_00000000.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_016_00010001.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_017_00070007.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_019_00040004.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_020_00140014.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_021_00050005.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Adandoned Temple\Image Sequence_022_00080008.jpg
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Asean Remote Village\1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Asean Remote Village\2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Asean Remote Village\3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Asean Remote Village\4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Asean Remote Village\5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_373.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_374.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_375.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_376.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_377.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_378.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_379.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_380.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_381.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_382.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_383.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_384.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_385.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_386.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_387.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_388.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_389.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_390.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_391.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\City Neighborhood\Screenshot_392.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_374.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_375.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_376.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_377.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_378.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_379.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_380.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Isolated Forest Village\Screenshot_381.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\ddfsf.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\dfdsf.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd7.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd8.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Stylized Toon City\sd9.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_373.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_374.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_375.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_376.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_377.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_378.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_379.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_380.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_381.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_382.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_383.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_384.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_385.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_386.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_387.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_388.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_389.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_390.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_391.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_392.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_393.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_394.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_395.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_396.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_397.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unity\Toon Seaside City\Screenshot_398.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00013.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00014.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00015.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00016.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00017.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00018.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00019.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00020.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00021.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00022.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00023.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00024.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00025.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00026.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00027.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00028.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\Abandoned Village\HighresScreenshot00029.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0008.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0009.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0081.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0097.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0107.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0122.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0129.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0191.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0193.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0203.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0232.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\leveldesign\unreal\South East Asian River Village\Swamp_sequence.0238.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\Data-Editor.mkv
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\DataManagerThumbnail.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\DataSS1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\DataSS2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\DataSS3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Data\DataSS4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\Dialogue-Editor.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\Dialogue-Gameplay.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\DialogueSS1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\DialogueSS2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\DialogueSS3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Dialogue\DialogueSS4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Easing\AllEasings.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Easing\EasingExampleUsage.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Easing\EasingThumbnail.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Easing\Easing_Anim.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Quest\Quest-Editor.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Quest\Quest-Gameplay.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Quest\QuestSS1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Quest\QuestSS2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\Quest\QuestSS3.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEventCase.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEventCode1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEventCode2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEventThumbnail.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEvent_Arguments.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEvent_Collapsed.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\SafeEvent\SafeEvent_Expanded.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\UIHighlighter\HighlightUsage.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\UIHighlighter\Tutorial1.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\UIHighlighter\Tutorial2.mp4
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\system\UIHighlighter\UIHighlightThumbnail.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DetainedSouls\DanuFeedNew.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DetainedSouls\DiscordBanner.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DetainedSouls\MainMenu1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DetainedSouls\TrailerFeed1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DetainedSouls\TrailerFeednew.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 1.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 41.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 43-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 43.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 44-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 44.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 45-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 45.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 46.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 47-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 47.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 48-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 48.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 49-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 49.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 50-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 50.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 51-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 51.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 52-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 52.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 53-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 53.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 54-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 54.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 55-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 55.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 56-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 56.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 57-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 57.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 58-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 58.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 59-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 59.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 61-portrait.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\DropStackBall\Asset 61.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganEmpang\Banner.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganEmpang\FeaturedGraphic.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganEmpang\Icon512.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganFauna\JuraganFaunaBanner.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganKosan\Asset 2.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 32.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 33.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 34.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 35.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 36.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 37.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 38.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 39.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 40.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 41.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 42.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 43.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 44.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 45.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 46.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 47.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 48.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\JuraganNasiPadang\Asset 49.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 23.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 24.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 25.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 26.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 27.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 28.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 29.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\LegendaryFIshHunter\Asset 30.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\TheDeathPath\Asset 4.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\TheDeathPath\Asset 5.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\TheDeathPath\Asset 6.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\TheDeathPath\Asset 7.png
+C:\Users\Studi\Downloads\PortFolio_Build - Copy (2)\Portfolio_Aldi\public\assets\Ui Ux\TheDeathPath\Asset 8.png
