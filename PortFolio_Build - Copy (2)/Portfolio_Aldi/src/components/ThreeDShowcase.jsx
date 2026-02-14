@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import FeaturedSection from './ThreeDShowcase/FeaturedSection';
 import GallerySection from './ThreeDShowcase/GallerySection';
+import ModularCharacterSection from '../components/ModularCharacterSection';
 import threeDData from '../data/3d_assets.json';
 
 const ThreeDShowcaseList = () => {
@@ -22,6 +23,7 @@ const ThreeDShowcaseList = () => {
             {/* Sections */}
             <div className="relative z-10">
                 <FeaturedSection data={threeDData.categories} />
+                <ModularCharacterSection />
                 <GallerySection data={threeDData.categories} />
             </div>
         </div>

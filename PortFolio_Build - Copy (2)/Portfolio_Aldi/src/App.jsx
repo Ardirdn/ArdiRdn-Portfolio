@@ -20,6 +20,7 @@ import PackPage from "./Pages/ThreeD/PackPage";
 import ItemPage from "./Pages/ThreeD/ItemPage";
 import UiUxPage from "./Pages/UiUxPage";
 import UiUxDetail from "./Pages/UiUxDetail";
+import ModularCharacterDetail from "./Pages/ModularCharacterDetail";
 
 const LandingPage = ({ showWelcome, setShowWelcome }) => {
   return (
@@ -119,6 +120,7 @@ function App() {
         />
         <Route path="/games/:id" element={<ProjectPageLayout />} />
         <Route path="/tools/:id" element={<ToolPageLayout />} />
+        <Route path="/modular-character" element={<ModularCharacterDetail />} />
         <Route path="/level-designs" element={<LevelDesign />} />
         <Route path="/level-designs/:id" element={<LevelDesignDetail />} />
         <Route path="/3d-assets/:categoryId" element={<CategoryPage />} />
