@@ -53,6 +53,9 @@ const ItemPage = () => {
         return key === 'MaterialPreview' ? item.cover : item.cover.replace(/MaterialPreview|Solid_Wireframe/g, key);
     };
 
+    // Detect if this is a BoxyCharacter-style item with 6 structured images
+    const isStructuredImages = !Object.keys(webms).length && item.images && item.images.length === 6;
+
     return (
         <div className="min-h-screen bg-[#000714] py-20 px-4">
             <div className="max-w-[1920px] mx-auto">
@@ -77,7 +80,7 @@ const ItemPage = () => {
                     </div>
                 </div>
 
-                {/* Content Layout - Only for Stylized/Other with WebMs */}
+                {/* Content Layout - For items with WebMs */}
                 {Object.keys(webms).length > 0 ? (
                     <div className="flex flex-col gap-0 w-full">
                         {/* Row 1: 4 WebMs */}
@@ -118,6 +121,103 @@ const ItemPage = () => {
                                     </div>
                                 );
                             })}
+                        </div>
+                    </div>
+                ) : isStructuredImages ? (
+                    /* Structured layout for BoxyCharacters (6 images) */
+                    <div className="max-w-7xl mx-auto flex flex-col gap-12">
+                        {/* Section 1: 3-View Renders - Full width side by side */}
+                        <div>
+                            <h2 className="text-2xl md:text-3xl font-bold text-white mb-6 text-center">
+                                3-View Renders
+                            </h2>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-white/20 transition-all duration-300 group">
+                                    <div className="px-4 py-3 border-b border-white/10">
+                                        <span className="text-sm font-semibold text-emerald-400 uppercase tracking-wider">Textured</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[0]}
+                                            alt={`${item.name} 3View Textured`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-[1.02] transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-white/20 transition-all duration-300 group">
+                                    <div className="px-4 py-3 border-b border-white/10">
+                                        <span className="text-sm font-semibold text-blue-400 uppercase tracking-wider">Solid Wireframe</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[1]}
+                                            alt={`${item.name} 3View Wireframe`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-[1.02] transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Section 2: Single View Renders */}
+                        <div>
+                            <h2 className="text-2xl md:text-3xl font-bold text-white mb-6 text-center">
+                                Single View Renders
+                            </h2>
+                            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                                {/* Textured Front */}
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-emerald-500/30 transition-all duration-300 group">
+                                    <div className="px-3 py-2 border-b border-white/10">
+                                        <span className="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Textured – Front</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[2]}
+                                            alt={`${item.name} Textured Front`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-105 transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                                {/* Textured 3/4 */}
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-emerald-500/30 transition-all duration-300 group">
+                                    <div className="px-3 py-2 border-b border-white/10">
+                                        <span className="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Textured – ¾ View</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[3]}
+                                            alt={`${item.name} Textured 3/4`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-105 transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                                {/* Wireframe Front */}
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-blue-500/30 transition-all duration-300 group">
+                                    <div className="px-3 py-2 border-b border-white/10">
+                                        <span className="text-xs font-semibold text-blue-400 uppercase tracking-wider">Wireframe – Front</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[4]}
+                                            alt={`${item.name} Wireframe Front`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-105 transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                                {/* Wireframe 3/4 */}
+                                <div className="rounded-xl overflow-hidden border border-white/10 bg-white/[0.02] hover:border-blue-500/30 transition-all duration-300 group">
+                                    <div className="px-3 py-2 border-b border-white/10">
+                                        <span className="text-xs font-semibold text-blue-400 uppercase tracking-wider">Wireframe – ¾ View</span>
+                                    </div>
+                                    <div className="p-2">
+                                        <img
+                                            src={item.images[5]}
+                                            alt={`${item.name} Wireframe 3/4`}
+                                            className="w-full h-auto object-contain rounded-lg group-hover:scale-105 transition-transform duration-500"
+                                        />
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 ) : (

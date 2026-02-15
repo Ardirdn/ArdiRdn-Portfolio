@@ -9,6 +9,7 @@ const threeDData = transformAssetPaths(rawThreeDData);
 const ItemCard = ({ item, link }) => {
     // Determine the preview source: Weighted towards Textured WebM
     const previewWebm = item.webms?.Textured || Object.values(item.webms || {})[0];
+    const hasWebm = previewWebm && Object.keys(item.webms || {}).length > 0;
 
     return (
         <div className="flex flex-col gap-4 group">
@@ -17,9 +18,9 @@ const ItemCard = ({ item, link }) => {
                 {item.name}
             </h4>
 
-            {/* Preview - Square 1:1 with WebM */}
+            {/* Preview - Square 1:1 with WebM or Image */}
             <div className="aspect-square w-full rounded-xl overflow-hidden relative bg-transparent">
-                {previewWebm ? (
+                {hasWebm ? (
                     <video
                         src={previewWebm}
                         autoPlay
@@ -30,7 +31,11 @@ const ItemCard = ({ item, link }) => {
                         style={{ backgroundColor: 'transparent' }}
                     />
                 ) : (
-                    <img src={item.cover} alt={item.name} className="w-full h-full object-contain" />
+                    <img
+                        src={item.cover}
+                        alt={item.name}
+                        className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
+                    />
                 )}
             </div>
 

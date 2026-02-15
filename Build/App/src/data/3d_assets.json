@@ -285,7 +285,7 @@
         },
         {
           "id": "faunacharacter",
-          "name": "FaunaCharacter",
+          "name": "BigEye Character Pack",
           "folder": "/assets/3d Assets/Stylized Character/FaunaCharacter",
           "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Cover.webp",
           "items": [
@@ -768,6 +768,430 @@
               "webms": {
                 "Textured": "/assets/3d Assets/Stylized Character/LolPlay/LolPlay_Worker/Render/SingleView/Textured/LolPlay_Worker_SingleView_Textured.webm"
               }
+            }
+          ]
+        },
+        {
+          "id": "boxycharacters",
+          "name": "BoxyCharacters",
+          "folder": "/assets/3d Assets/Stylized Character/BoxyCharacters",
+          "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/MultiSelect_TOP.png",
+          "items": [
+            {
+              "id": "boxy_astronot",
+              "name": "Astronot",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/SingleView/Textured/Astronot_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/3View/Astronot_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/3View/Astronot_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/SingleView/Textured/Astronot_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/SingleView/Textured/Astronot_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/SingleView/Solid_Wireframe/Astronot_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Astronot/Render/SingleView/Solid_Wireframe/Astronot_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_ayam",
+              "name": "Ayam",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/SingleView/Textured/Ayam_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/3View/Ayam_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/3View/Ayam_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/SingleView/Textured/Ayam_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/SingleView/Textured/Ayam_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/SingleView/Solid_Wireframe/Ayam_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ayam/Render/SingleView/Solid_Wireframe/Ayam_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_babi",
+              "name": "Babi",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/SingleView/Textured/Babi_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/3View/Babi_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/3View/Babi_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/SingleView/Textured/Babi_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/SingleView/Textured/Babi_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/SingleView/Solid_Wireframe/Babi_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Babi/Render/SingleView/Solid_Wireframe/Babi_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_banteng",
+              "name": "Banteng",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/SingleView/Textured/Banteng_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/3View/Banteng_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/3View/Banteng_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/SingleView/Textured/Banteng_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/SingleView/Textured/Banteng_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/SingleView/Solid_Wireframe/Banteng_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Banteng/Render/SingleView/Solid_Wireframe/Banteng_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_basics",
+              "name": "Basics",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/SingleView/Textured/Basics_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/3View/Basics_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/3View/Basics_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/SingleView/Textured/Basics_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/SingleView/Textured/Basics_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/SingleView/Solid_Wireframe/Basics_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics/Render/SingleView/Solid_Wireframe/Basics_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_basics_biru",
+              "name": "Basics Biru",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/SingleView/Textured/Basics_Biru_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/3View/Basics_Biru_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/3View/Basics_Biru_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/SingleView/Textured/Basics_Biru_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/SingleView/Textured/Basics_Biru_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/SingleView/Solid_Wireframe/Basics_Biru_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Biru/Render/SingleView/Solid_Wireframe/Basics_Biru_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_basics_hijau",
+              "name": "Basics Hijau",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/SingleView/Textured/Basics_Hijau_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/3View/Basics_Hijau_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/3View/Basics_Hijau_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/SingleView/Textured/Basics_Hijau_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/SingleView/Textured/Basics_Hijau_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/SingleView/Solid_Wireframe/Basics_Hijau_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Hijau/Render/SingleView/Solid_Wireframe/Basics_Hijau_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_basics_kuning",
+              "name": "Basics Kuning",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/SingleView/Textured/Basics_Kuning_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/3View/Basics_Kuning_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/3View/Basics_Kuning_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/SingleView/Textured/Basics_Kuning_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/SingleView/Textured/Basics_Kuning_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/SingleView/Solid_Wireframe/Basics_Kuning_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Kuning/Render/SingleView/Solid_Wireframe/Basics_Kuning_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_basics_merah",
+              "name": "Basics Merah",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/SingleView/Textured/Basics_Merah_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/3View/Basics_Merah_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/3View/Basics_Merah_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/SingleView/Textured/Basics_Merah_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/SingleView/Textured/Basics_Merah_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/SingleView/Solid_Wireframe/Basics_Merah_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Basics_Merah/Render/SingleView/Solid_Wireframe/Basics_Merah_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_beruang",
+              "name": "Beruang",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/SingleView/Textured/Beruang_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/3View/Beruang_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/3View/Beruang_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/SingleView/Textured/Beruang_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/SingleView/Textured/Beruang_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/SingleView/Solid_Wireframe/Beruang_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Beruang/Render/SingleView/Solid_Wireframe/Beruang_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_bissnisman",
+              "name": "Bissnisman",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/SingleView/Textured/Bissnisman_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/3View/Bissnisman_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/3View/Bissnisman_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/SingleView/Textured/Bissnisman_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/SingleView/Textured/Bissnisman_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/SingleView/Solid_Wireframe/Bissnisman_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Bissnisman/Render/SingleView/Solid_Wireframe/Bissnisman_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_boxing",
+              "name": "Boxing",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/SingleView/Textured/Boxing_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/3View/Boxing_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/3View/Boxing_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/SingleView/Textured/Boxing_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/SingleView/Textured/Boxing_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/SingleView/Solid_Wireframe/Boxing_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Boxing/Render/SingleView/Solid_Wireframe/Boxing_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_buaya",
+              "name": "Buaya",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/SingleView/Textured/Buaya_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/3View/Buaya_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/3View/Buaya_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/SingleView/Textured/Buaya_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/SingleView/Textured/Buaya_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/SingleView/Solid_Wireframe/Buaya_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Buaya/Render/SingleView/Solid_Wireframe/Buaya_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_candyman",
+              "name": "CandyMan",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/SingleView/Textured/CandyMan_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/3View/CandyMan_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/3View/CandyMan_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/SingleView/Textured/CandyMan_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/SingleView/Textured/CandyMan_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/SingleView/Solid_Wireframe/CandyMan_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/CandyMan/Render/SingleView/Solid_Wireframe/CandyMan_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_chef",
+              "name": "Chef",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/SingleView/Textured/Chef_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/3View/Chef_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/3View/Chef_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/SingleView/Textured/Chef_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/SingleView/Textured/Chef_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/SingleView/Solid_Wireframe/Chef_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Chef/Render/SingleView/Solid_Wireframe/Chef_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_cowboy",
+              "name": "Cowboy",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/SingleView/Textured/Cowboy_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/3View/Cowboy_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/3View/Cowboy_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/SingleView/Textured/Cowboy_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/SingleView/Textured/Cowboy_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/SingleView/Solid_Wireframe/Cowboy_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Cowboy/Render/SingleView/Solid_Wireframe/Cowboy_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_demon",
+              "name": "Demon",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/SingleView/Textured/Demon_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/3View/Demon_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/3View/Demon_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/SingleView/Textured/Demon_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/SingleView/Textured/Demon_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/SingleView/Solid_Wireframe/Demon_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Demon/Render/SingleView/Solid_Wireframe/Demon_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_dino",
+              "name": "Dino",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/SingleView/Textured/Dino_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/3View/Dino_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/3View/Dino_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/SingleView/Textured/Dino_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/SingleView/Textured/Dino_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/SingleView/Solid_Wireframe/Dino_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Dino/Render/SingleView/Solid_Wireframe/Dino_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_farmer",
+              "name": "Farmer",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/SingleView/Textured/Farmer_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/3View/Farmer_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/3View/Farmer_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/SingleView/Textured/Farmer_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/SingleView/Textured/Farmer_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/SingleView/Solid_Wireframe/Farmer_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Farmer/Render/SingleView/Solid_Wireframe/Farmer_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_ikan",
+              "name": "Ikan",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/SingleView/Textured/Ikan_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/3View/Ikan_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/3View/Ikan_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/SingleView/Textured/Ikan_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/SingleView/Textured/Ikan_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/SingleView/Solid_Wireframe/Ikan_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Ikan/Render/SingleView/Solid_Wireframe/Ikan_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_king",
+              "name": "King",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/SingleView/Textured/King_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/3View/King_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/3View/King_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/SingleView/Textured/King_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/SingleView/Textured/King_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/SingleView/Solid_Wireframe/King_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/King/Render/SingleView/Solid_Wireframe/King_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_phraoh",
+              "name": "Phraoh",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/SingleView/Textured/Phraoh_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/3View/Phraoh_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/3View/Phraoh_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/SingleView/Textured/Phraoh_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/SingleView/Textured/Phraoh_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/SingleView/Solid_Wireframe/Phraoh_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Phraoh/Render/SingleView/Solid_Wireframe/Phraoh_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_pilot",
+              "name": "Pilot",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/SingleView/Textured/Pilot_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/3View/Pilot_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/3View/Pilot_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/SingleView/Textured/Pilot_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/SingleView/Textured/Pilot_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/SingleView/Solid_Wireframe/Pilot_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pilot/Render/SingleView/Solid_Wireframe/Pilot_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_pinguin",
+              "name": "Pinguin",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/SingleView/Textured/Pinguin_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/3View/Pinguin_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/3View/Pinguin_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/SingleView/Textured/Pinguin_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/SingleView/Textured/Pinguin_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/SingleView/Solid_Wireframe/Pinguin_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pinguin/Render/SingleView/Solid_Wireframe/Pinguin_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_pulu_pulu",
+              "name": "Pulu Pulu",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/SingleView/Textured/Pulu_Pulu_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/3View/Pulu_Pulu_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/3View/Pulu_Pulu_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/SingleView/Textured/Pulu_Pulu_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/SingleView/Textured/Pulu_Pulu_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/SingleView/Solid_Wireframe/Pulu_Pulu_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Pulu_Pulu/Render/SingleView/Solid_Wireframe/Pulu_Pulu_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_racing",
+              "name": "Racing",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/SingleView/Textured/Racing_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/3View/Racing_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/3View/Racing_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/SingleView/Textured/Racing_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/SingleView/Textured/Racing_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/SingleView/Solid_Wireframe/Racing_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Racing/Render/SingleView/Solid_Wireframe/Racing_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_samurai",
+              "name": "Samurai",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/SingleView/Textured/Samurai_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/3View/Samurai_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/3View/Samurai_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/SingleView/Textured/Samurai_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/SingleView/Textured/Samurai_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/SingleView/Solid_Wireframe/Samurai_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Samurai/Render/SingleView/Solid_Wireframe/Samurai_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_sapi",
+              "name": "Sapi",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/SingleView/Textured/Sapi_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/3View/Sapi_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/3View/Sapi_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/SingleView/Textured/Sapi_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/SingleView/Textured/Sapi_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/SingleView/Solid_Wireframe/Sapi_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Sapi/Render/SingleView/Solid_Wireframe/Sapi_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_scout",
+              "name": "Scout",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/SingleView/Textured/Scout_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/3View/Scout_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/3View/Scout_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/SingleView/Textured/Scout_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/SingleView/Textured/Scout_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/SingleView/Solid_Wireframe/Scout_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Scout/Render/SingleView/Solid_Wireframe/Scout_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_singa",
+              "name": "Singa",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/SingleView/Textured/Singa_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/3View/Singa_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/3View/Singa_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/SingleView/Textured/Singa_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/SingleView/Textured/Singa_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/SingleView/Solid_Wireframe/Singa_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Singa/Render/SingleView/Solid_Wireframe/Singa_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_worker",
+              "name": "Worker",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/SingleView/Textured/Worker_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/3View/Worker_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/3View/Worker_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/SingleView/Textured/Worker_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/SingleView/Textured/Worker_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/SingleView/Solid_Wireframe/Worker_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Worker/Render/SingleView/Solid_Wireframe/Worker_FRONT_RIGHT_3_4.webp"
+              ]
+            },
+            {
+              "id": "boxy_zebra",
+              "name": "Zebra",
+              "cover": "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/SingleView/Textured/Zebra_FRONT_RIGHT_3_4.webp",
+              "images": [
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/3View/Zebra_3View_Textured.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/3View/Zebra_3View_Solid_Wireframe.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/SingleView/Textured/Zebra_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/SingleView/Textured/Zebra_FRONT_RIGHT_3_4.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/SingleView/Solid_Wireframe/Zebra_FRONT.webp",
+                "/assets/3d Assets/Stylized Character/BoxyCharacters/Zebra/Render/SingleView/Solid_Wireframe/Zebra_FRONT_RIGHT_3_4.webp"
+              ]
             }
           ]
         }

@@ -11,9 +11,22 @@ const GallerySection = ({ data }) => {
         cat.packs.map(pack => ({ ...pack, categoryId: cat.id, categoryName: cat.name }))
     );
 
+    // Custom gallery ordering: lower number = appears first
+    const galleryPriority = {
+        'basarnas-helicopter': 1,
+        'lolplay': 2,
+        'boxycharacters': 3,
+    };
+
+    const sortedPacks = [...allPacks].sort((a, b) => {
+        const prioA = galleryPriority[a.id] ?? 999;
+        const prioB = galleryPriority[b.id] ?? 999;
+        return prioA - prioB;
+    });
+
     const filteredPacks = activeFilter === 'all'
-        ? allPacks
-        : allPacks.filter(p => p.categoryId === activeFilter);
+        ? sortedPacks
+        : sortedPacks.filter(p => p.categoryId === activeFilter);
 
     const filters = [
         { id: 'all', label: 'All Assets' },
