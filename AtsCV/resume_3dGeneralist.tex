@@ -1,0 +1,187 @@
+%-------------------------
+% ATS-Optimized Resume — 3D Generalist Focus
+% Ardi Rudini
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Ardi Rudini} \\ \vspace{1pt}
+    \small +6285659001753 $|$ \href{mailto:ardirdeveloper@gmail.com}{\underline{ardirdeveloper@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/ardirdn/}{\underline{linkedin.com/in/ardirdn}} $|$
+    \href{https://ardigamedev.com/}{\underline{ardigamedev.com}}
+\end{center}
+
+
+%-----------SUMMARY-----------
+\section{Summary}
+  \small{
+    Versatile 3D Generalist with 7+ years of professional experience spanning modeling, texturing, rigging, environment art, and rendering across multiple engines and platforms. Founded and led a game studio that shipped 35+ titles with 15 million+ combined downloads and visits, personally creating the majority of 3D assets — from stylized low-poly characters to PBR-quality props and vehicles. Proficient in Blender (advanced), Maya, Substance Painter, Unity, Unreal Engine, and Roblox Studio. Experienced in building production pipeline tools in Python and C\# to automate retopology, texture baking, LOD generation, and batch rendering at scale.
+  }
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Universitas Pembangunan Nasional Veteran Jakarta}{Jakarta, Indonesia}
+      {Bachelor of Informatics}{Sep. 2019 -- Jul. 2023}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Founder \& Lead 3D Artist}{Sep. 2017 -- Present}
+      {Trimatra Studio}{West Java, Indonesia}
+      \resumeItemListStart
+        \resumeItem{Created all 3D assets — characters, props, environments, and vehicles — for 35+ shipped game titles across Google Play and Roblox, using Blender with atlas texturing and modular asset workflows.}
+        \resumeItem{Modeled, textured, and rigged 26+ unique animal characters and 50+ environment props for ``Juragan Fauna'' (100K+ downloads), employing stylized low-poly aesthetics with hand-painted atlas textures.}
+        \resumeItem{Produced full 3D art direction for ``Aku Si Juragan Empang'' (3.5M+ downloads): designed modular building systems, character rigs with blend shapes, and optimized all assets for mobile GPU budgets (under 50K triangles per scene).}
+        \resumeItem{Built a cinematic open-world mountain environment for ``Mount Nirwana'' (Roblox, 7M+ visits) using custom terrain sculpting, foliage scattering, volumetric fog, and atmospheric lighting to achieve a high-fidelity visual experience.}
+        \resumeItem{Designed and modeled a PBR helicopter asset (Basarnas-inspired) with full material breakdown: albedo, roughness, metallic, normal, and AO maps baked in Substance Painter at 4K resolution.}
+        \resumeItem{Created 100+ unique modular character variations (Animal Knight Series, Caveman Series, Fauna Characters) using a hot-swappable parts pipeline — heads, hair, shirts, pants, shoes — with LOD-aware visibility management.}
+        \resumeItem{Developed a complete Blender production add-on (BatchProcessPro) in Python that automates retopology, PBR baking, LOD generation, multi-view rendering, and batch export, reducing per-asset processing time from 30+ minutes to under 3 minutes.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Freelance 3D Artist \& Game Developer}{Feb. 2025 -- Present}
+      {Fiverr}{Remote}
+      \resumeItemListStart
+        \resumeItem{Designed and modeled 3D environments and character assets for a corporate metaverse game on Roblox, integrating a reward system that increased client engagement by 20\%.}
+        \resumeItem{Created stylized 3D assets and environments for 5+ gamification prototypes for a banking client, delivering production-ready models within 2-week sprint cycles.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\textbf{BatchProcessPro -- Blender Pipeline Automation Add-on} $|$ \emph{Python, Blender API}}{2024}
+          \resumeItemListStart
+            \resumeItem{Engineered Auto Retopology module: one-click remeshing with automatic UV unwrapping, converting high-poly sculpts to game-ready topology in seconds.}
+            \resumeItem{Built Auto Bake module: automated high-to-low-poly texture transfer for 6 PBR map types (Diffuse, Normal, Roughness, AO, Metallic, Height) with automatic cage creation and Principled BSDF shader node wiring.}
+            \resumeItem{Developed Auto Render module: generates multi-angle renders (Single, 3-View, 4-View Grid, Turntable) across 7+ shading modes, supporting batch operations on entire asset libraries.}
+            \resumeItem{Implemented Auto LOD generator with customizable reduction ratios, automatic hierarchy organization, and optional collider generation for game engine export.}
+            \resumeItem{Created Mask Map Tools for channel packing/unpacking compatible with Unity HDRP/URP and Unreal Engine ORM formats.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Modular Character Pipeline} $|$ \emph{Blender, Python, Atlas Texturing}}{2024}
+          \resumeItemListStart
+            \resumeItem{Architected a modular character system supporting hot-swappable body parts (head, hair, shirt, pants, shoes) with automatic body-part visibility rules, enabling rapid generation of 100+ unique character variations.}
+            \resumeItem{Built a Blender randomizer add-on in Python that automates character variant generation with LOD-aware toggling and keyword-based part categorization, reducing character setup time by 80\%.}
+            \resumeItem{Applied atlas texturing across all character variants, packing multiple material zones into single 1024x1024 atlases to minimize draw calls on mobile platforms.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{3D Asset Library -- Multi-Style Production} $|$ \emph{Blender, Substance Painter}}{2022 -- 2024}
+          \resumeItemListStart
+            \resumeItem{Produced a diverse library of production-ready 3D assets: stylized RPG characters (Animal Knight, Caveman), low-poly vehicles (motorcycle series), and PBR-quality models (helicopter), covering stylized, semi-realistic, and photorealistic art styles.}
+            \resumeItem{Established consistent naming conventions, LOD hierarchy (LOD0--LOD3), and render documentation for every asset, ensuring seamless handoff to game engine integration pipelines.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Multi-Engine Environment Art} $|$ \emph{Unreal Engine, Unity, Roblox Studio}}{2022 -- 2024}
+          \resumeItemListStart
+            \resumeItem{Designed and built 12+ complete environment scenes across 3 engines: realistic abandoned villages and temples (Unreal), stylized toon cities (Unity), and cinematic mountain landscapes (Roblox Studio).}
+            \resumeItem{Created hero assets, foliage sets, terrain materials, and atmospheric lighting setups for each environment, demonstrating versatility across realistic, stylized realistic, and low-poly art directions.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{3D Modeling \& Sculpting}{: Blender (Advanced), Maya, 3ds Max, Hard-Surface Modeling, Organic Modeling, Modular Asset Creation, Retopology} \\
+     \textbf{Texturing \& Materials}{: Substance Painter, Atlas Texturing, PBR Workflows, Hand-Painted Textures, UV Unwrapping, Mask Map Packing} \\
+     \textbf{Rigging \& Animation}{: Character Rigging, Blend Shapes, Armature Transfer, Basic Animation} \\
+     \textbf{Rendering \& Lighting}{: Eevee, Cycles, Lumen, Post-Processing, Cinemachine, Cinematic Lighting, HDRI Lighting} \\
+     \textbf{Game Engines}{: Unity (2D/3D), Unreal Engine (Blueprints, Landscape, Material Editor, Sequencer), Roblox Studio} \\
+     \textbf{Pipeline \& Tools}{: Python (Blender/Maya Plugins), C\# (Unity Editor Scripting), LOD Generation, Texture Baking, Batch Processing} \\
+     \textbf{Version Control}{: Git/GitHub, Perforce, Unity Collaborate}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

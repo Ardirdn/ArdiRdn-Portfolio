@@ -1,0 +1,136 @@
+[
+  {
+    "id": "detainedsouls",
+    "title": "Detained Souls",
+    "folder": "/assets/Ui Ux/DetainedSouls",
+    "images": [
+      "/assets/Ui Ux/DetainedSouls/DanuFeedNew.webp",
+      "/assets/Ui Ux/DetainedSouls/DiscordBanner.webp",
+      "/assets/Ui Ux/DetainedSouls/MainMenu1.webp",
+      "/assets/Ui Ux/DetainedSouls/TrailerFeed1.webp",
+      "/assets/Ui Ux/DetainedSouls/TrailerFeednew.webp"
+    ]
+  },
+  {
+    "id": "dropstackball",
+    "title": "Drop Stack Ball",
+    "folder": "/assets/Ui Ux/DropStackBall",
+    "images": [
+      "/assets/Ui Ux/DropStackBall/Asset 1.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 41.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 43-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 43.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 44-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 44.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 45-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 45.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 46.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 47-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 47.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 48-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 48.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 49-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 49.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 50-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 50.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 51-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 51.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 52-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 52.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 53-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 53.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 54-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 54.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 55-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 55.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 56-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 56.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 57-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 57.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 58-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 58.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 59-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 59.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 61-portrait.webp",
+      "/assets/Ui Ux/DropStackBall/Asset 61.webp"
+    ]
+  },
+  {
+    "id": "juraganempang",
+    "title": "Juragan Empang",
+    "folder": "/assets/Ui Ux/JuraganEmpang",
+    "images": [
+      "/assets/Ui Ux/JuraganEmpang/Banner.webp",
+      "/assets/Ui Ux/JuraganEmpang/FeaturedGraphic.webp",
+      "/assets/Ui Ux/JuraganEmpang/Icon512.webp"
+    ]
+  },
+  {
+    "id": "juraganfauna",
+    "title": "Juragan Fauna",
+    "folder": "/assets/Ui Ux/JuraganFauna",
+    "images": [
+      "/assets/Ui Ux/JuraganFauna/JuraganFaunaBanner.webp"
+    ]
+  },
+  {
+    "id": "juragankosan",
+    "title": "Juragan Kosan",
+    "folder": "/assets/Ui Ux/JuraganKosan",
+    "images": [
+      "/assets/Ui Ux/JuraganKosan/Asset 2.webp"
+    ]
+  },
+  {
+    "id": "juragannasipadang",
+    "title": "Juragan Nasi Padang",
+    "folder": "/assets/Ui Ux/JuraganNasiPadang",
+    "images": [
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 32.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 33.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 34.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 35.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 36.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 37.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 38.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 39.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 40.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 41.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 42.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 43.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 44.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 45.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 46.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 47.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 48.webp",
+      "/assets/Ui Ux/JuraganNasiPadang/Asset 49.webp"
+    ]
+  },
+  {
+    "id": "legendaryfishhunter",
+    "title": "Legendary Fish Hunter",
+    "folder": "/assets/Ui Ux/LegendaryFIshHunter",
+    "images": [
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 23.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 24.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 25.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 26.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 27.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 28.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 29.webp",
+      "/assets/Ui Ux/LegendaryFIshHunter/Asset 30.webp"
+    ]
+  },
+  {
+    "id": "thedeathpath",
+    "title": "The Death Path",
+    "folder": "/assets/Ui Ux/TheDeathPath",
+    "images": [
+      "/assets/Ui Ux/TheDeathPath/Asset 4.webp",
+      "/assets/Ui Ux/TheDeathPath/Asset 5.webp",
+      "/assets/Ui Ux/TheDeathPath/Asset 6.webp",
+      "/assets/Ui Ux/TheDeathPath/Asset 7.webp",
+      "/assets/Ui Ux/TheDeathPath/Asset 8.webp"
+    ]
+  }
+]

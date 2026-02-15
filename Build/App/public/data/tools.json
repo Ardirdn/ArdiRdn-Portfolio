@@ -1,0 +1,272 @@
+[
+  {
+    "id": "batch-process-pro",
+    "Title": "BatchProcessPro by Ardirdn",
+    "TechStack": [
+      "Blender",
+      "Python",
+      "Blender API"
+    ],
+    "Description": "BatchProcessPro is a powerful all-in-one Blender add-on designed to dramatically accelerate game asset production pipelines. It automates repetitive technical tasks — from retopology and texture baking to rendering and LOD generation — allowing artists to focus on creativity rather than manual labor. Every feature can run independently or together in a single batch operation, processing multiple objects at once with just one click.",
+    "Features": [
+      "One-click Auto Retopology with automatic UV unwrapping for clean, optimized meshes.",
+      "Auto Transfer Texture bakes Diffuse, Normal, Roughness, AO, Metallic, and Height maps from high-poly to low-poly with automatic material setup.",
+      "Auto Render with multiple camera presets (Single View, 3 Views, 4 Views, Turntable) and various shading modes.",
+      "Auto LOD generates multiple Levels of Detail with customizable reduction ratios and organized hierarchy.",
+      "Mask Map Tools for packing and unpacking channel maps (Unity HDRP/URP & Unreal ORM compatible).",
+      "Full Batch Mode processes multiple objects through any combination of operations in one go.",
+      "Cleanup Tools, Export Tools, and Armature Transfer for a complete production pipeline."
+    ],
+    "Img": "/assets/Addons/BatchProcessProByArdiRdn/Thumbnail.png",
+    "Screenshots": [
+      "/assets/Addons/BatchProcessProByArdiRdn/Preview_BatchProcessPro1.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Thumbnail.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoRemesh.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoLod.png"
+    ],
+    "Order": 99,
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "Auto Retopology",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoRemesh.png",
+        "Texts": [
+          "Auto Retopology allows you to perform retopology with a single click. The add-on automatically handles the complex technical process by generating a cleaner, optimized mesh through intelligent remeshing, followed by automatic UV unwrapping — producing game-ready topology without manual intervention.",
+          "This feature significantly improves workflow efficiency when converting high-poly sculpts into optimized low-poly meshes. It is especially useful for creating game-ready assets and real-time applications, eliminating hours of tedious manual retopology work so artists can focus entirely on creative output."
+        ]
+      },
+      {
+        "id": "Content2",
+        "Title": "Auto Transfer Texture",
+        "Images": [
+          "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoBake.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake2.png"
+        ],
+        "Texts": [
+          "Auto Transfer Texture automatically bakes and transfers textures from a high-poly model to a newly created low-poly mesh. The add-on supports baking multiple PBR map types including Diffuse (Base Color), Roughness, Normal Map, Ambient Occlusion, Metallic, and Height/Displacement maps — all configurable through an intuitive panel.",
+          "After the baking process is complete, the add-on automatically creates the material, configures all required shader nodes, and assigns everything to the low-poly object. The entire pipeline — from bake to material setup — executes with just one click, making it ideal for game asset production where high-resolution details must be preserved on optimized geometry.",
+          "You can also use your own custom UV channel for the baking process, giving you full control over how textures are projected onto your low-poly mesh. This flexibility is especially valuable when working with assets that require specific UV layouts for tiling, atlasing, or engine-specific requirements."
+        ]
+      },
+      {
+        "id": "Content3",
+        "Title": "Automatic Material & Shader Setup",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake.png",
+        "Texts": [
+          "Once textures are baked, BatchProcessPro automatically constructs the complete shader node tree in Blender's Shader Editor. Diffuse, AO, Roughness, Normal, and Metallic maps are all connected to the correct inputs of the Principled BSDF shader — no manual node wiring required.",
+          "This automated material setup ensures consistent, production-quality results across all your assets. The shader configuration follows industry-standard PBR workflows, so exported assets integrate seamlessly into game engines like Unity and Unreal Engine."
+        ]
+      },
+      {
+        "id": "Content4",
+        "Title": "Auto Render",
+        "Layout": "gallery",
+        "Images": [
+          "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoRender.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRender1.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRender2.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRener3.png"
+        ],
+        "Texts": [
+          "Auto Render enables automatic rendering of selected objects with a comprehensive set of view and shading options. It provides multiple camera presets including Single View, 3 Views, 4 View Grid, and Turntable Sequence (automatic rotating animation) — each fully configurable for resolution and viewport angles.",
+          "The add-on supports several shading modes such as Material Preview, Normal Preview, Solid, Textured, Solid Wireframe, and Textured Wireframe. This feature eliminates repetitive manual camera and render setup, ensuring consistent, professional-looking results perfect for portfolios, client presentations, marketplace listings, or asset documentation."
+        ]
+      },
+      {
+        "id": "Content5",
+        "Title": "Auto LOD Generation",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Preview_LODGenerator.png",
+        "Texts": [
+          "Auto LOD automatically generates multiple Levels of Detail (LOD) from any selected object. The add-on creates multiple mesh variations based on a specified LOD count and customizable reduction ratio, automatically adds an Empty object as the parent organizer, and systematically renames all generated LOD objects for clean project hierarchy.",
+          "This feature is essential for optimization in game development and real-time environments, where multiple detail levels are required to maintain performance without sacrificing visual quality at close range. Optional collider generation further streamlines the export pipeline for game engines."
+        ]
+      },
+      {
+        "id": "Content6",
+        "Title": "LOD Showcase — Progressive Detail Reduction",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoLod.png",
+        "Texts": [
+          "The image above demonstrates BatchProcessPro's Auto LOD in action — three automatically generated LOD levels from a single high-poly character model. Each successive LOD reduces polygon count while maintaining the overall silhouette and visual integrity of the asset.",
+          "The progressive reduction ensures that distant objects render efficiently without noticeable quality loss, which is critical for maintaining stable frame rates in open-world games, VR experiences, and other performance-sensitive real-time applications."
+        ]
+      },
+      {
+        "id": "Content7",
+        "Title": "Batch Actions — Process Everything at Once",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Preview_BatchProcessPro2.png",
+        "Texts": [
+          "All features in BatchProcessPro can function independently, but the true power of this add-on lies in its Batch Mode. Select multiple objects, choose any combination of operations — Cleanup, Remesh, Bake, LOD, Render, Export — and the add-on will automatically perform every selected operation on each object without any manual repetition.",
+          "The main purpose of this add-on is to eliminate repetitive technical work and accelerate production pipelines. Whether you're preparing a single hero asset or batch-processing an entire library of game props, BatchProcessPro handles the heavy lifting so you can focus on asset quality and creative direction."
+        ]
+      },
+      {
+        "id": "Content8",
+        "Title": "Mask Map Tools — Engine-Ready Channel Packing",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Preview_MaskMap.png",
+        "Texts": [
+          "BatchProcessPro includes dedicated Mask Map Tools for packing and unpacking channel maps used by modern game engines. Pack Metallic, AO, Roughness, Smoothness, and Detail/Height into a single texture — compatible with both Unity HDRP/URP and Unreal Engine ORM formats.",
+          "The Unpack feature reverses the process, extracting individual channels from existing mask maps for editing or re-purposing. Automatic Smoothness generation from Roughness maps is also supported, saving additional manual steps in the texture pipeline."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "auto-render",
+    "Title": "Auto Render — Automated Multi-View Rendering",
+    "TechStack": [
+      "Blender",
+      "Python",
+      "Blender API"
+    ],
+    "Description": "Auto Render is a specialized Blender add-on feature that automates the entire rendering pipeline for 3D assets. Instead of manually positioning cameras, adjusting shading modes, and rendering each view one by one, Auto Render handles everything in a single operation — producing a complete library of high-quality preview images across multiple angles and shading styles.",
+    "Features": [
+      "Multiple camera presets: Single View, 3 Views, 4 View Grid, and Turntable Sequence.",
+      "Supports 7+ shading modes: Solid, Solid Wireframe, Textured, Textured Wireframe, Normal, Material Preview, and more.",
+      "Configurable viewport angles: Front, Back, Left, Right, Top, and 3/4 Front-Right.",
+      "Renders both High-Poly and Low-Poly models side-by-side for comparison.",
+      "Adjustable wireframe opacity for wireframe overlay modes.",
+      "Custom output resolution per render mode.",
+      "Batch-compatible — works seamlessly with BatchProcessPro's batch pipeline."
+    ],
+    "Img": "/assets/Addons/BatchProcessProByArdiRdn/AutoRenderPreview2.png",
+    "Screenshots": [
+      "/assets/Addons/BatchProcessProByArdiRdn/AutoRenderPreview1.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/AutoRenderPreview2.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/AutoRender1.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/AutoRender2.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/AutoRener3.png"
+    ],
+    "Order": 98,
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "The Problem — Repetitive Render Setups",
+        "Texts": [
+          "Rendering 3D assets for portfolios, marketplaces, or client presentations typically requires setting up cameras at multiple angles, switching between shading modes, adjusting render settings, and exporting each image manually. For a single asset, this can take 15–30 minutes. For a library of 50+ assets, the process becomes an enormous time sink.",
+          "Auto Render was built to solve this exact pain point. With a single click, it generates a complete set of professionally framed renders across all the views and shading modes you need — freeing artists to spend their time on what actually matters: creating great assets."
+        ]
+      },
+      {
+        "id": "Content2",
+        "Title": "Render Panel — Full Control, Zero Complexity",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoRender.png",
+        "Texts": [
+          "The Render Tools panel gives you full control over every aspect of the auto-render pipeline. Select which models to render (High-Poly, Low-Poly, or both), choose from 7+ shading modes with live preview toggles, configure multi-view presets (Single, 3-View, 4-View Grid), and set custom viewport angles — all from a single, clean interface.",
+          "Every setting is designed to be toggled on or off with checkboxes, making it incredibly fast to configure. Once your preferences are set, they persist across sessions — so you only set it up once and render endlessly."
+        ]
+      },
+      {
+        "id": "Content3",
+        "Title": "Multi-Angle Normal Map Renders",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/AutoRenderPreview1.png",
+        "Texts": [
+          "Auto Render generates renders from every configurable angle — Front, Back, Left, Right, Top, and 3/4 Front-Right — in a single pass. The example above shows a Normal Map shading mode render across 6 viewports, producing a complete visual reference for the asset's surface detail and topology.",
+          "This is particularly valuable for asset store listings, technical documentation, and quality assurance pipelines where consistent, comprehensive visual coverage is essential."
+        ]
+      },
+      {
+        "id": "Content4",
+        "Title": "Every Shading Mode, Every Angle — Auto-Generated",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/AutoRenderPreview2.png",
+        "Texts": [
+          "The real power of Auto Render shines when rendering across multiple shading modes simultaneously. In a single batch operation, the add-on can produce Material Preview, Textured, Normal, Solid, Solid Wireframe, and Textured Wireframe renders for both High-Poly and Low-Poly variants — each in 3-View layout.",
+          "The image above shows just a fraction of what a single Auto Render pass produces. Each render is automatically named with a clear convention (Model_View_ShadeMode) and saved to your specified output directory, making asset management effortless."
+        ]
+      },
+      {
+        "id": "Content5",
+        "Title": "Render Results Showcase",
+        "Layout": "gallery",
+        "Images": [
+          "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoRender.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRender1.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRender2.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/AutoRener3.png"
+        ],
+        "Texts": [
+          "From the Render Tools panel to the final output — every render above was generated automatically. Normal maps, solid shading, and textured views are all produced without touching a single camera or render button manually.",
+          "Whether you're a solo artist preparing marketplace assets or a studio lead standardizing render deliverables across a team, Auto Render ensures every asset gets the same professional treatment in a fraction of the time."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "auto-bake",
+    "Title": "Auto Bake — One-Click Texture Transfer",
+    "TechStack": [
+      "Blender",
+      "Python",
+      "Blender API"
+    ],
+    "Description": "Auto Bake is a specialized Blender add-on feature that automates the entire texture baking pipeline — from high-poly to low-poly transfer, PBR map generation, UV handling, to full material and shader node setup. What used to take 30+ minutes of manual configuration now happens with a single click.",
+    "Features": [
+      "Bakes Diffuse, Normal, Roughness, Ambient Occlusion, Metallic, and Height/Displacement maps.",
+      "Automatic cage object creation with adjustable inflation for precise baking.",
+      "Configurable texture resolution up to 4096×4096.",
+      "UV Angle Limit control for automatic UV unwrapping.",
+      "Auto-generates Mask Maps for Unity HDRP/URP and Unreal ORM pipelines.",
+      "Automatically constructs complete Principled BSDF shader node trees.",
+      "Supports custom UV channels for specialized baking workflows.",
+      "Batch-compatible — bake entire asset libraries in one go."
+    ],
+    "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake.png",
+    "Screenshots": [
+      "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoBake.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake2.png",
+      "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoRemesh.png"
+    ],
+    "Order": 97,
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "The Challenge — Manual Baking is Slow and Error-Prone",
+        "Texts": [
+          "Texture baking is one of the most technically demanding steps in any game asset pipeline. It requires precise UV setup, cage configuration, selecting the right map types, adjusting resolution settings, running the bake, and then manually connecting every resulting texture to the correct shader node input. A single mistake at any step can produce artifacts that require starting over.",
+          "Auto Bake eliminates this entire workflow bottleneck. It handles every step — from cage creation to final shader wiring — automatically, producing production-ready PBR materials with zero manual node editing."
+        ]
+      },
+      {
+        "id": "Content2",
+        "Title": "Baking Panel — Intuitive & Powerful",
+        "Images": [
+          "/assets/Addons/BatchProcessProByArdiRdn/Preview_AutoBake.png",
+          "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake2.png"
+        ],
+        "Texts": [
+          "The Baking Tools panel provides a clean, organized interface for configuring every aspect of the baking process. Set your texture resolution, UV angle limit, cage settings, and select which PBR maps to bake — all with simple checkboxes and sliders.",
+          "The panel on the left controls the baking configuration, while the output on the right shows the automatically generated texture maps: Ambient Occlusion, Roughness, Normal Map, and Diffuse — each properly named and ready for export to any game engine.",
+          "You can also use your own custom UV channel for the baking process, giving you full control over how textures are projected onto your low-poly mesh. This flexibility is critical when working with assets that require specific UV layouts for tiling, atlasing, or engine-specific requirements."
+        ]
+      },
+      {
+        "id": "Content3",
+        "Title": "Automatic Shader Node Setup",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoBake.png",
+        "Texts": [
+          "After baking is complete, Auto Bake doesn't stop at generating texture files. It automatically constructs a complete Principled BSDF shader node tree in Blender's Shader Editor — connecting Diffuse to Base Color, AO through a Multiply node, Roughness, Normal Map, and Metallic to their correct inputs.",
+          "This means the low-poly model is immediately render-ready with a physically accurate PBR material. No manual node wiring, no forgotten connections, no incorrect color space settings — everything is configured to industry-standard specifications automatically."
+        ]
+      },
+      {
+        "id": "Content4",
+        "Title": "Before & After — High-Poly to Optimized Low-Poly",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Showcase_AutoRemesh.png",
+        "Texts": [
+          "Auto Bake works hand-in-hand with Auto Retopology. The image above shows the original high-poly sculpt alongside the automatically retopologized low-poly version. Combined with texture baking, the low-poly mesh retains all the visual detail of the original while being fully optimized for real-time rendering.",
+          "This combination of retopology + baking is the backbone of every modern game art pipeline, and Auto Bake makes the entire process accessible with minimal technical overhead — from sculpt to game-ready in minutes, not hours."
+        ]
+      },
+      {
+        "id": "Content5",
+        "Title": "The Result — Production-Ready PBR Assets",
+        "Img": "/assets/Addons/BatchProcessProByArdiRdn/Thumbnail.png",
+        "Texts": [
+          "The final result speaks for itself. Starting from a high-poly sculpt, Auto Bake + Auto Retopology produces a fully textured, properly shaded, game-ready asset with multiple render views — all generated automatically. Diffuse color, surface detail from Normal maps, realistic shading from AO and Roughness — every aspect of the material is preserved.",
+          "Whether you're preparing assets for Unity, Unreal Engine, Godot, or any other real-time engine, Auto Bake ensures your baked outputs are consistent, professional, and immediately usable. Combined with BatchProcessPro's batch mode, you can process entire asset libraries with the same level of quality — at scale."
+        ]
+      }
+    ]
+  }
+]
