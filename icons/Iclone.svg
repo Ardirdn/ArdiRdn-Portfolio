@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 814.7 762.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #020202;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="41.83" y="38.28" width="650.8" height="650.8" rx="131.57" ry="131.57"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="41.83" y="38.28" width="650.8" height="650.8"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-2" x="173.67" y="524.35" width="384.73" height="133.94"/>
+    </clipPath>
+    <image id="image" width="2000" height="2000" xlink:href="../iclone.webp"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-5">
+      <g class="cls-4">
+        <use transform="translate(0 13.48) scale(.37)" xlink:href="#image"/>
+        <rect class="cls-1" x="71.2" y="524.35" width="558.21" height="149.22"/>
+        <g class="cls-3">
+          <use transform="translate(65.62) scale(.37)" xlink:href="#image"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
