@@ -1,0 +1,930 @@
+[
+  {
+    "id": "AkuSiJuraganEmpang",
+    "Downloads": 3500000,
+    "Description": "Build and manage your dream fish pond in Aku Si Juragan Empang! Inherit Abah’s legacy, farm fish, serve visitors, and expand your business with exciting features, dynamic weather, and engaging challenges. Start your journey today!",
+    "Screenshots": [
+      "/assets/game/AkuSiJuraganEmpang/JEBanner.webp",
+      "/assets/game/AkuSiJuraganEmpang/JEFeatured.webp",
+      "/assets/game/AkuSiJuraganEmpang/JEIcon.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS1.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS2.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS3.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS4.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS5.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS6.webp",
+      "/assets/game/AkuSiJuraganEmpang/JESS7.webp"
+    ],
+    "Order": 9999,
+    "Title": "Aku si Juragan Empang",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Features": [
+      "Manage and grow the family fish pond business.",
+      "Shop for fish and supplies at Pak Kumis’ store.",
+      "Farm fish efficiently and maximize their growth potential.",
+      "Serve visitors and create an enjoyable fishing experience.",
+      "Enjoy dynamic weather, missions, and customizable features."
+    ],
+    "WebPage": "https://trimatra.io/aku-si-juragan-empang",
+    "MonthDeveloped": 5,
+    "StorePage": "https://play.google.com/store/apps/details?id=com.TrimatraKajew.Empang&hl=id",
+    "Img": "/assets/game/AkuSiJuraganEmpang/JEFeatured.webp",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "Inherit and Manage the Family Fish Pond",
+        "Img": "/assets/game/AkuSiJuraganEmpang/JESS5.webp",
+        "Texts": [
+          "Take over the family fish pond and learn directly from Abah how to manage it effectively. As the next in line, you are tasked with upholding the family tradition of fish farming while innovating to meet modern challenges. Master fish farming techniques, understand the nuances of maintaining water quality, and plan long-term strategies to expand your operations. Build your fish pond into a bustling business that attracts visitors from far and wide, while honoring the legacy passed down through generations."
+        ]
+      },
+      {
+        "id": "Content2",
+        "Title": "Shop with Pak Kumis",
+        "Texts": [
+          "Visit Pak Kumis’ store to stock up on fish and pellets. Pak Kumis offers a variety of high-quality supplies to ensure your fish grow healthy and strong. From essential nutrients to specialized fish breeds, his shop has everything you need to sustain and grow your pond. Build a strong relationship with Pak Kumis, and you might even unlock exclusive items or discounts. Regularly visiting his store is crucial to keeping your pond stocked and your business running smoothly."
+        ],
+        "Img": "/assets/game/AkuSiJuraganEmpang/JESS2.webp"
+      },
+      {
+        "id": "Content3",
+        "Title": "Efficient Fish Farming",
+        "Texts": [
+          "From buying fish seedlings to nurturing them to adulthood, you’re in charge of the entire fish farming process. Learn to optimize your resources by selecting the right fish breeds for your pond size and environmental conditions. Implement feeding schedules and monitor fish health to ensure maximum growth. As you progress, discover advanced farming techniques such as breeding high-value fish or managing multiple ponds simultaneously. Each decision you make impacts the success of your fish farming operations and the satisfaction of your visitors."
+        ],
+        "Img": "/assets/game/AkuSiJuraganEmpang/JESS7.webp"
+      },
+      {
+        "id": "Content4",
+        "Texts": [
+          "Visitors will queue up at your pond’s ticket booth to enjoy fishing. Create an inviting and enjoyable atmosphere by maintaining your pond and providing amenities that enhance their experience. Offer comfortable seating, clean facilities, and engaging activities to keep your visitors entertained. The happier your visitors are, the more likely they are to return and spread the word about your pond. Make it a priority to cater to their needs and turn your fish pond into a popular destination for fishing enthusiasts."
+        ],
+        "Img": "/assets/game/AkuSiJuraganEmpang/JESS3.webp",
+        "Title": "Provide Excellent Service to Visitors"
+      },
+      {
+        "id": "Content5",
+        "Title": "Exciting Additional Features",
+        "Img": "/assets/game/AkuSiJuraganEmpang/JESS4.webp",
+        "Texts": [
+          "Experience various exciting additions such as dynamic time changes (morning, afternoon, evening, night), rainy weather, apartments, new missions, emotes, NPCs like the pecel lele and satay vendors, and customizable character and boat skins. These features add depth and variety to the gameplay, allowing you to immerse yourself fully in the world of Aku Si Juragan Empang. Whether it’s managing your pond during a sudden rainstorm or interacting with new characters who bring their own unique challenges and rewards, there’s always something new to discover and enjoy.",
+          "Why Play Aku Si Juragan Empang? This game blends strategy, management, and simulation into one enjoyable package. With attractive graphics and deep gameplay, you’ll feel the thrill of becoming a true fish pond tycoon. Dive into a world where every decision matters, from choosing the right fish breeds to designing an unforgettable experience for your visitors. The game’s balance of challenge and creativity ensures hours of engaging play. Are you ready to take on Abah’s legacy and build a successful fish pond business?",
+          "Start Your Journey Today! Download Aku Si Juragan Empang now and begin your adventure in building and managing your dream fish pond. Become the best fish pond tycoon and enjoy the challenges and rewards along the way!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "AkuSiJuraganKosan",
+    "Features": [
+      "Handle finances, tenant needs, and property upgrades for a successful boarding house.",
+      "Manage tenant satisfaction to maintain a steady income and good reputation.",
+      "Upgrade and expand your boarding house with various facilities and design options.",
+      "Deal with emergencies like power outages, plumbing issues, and tenant disputes.",
+      "Enjoy vibrant, cartoon-style visuals with an intuitive, easy-to-use interface."
+    ],
+    "WebPage": "https://trimatra.io/aku-si-juragan-kosan",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Downloads": "500000",
+    "Description": "A fun, challenging, and highly addictive mobile simulation game where you get to experience the thrill of managing your very own boarding house. In this game, you’ll take on the role of a property manager, tasked with overseeing everything from maintaining your building to managing tenants and making strategic upgrades to grow your business.",
+    "Screenshots": [
+      "/assets/game/AkuSiJuraganKosan/JKFeatured.webp",
+      "/assets/game/AkuSiJuraganKosan/JKIcon.webp",
+      "/assets/game/AkuSiJuraganKosan/JKSS1.webp",
+      "/assets/game/AkuSiJuraganKosan/JKSS2.webp",
+      "/assets/game/AkuSiJuraganKosan/JKSS3.webp",
+      "/assets/game/AkuSiJuraganKosan/JKSS4.webp",
+      "/assets/game/AkuSiJuraganKosan/JKSS5.webp"
+    ],
+    "MonthDeveloped": "4",
+    "Title": "Aku si Juragan Kosan",
+    "StorePage": "https://play.google.com/store/apps/details?id=com.TrimatraKajew.Kosan&hl=id",
+    "Order": 9998,
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Img": "/assets/game/AkuSiJuraganKosan/JKFeatured.webp",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Texts": [
+          "In Aku si Juragan Kosan, players are put in charge of running a boarding house. The goal is to ensure that the property is in top condition, tenants are satisfied, and the business flourishes. From small maintenance tasks to large-scale upgrades, this game tests your strategic thinking and management skills as you work to build a successful boarding house empire.",
+          "As you progress, you’ll face various challenges such as dealing with tenant complaints, repairing damages, and handling unexpected emergencies. The more you grow your property, the more you’ll have to manage. It’s a fun and rewarding experience for anyone who loves simulation and management games."
+        ]
+      },
+      {
+        "id": "Content2",
+        "Img": "/assets/game/AkuSiJuraganKosan/JKSS1.webp",
+        "Text": "Aku si Juragan Kosan offers a deep and realistic management experience. You’ll have to balance your finances, handle tenant needs, and upgrade your property to stay competitive. The game involves real-time decision-making, where every choice you make will impact the success of your boarding house.",
+        "Title": "Realistic Boarding House Management"
+      },
+      {
+        "id": "Content3",
+        "Text": "As you progress, you’ll be able to upgrade and expand your building. From adding new rooms to improving existing facilities, customizing the look and feel of your boarding house is key to attracting the best tenants. Want to add a cozy lounge area or a high-end gym? The choice is yours!",
+        "Title": "Customize and Upgrade Your Property",
+        "Img": "/assets/game/AkuSiJuraganKosan/JKSS3.webp"
+      },
+      {
+        "id": "Content4",
+        "Texts": [
+          "Different tenants have different needs, and it’s up to you to manage them effectively. Some tenants might need more attention than others, while others could cause trouble if not kept happy. Maintaining a good relationship with your tenants is crucial for keeping your reputation intact and ensuring a steady stream of income.",
+          "As the manager, you’ll also face a variety of challenges, including power outages, plumbing problems, and tenant disputes. How you handle these situations will determine the long-term success of your boarding house. Being able to think on your feet and prioritize tasks is a skill that will serve you well in Aku si Juragan Kosan.",
+          "The game features vibrant, cartoon-style graphics that make managing your property feel fun and engaging. The user interface is intuitive and easy to navigate, so you can focus on managing your boarding house rather than getting bogged down by complicated controls.",
+          "As you advance through the game, you’ll unlock new upgrades, new types of tenants, and even new challenges. These features keep the gameplay fresh and give you new goals to aim for, ensuring that there’s always something exciting to look forward to.",
+          "Aku si Juragan Kosan is the ultimate game for fans of management simulations. With its strategic gameplay, tenant management, and property customization, it offers a rich and immersive experience that will appeal to both casual and hardcore gamers. Whether you’re looking to pass the time or take on a more complex challenge, Aku si Juragan Kosan delivers all the excitement you need."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MountNirwana",
+    "Description": "Mount Nirwana is an atmospheric adventure platformer where players embark on a challenging yet tranquil journey to the summit of a scenic tropical mountain known as the \"roof of heaven.\" Designed to be a rich social and educational experience, the game features a stunning high-fidelity environment that captures the beauty of a hidden paradise, immersing players in a calming and visually rewarding hike. The experience is enhanced with a persistent in-game adventure journal for tracking progress, collectible educational facts about mountaineering to enrich player knowledge, and core multiplayer mechanics that encourage cooperative exploration, allowing friends to create shared memories as they ascend together.\n",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Screenshots": [
+      "/assets/game/MountNirwana/mt_nirwana_1.webp",
+      "/assets/game/MountNirwana/mt_nirwana_2.webp",
+      "/assets/game/MountNirwana/mt_nirwana_3.webp",
+      "/assets/game/MountNirwana/mt_nirwana_4.webp",
+      "/assets/game/MountNirwana/mt_nirwana_5.webp",
+      "/assets/game/MountNirwana/mt_nirwana_6.webp",
+      "/assets/game/MountNirwana/mt_nirwana_7.webp",
+      "/assets/game/MountNirwana/mt_nirwana_8.webp"
+    ],
+    "Img": "/assets/game/MountNirwana/mt_nirwana_1.webp",
+    "Title": "Mount Nirwana",
+    "WebPage": "https://trimatra.io/project/mount-nirwana",
+    "Downloads": 7000000,
+    "MonthDeveloped": 1,
+    "StorePage": "https://www.roblox.com/id/games/106386957111185",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Features": [
+      "Features high-definition visuals designed to create an immersive and tranquil atmosphere.",
+      "A persistent journal feature tracks achievements and creates a personalized adventure log.",
+      "Players collect educational articles about mountaineering to enhance their real-world knowledge.",
+      "Social features enable friends to explore the game's world together cooperatively."
+    ],
+    "Order": 9998,
+    "Contents": []
+  },
+  {
+    "id": "JuraganFauna",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Img": "/assets/game/JuraganFauna/JFFeatured.webp",
+    "StorePage": "https://play.google.com/store/apps/details?id=com.Trimatra.JuraganFauna&hl=id",
+    "Order": 9997,
+    "Features": [
+      "Manage a zoo business from scratch with strategic planning.",
+      "Buy and sell items for zoo upgrades and decorations.",
+      "Recruit workers to handle zoo operations efficiently.",
+      "Interact with unique vendors offering local food specialties.",
+      "Complete missions and challenges to grow your zoo empire."
+    ],
+    "Title": "Juragan Fauna",
+    "Description": "Juragan Fauna is a zoo simulation game where players take on the role of a zoo owner. Featuring 26+ animals and various unique decorations, Juragan Fauna has been downloaded by over 100,000 people on the Play Store.",
+    "Screenshots": [
+      "/assets/game/JuraganFauna/JFBanner.webp",
+      "/assets/game/JuraganFauna/JFFeatured.webp",
+      "/assets/game/JuraganFauna/JFSS1.webp",
+      "/assets/game/JuraganFauna/JFSS2.webp",
+      "/assets/game/JuraganFauna/JFSS3.webp",
+      "/assets/game/JuraganFauna/JFSS4.webp"
+    ],
+    "MonthDeveloped": 5,
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "WebPage": "https://trimatra.io/juragan-fauna",
+    "Downloads": 100000,
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "Build, Manage, and Thrive as a Zoo Tycoon",
+        "Texts": [
+          "Step into the exciting world of Juragan Fauna, where you become the mastermind behind a thriving zoo business. Start from scratch, borrow initial capital, and transform your dream into a flourishing wildlife empire. With engaging gameplay, strategic management, and a vibrant world filled with animals, vendors, and visitors, Juragan Fauna offers an unforgettable simulation experience for players of all ages."
+        ],
+        "Vid": "https://youtu.be/TeFmVMtdsSU"
+      },
+      {
+        "id": "Content2",
+        "Title": "Manage and Grow Your Zoo",
+        "Texts": [
+          "Take charge as the owner of a zoo, making critical decisions to expand and improve your facilities. From designing enclosures to organizing zoo attractions, your management skills will shape the success of your business."
+        ],
+        "Img": "/assets/game/JuraganFauna/JFSS3.webp"
+      },
+      {
+        "id": "Content3",
+        "Title": "Recruit and Coordinate Workers",
+        "Texts": [
+          "Build a team of professionals to maintain the daily operations of your zoo. Hire cleaners, security staff, ticketing personnel, and animal keepers to ensure a smooth and enjoyable experience for visitors and animals alike."
+        ],
+        "Img": "/assets/game/JuraganFauna/JFSS2.webp"
+      },
+      {
+        "id": "Content4",
+        "Img": "/assets/game/JuraganFauna/JFSS1.webp",
+        "Texts": [
+          "Attract and entertain visitors by offering a well-maintained and visually stunning zoo. Provide engaging activities, showcase diverse animal species, and ensure customer satisfaction to keep visitors returning for more.",
+          "Juragan Fauna combines strategy, creativity, and fun into one immersive game. Whether you're designing animal habitats, solving operational challenges, or enjoying the interactions with vendors and visitors, every aspect of the game is crafted to deliver an engaging experience. Test your entrepreneurial skills, unleash your creativity, and create a zoo that's admired by all. Are you ready to become the best zoo tycoon?",
+          "Start Your Journey Today! Download Juragan Fauna now and embark on the adventure of a lifetime. Build your zoo, manage your resources, and take your place as the ultimate Juragan Fauna!"
+        ],
+        "Title": "Create an Unforgettable Visitor Experience"
+      }
+    ]
+  },
+  {
+    "id": "LegendaryFishHunter",
+    "Description": "Legendary Fish Hunter is an exciting mobile game that takes you deep into the world of fishing, filled with challenges, legendary fish to catch, and, of course, terrifying sea monsters to battle! If you love adventure, fishing, and battling fierce creatures, this game is perfect for you. Dive into a thrilling aquatic world where every catch is a victory, and every battle could lead to epic rewards.",
+    "WebPage": "https://trimatra.io/legendary-fish-hunter",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Downloads": 100000,
+    "Screenshots": [
+      "/assets/game/LegendaryFishHunter/LFHFeatured.webp",
+      "/assets/game/LegendaryFishHunter/LFHIcon.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS1.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS2.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS3.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS4.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS5.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS6.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS7.webp",
+      "/assets/game/LegendaryFishHunter/LFHSS8.webp"
+    ],
+    "StorePage": "https://play.google.com/store/apps/details?id=com.Trimatra.LegendaryFishHunter&hl=en",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Img": "/assets/game/LegendaryFishHunter/LFHFeatured.webp",
+    "MonthDeveloped": 6,
+    "Features": [
+      "Offers realistic fishing mechanics, requiring precise timing and strategy to catch different fish species.",
+      "Face epic sea monster battles, each with unique attacks, patterns, and tactics to master.",
+      "Explore diverse, beautifully designed fishing locations with unique challenges, fish, and sea monsters.",
+      "Catch rare, legendary fish that require special techniques, upgrades, and strategies to capture.",
+      "Upgrade your gear and equipment to improve your chances of catching rare fish and defeating monsters."
+    ],
+    "Order": 9997,
+    "Title": "Legendary Fish Hunter",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Text": "This game offers an action-packed fishing simulation game that combines the thrill of fishing with the excitement of battling colossal sea monsters. Players take on the role of a seasoned fisherman traveling to various locations to catch rare and legendary fish. Along the way, you’ll face intense challenges, including battling mythical sea creatures that lurk in the depths. Your skills will be tested as you upgrade your gear, capture elusive fish, and fight off these menacing sea monsters to claim your place as the ultimate Legendary Fish Hunter."
+      },
+      {
+        "id": "Content2",
+        "Text": "Legendary Fish Hunter offers an incredibly immersive and realistic fishing experience. The game simulates actual fishing techniques, requiring you to pay attention to your line’s tension, adjust your casting distance, and time your reeling perfectly. Each fish species behaves differently, requiring you to adapt your strategy. Whether you’re casting in a calm lake or battling a sea monster in the deep ocean, every catch feels rewarding and satisfying. The game’s physics engine ensures that you’ll experience true-to-life fishing dynamics, providing a sense of achievement with every successful catch.",
+        "Title": "Realistic Fishing Mechanics",
+        "Img": "/assets/game/LegendaryFishHunter/LFHSS5.webp"
+      },
+      {
+        "id": "Content3",
+        "Title": "Epic Battles with Sea Monsters",
+        "Text": "As you progress through Legendary Fish Hunter, you’ll encounter some of the most formidable and mythical sea monsters that lurk beneath the waves. These massive, fierce creatures are not only part of the world’s lore but also act as key challenges in your journey. Each monster has unique attacks, patterns, and abilities that require different strategies to overcome. Whether you’re facing a colossal kraken or a massive, ancient serpent, these sea monsters offer a thrilling blend of strategy and action as you battle to secure your place as the ultimate fish hunter. Be ready for fierce showdowns that will test your patience, skills, and determination.",
+        "Img": "/assets/game/LegendaryFishHunter/LFHSS6.webp"
+      },
+      {
+        "id": "Content4",
+        "Text": "Explore a vast array of beautifully designed fishing environments, each with its own set of challenges, fish species, and hazards. From serene, peaceful lakes nestled in picturesque mountains to vast and treacherous oceans filled with hidden dangers, the game offers a variety of unique settings. As you travel from one location to the next, you'll encounter different fish species, rare creatures, and, of course, terrifying sea monsters. The diverse locations ensure that no two fishing trips are alike, keeping the gameplay fresh and exciting. With stunning graphics and dynamic weather conditions, every location feels real and captivating, providing a rich and immersive experience.",
+        "Img": "/assets/game/LegendaryFishHunter/LFHSS4.webp",
+        "Title": "Diverse and Stunning Fishing Locations"
+      },
+      {
+        "id": "Content5",
+        "Text": "The ultimate goal in Legendary Fish Hunter is to catch rare and legendary fish that only the most skilled and patient fishermen can hook. These elusive fish are scattered across various fishing spots and can be incredibly challenging to capture. Each legendary fish has distinct characteristics, from the way it moves to how it reacts to your bait. Players will need to master different fishing techniques, upgrade their gear, and strategize the perfect approach to catch these rare creatures. Achieving these catches not only earns you valuable rewards but also unlocks special in-game features, such as exclusive equipment and new fishing areas, allowing you to continue your journey toward becoming the greatest Legendary Fish Hunter.",
+        "Title": "Legendary Fish to Catch",
+        "Img": "/assets/game/LegendaryFishHunter/LFHSS7.webp"
+      },
+      {
+        "id": "Content6",
+        "Title": "Upgrade Your Gear and Equipment",
+        "Text": "The deeper you get into the game, the more important it becomes to upgrade your gear. From fishing rods, reels, and lines to lures and baits, every piece of equipment plays a crucial role in your success. As you progress through the game, you’ll unlock the ability to purchase or craft better equipment that increases your chances of landing rare and legendary fish. You’ll also need to upgrade your gear to withstand the powerful sea monsters you encounter. The more powerful your gear, the more prepared you’ll be to face the challenges ahead. With a wide variety of upgrade options and customization, you can tailor your fishing setup to your own playstyle, making each fishing adventure unique.",
+        "Img": "/assets/game/LegendaryFishHunter/LFHSS8.webp"
+      },
+      {
+        "id": "Content7",
+        "Texts": [
+          "Legendary Fish Hunter isn’t just another fishing game. It’s a thrilling adventure filled with challenging battles against fierce sea monsters, legendary fish to catch, and diverse fishing locations to explore. Whether you’re a casual gamer or a hardcore fishing enthusiast, Legendary Fish Hunter offers something for everyone.",
+          "With its perfect combination of fishing simulation and epic combat, the game provides hours of entertainment and excitement. Are you ready to dive into the waters, catch legendary fish, and battle terrifying sea monsters? Download Legendary Fish Hunter today and start your journey to becoming the ultimate Legendary Fish Hunter!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Gamelanku",
+    "Order": 9996,
+    "MonthDeveloped": 12,
+    "WebPage": "https://trimatra.io/gamelanku/",
+    "Unreleased": true,
+    "Description": "Gamelanku is a mobile game that offers players a chance to experience and learn how to play traditional Sundanese musical instruments. The game features an impressive selection of instruments from the gamelan ensemble, including the Bonang, Saron, Gong, Gendang, Karinding, Angklung, and Gambang. Each instrument is carefully designed to replicate the authentic sounds and playing techniques, making Gamelanku an interactive and engaging tool for learning traditional Indonesian music.",
+    "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuFeatured.webp",
+    "Downloads": 100000,
+    "Features": [
+      "Play a variety of traditional Sundanese gamelan instruments, including Bonang, Saron, and Gong.",
+      "Collaborate with others in real-time multiplayer sessions to create music together.",
+      "Learn gamelan instruments interactively, used by teachers for cultural education.",
+      "Record your musical creations and export them as MIDI or MP3 files.",
+      "Improve skills through piano tiles-like mini-games focused on rhythm and timing.",
+      "Practice traditional Indonesian songs and record your performances to share with others."
+    ],
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Screenshots": [
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuFeatured.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuIcon.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS1.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS2.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS3.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS4.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS5.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS6.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS7.webp",
+      "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS8.webp"
+    ],
+    "Title": "Gamelanku",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Contents": [
+      {
+        "id": "Content 6",
+        "Texts": [
+          "With Gamelanku, you don't just play random notes you get to explore and perform traditional Sundanese and Indonesian melodies. The game offers a vast collection of traditional songs to practice, helping users familiarize themselves with the melodies and rhythms of Indonesian music. Players can record their performances of these songs and share them with the community, showcasing their progress and creativity.",
+          "Whether you are an aspiring musician, a cultural educator, or simply curious about traditional Indonesian instruments, Gamelanku offers a unique and enjoyable experience. It brings the magic of Sundanese gamelan music to your mobile device, allowing you to explore, learn, and share the beautiful sounds of Indonesia's rich musical heritage. With its multiplayer features, educational tools, and engaging gameplay, Gamelanku is more than just a game, it's an interactive journey into the heart of Indonesian culture. Download Gamelanku today and start your musical adventure!"
+        ]
+      },
+      {
+        "id": "Content1",
+        "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS2.webp",
+        "Text": "Gamelanku gives players the chance to play a wide variety of traditional Sundanese instruments, including the Bonang (bronze metallophones), Saron (tuned metal bars), Gong (large, resonant gongs), Gendang (drums), Karinding (a traditional bamboo instrument), Angklung (bamboo chimes), and Gambang (xylophone). Each instrument provides a unique sound, allowing players to explore the full range of Indonesian gamelan music.",
+        "Title": "Multiple Gamelan Instruments"
+      },
+      {
+        "id": "Content2",
+        "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS6.webp",
+        "Title": "Multiplayer Functionality",
+        "Text": "One of the most exciting features of Gamelanku is its multiplayer functionality. Players can join together in real-time to play music collaboratively. Whether you’re jamming with friends or participating in an online session with fellow musicians, the multiplayer mode fosters a community atmosphere and allows players to enjoy the experience of creating music together."
+      },
+      {
+        "id": "Content3",
+        "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS4.webp",
+        "Title": "Educational Tool for Cultural Learning",
+        "Text": "Gamelanku is not just a game it's a valuable tool for cultural education. Used by Indonesian teachers to introduce students to gamelan instruments, the game allows users to learn the basics of traditional music in an interactive, enjoyable way. With its user-friendly interface, Gamelanku is accessible to people of all ages, making it an ideal platform for anyone interested in exploring the culture of Indonesia."
+      },
+      {
+        "id": "Content4",
+        "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS7.webp",
+        "Title": "Record and Export Your Music",
+        "Text": "Whether you’re an aspiring musician or just having fun, Gamelanku offers a recording feature that lets you capture your musical creations. Unlike simple device recorders, Gamelanku generates MIDI files based on your instrument play, allowing for precise control over your performance. You can export your recordings as MP3 files and share them with friends or even use them for personal reflection or further practice."
+      },
+      {
+        "id": "Content5",
+        "Title": "Mini-Games to Help You Learn",
+        "Text": "Gamelanku features a piano tiles-like mini-game that makes learning how to play the instruments fun and engaging. This game mode helps players improve their timing, rhythm, and familiarity with each instrument. Through the mini-games, users can build their skills and gradually become proficient in playing various gamelan instruments. The game’s interactive learning approach has been proven effective in helping players understand the basics of these traditional instruments.",
+        "Img": "/assets/game/AkuSiJuraganAyam/Gamelanku/GamelankuSS5.webp"
+      }
+    ]
+  },
+  {
+    "id": "MountHalimun",
+    "Description": "Mount Halimun is a virtual tourism and educational adventure game that gives players the exclusive opportunity to explore a hyper-realistic HD recreation of a real-world conserved national park in West Java. Since the actual summit is closed to the public, the game offers a unique digital expedition into its legendary misty rainforests. It is designed as a social experience, encouraging players to team up and utilize cooperative mechanics like carrying one another to reach the peak. The journey is further enriched with collectible articles about mountaineering and a persistent cross-mountain journal that documents player achievements.",
+    "MonthDeveloped": 1,
+    "Screenshots": [
+      "/assets/game/MountHalimun/mt_halimun_1.webp",
+      "/assets/game/MountHalimun/mt_halimun_2.webp",
+      "/assets/game/MountHalimun/mt_halimun_3.webp",
+      "/assets/game/MountHalimun/mt_halimun_4.webp",
+      "/assets/game/MountHalimun/mt_halimun_5.webp",
+      "/assets/game/MountHalimun/mt_halimun_6.webp"
+    ],
+    "Downloads": 3000000,
+    "Features": [
+      "Features hyper-realistic HD visuals creating an immersive rainforest atmosphere.",
+      "A persistent cross-mountain journal automatically logs player achievements.",
+      "Players collect informative articles, integrating education directly into gameplay.",
+      "Cooperative mechanics, like carrying teammates, are included to promote social teamwork."
+    ],
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Img": "/assets/game/MountHalimun/mt_halimun_1.webp",
+    "Order": 999,
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Title": "Mount Halimun",
+    "StorePage": "https://www.roblox.com/id/games/118045026130013",
+    "WebPage": "https://trimatra.io/project/mount-halimun",
+    "Contents": []
+  },
+  {
+    "id": "AkuSiJuraganAyam",
+    "MonthDeveloped": "4",
+    "Screenshots": [
+      "/assets/game/AkuSiJuraganAyam/FeaturedGraphic.webp",
+      "/assets/game/AkuSiJuraganAyam/JAIcon.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS1.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS10.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS2.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS3.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS4.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS5.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS6.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS7.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS8.webp",
+      "/assets/game/AkuSiJuraganAyam/JASS9.webp"
+    ],
+    "Downloads": 100000,
+    "Unreleased": true,
+    "Features": [
+      "Breed chickens with unique traits for profitable combinations and stronger battle abilities.",
+      "Fight chickens in the arena to win rewards, money, and increase your farm’s strength.",
+      "Expand your farm by unlocking more land and facilities for growing your chicken empire.",
+      "Upgrade facilities like incubators, breeders, and coops to manage more chickens efficiently.",
+      "Feed chickens regularly to keep them healthy, or risk lower value or death."
+    ],
+    "Img": "/assets/game/AkuSiJuraganAyam/FeaturedGraphic.webp",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Description": "In Aku Si Juragan Ayam, you start as an unemployed individual with two close friends, dreaming of turning your life around. Together, you decide to transform an unused plot of land belonging to your father into a thriving chicken farming business. The goal? To raise the best chickens, breed them for profit, and build a chicken empire. Along the way, you’ll manage various aspects of farming, such as breeding, feeding, and fighting. Plus, you'll have to deal with the business side of things—upgrading your land and facilities, making strategic decisions to maximize profits, and even selling your chickens in the market.",
+    "Title": "Aku Si Juragan Ayam",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "WebPage": "https://trimatra.io/aku-si-juragan-ayam",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Text": "The game introduces an exciting blend of farming and fighting mechanics, where you can breed different chicken species, train them for battles, and compete in fighting arenas to earn money and expand your farm. With the added multiplayer feature, you can interact with other players and check out their chicken kingdoms as you grow your own."
+      },
+      {
+        "id": "Content2",
+        "Text": "In Aku Si Juragan Ayam, breeding is at the heart of your chicken empire. You can breed different chicken species to create the most profitable combinations and explore various traits. Each breed has its unique characteristics, some are more expensive to sell, while others have specific fighting abilities, like flying or kicking, which can give them an edge in the battle arena. The strategic part comes from selecting which chickens to breed, based on their abilities, value, and battle potential. Successful breeding leads to high-value chickens that will dominate the arena and fetch you greater profits when sold.",
+        "Img": "/assets/game/AkuSiJuraganAyam/JASS4.webp",
+        "Title": "Chicken Breeding and Species Variety"
+      },
+      {
+        "id": "Content3",
+        "Title": "Fight in the Arena for Rewards",
+        "Img": "/assets/game/AkuSiJuraganAyam/JASS5.webp",
+        "Text": "The arena is where your chickens truly shine. Once your chickens grow up and are ready for battle, you can take them to the fighting ring to compete against NPC chickens. The unique abilities of each chicken breed come into play, flying chickens can soar above their opponents, while others may have powerful kicking moves that can knock out their rivals. Winning these intense battles not only boosts your chicken’s level but also rewards you with money, which can be reinvested into your farm for better equipment, more chickens, and upgrades. The arena becomes a crucial part of your journey as you aim to raise the strongest chickens and dominate the competition."
+      },
+      {
+        "id": "Content4",
+        "Text": "Building your chicken empire goes beyond just breeding chickens; it's about managing and expanding your farm efficiently. In Aku Si Juragan Ayam, you'll start with limited land, and as you progress, you’ll unlock new areas to expand your farm and accommodate more chickens. Expanding your land allows you to build new facilities, such as coops and incubators, which are essential for raising more chickens and ensuring their proper care. Each upgrade you make adds new functionality to your farm, such as increasing the number of chickens you can breed or hatch at once, which helps you grow your empire faster. Effective land expansion is key to becoming a successful chicken tycoon.",
+        "Title": "Farm Management and Land Expansion",
+        "Img": "/assets/game/AkuSiJuraganAyam/JASS7.webp"
+      },
+      {
+        "id": "Content5",
+        "Text": "As your farm grows, so does the need for better facilities to house, nurture, and breed your chickens. Aku Si Juragan Ayam offers a variety of upgradable structures that allow you to expand your chicken empire. The Incubator lets you hatch eggs and grow your flock, while the Breeder is essential for breeding two chickens to create chicks with better traits. As you progress, you can upgrade both the incubator and breeder to unlock additional slots, allowing you to breed and hatch more chickens simultaneously. Your Chick-Coop provides a space for chicks to grow into healthy adults, while the Chicken Coop is where your adult chickens rest and recuperate. The Chick-Warehouse and Chicken Warehouse are crucial buildings that store your eggs, chicks, and fully grown chickens. Upgrading these facilities ensures that you have enough space to manage your growing chicken population and maintain a successful farm.",
+        "Title": "Upgrade Key Facilities",
+        "Img": "/assets/game/AkuSiJuraganAyam/JASS9.webp"
+      },
+      {
+        "id": "Content6",
+        "Title": "Feed Your Chickens and Keep Them Healthy",
+        "Text": "Chickens need constant attention to stay healthy and productive in Aku Si Juragan Ayam. If you neglect their feeding, their health and battle abilities will deteriorate. Feeding them regularly ensures they remain strong and ready for the arena, where they can earn you money through victories. If chickens are left unfed for too long, they will become weak, and their selling price will plummet. In the worst-case scenario, they may die. However, even dead chickens are still valuable—they can be sold to the local pond owner to feed the fish, but at a much lower price. It's important to monitor their hunger levels closely, as well as take care of their environment to keep them happy and healthy, so they can reach their maximum potential.",
+        "Img": "/assets/game/AkuSiJuraganAyam/JASS6.webp"
+      },
+      {
+        "id": "Content7",
+        "Text": "Aku Si Juragan Ayam offers a unique and exciting twist on the classic farming simulator genre. It combines chicken farming with combat, breeding, and business management to create an immersive and fun experience. Whether you're looking to breed the strongest chickens, battle your way to victory, or simply manage your farm, this game has something for everyone. Are you ready to build your chicken empire and rise to the top? Download Aku Si Juragan Ayam now and begin your journey to chicken farming greatness!"
+      }
+    ]
+  },
+  {
+    "id": "FallingFloor",
+    "Features": [
+      "Fast-paced movement, requiring constant shifting between collapsing tiles to stay safe.",
+      "Compete against up to 20 players, racing for stable tiles while avoiding falling.",
+      "Multiple floor layers, allowing players to fall without instant defeat, continuing the challenge.",
+      "Simple controls for quick, addictive gameplay, focusing on fast decision-making and reflexes.",
+      "Clean visuals and energetic sound effects enhancing the competitive atmosphere and gameplay immersion.",
+      "Replayable with unpredictable matches, offering endless excitement and challenges with each playthrough."
+    ],
+    "MonthDeveloped": 1,
+    "IsClientProject": true,
+    "Img": "/assets/game/FallingFloor/FLFeatured.webp",
+    "Screenshots": [
+      "/assets/game/FallingFloor/FLFeatured.webp",
+      "/assets/game/FallingFloor/FLIcon.webp",
+      "/assets/game/FallingFloor/FLSS1.webp",
+      "/assets/game/FallingFloor/FLSS2.webp",
+      "/assets/game/FallingFloor/FLSS3.webp",
+      "/assets/game/FallingFloor/FLSS4.webp",
+      "/assets/game/FallingFloor/FLSS5.webp",
+      "/assets/game/FallingFloor/FLSS6.webp",
+      "/assets/game/FallingFloor/FLSS7.webp",
+      "/assets/game/FallingFloor/FLSS8.webp"
+    ],
+    "Description": "A fast paced hyper casual game where reflexes and quick thinking are your keys to survival. In this intense, competitive game, you must stay one step ahead as you move between floor tiles that break away with every step. With up to 20 other enemies vying for the same tiles, you’ll need to outlast them by constantly jumping, shifting, and adapting to survive. It’s a race against time and gravity, with only the last player standing emerging victorious.",
+    "StorePage": "https://play.google.com/store/apps/details?id=com.tazkangames.FallingFloor",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Downloads": 100000,
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Title": "Falling Floor",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "Fast-Paced Movement and Strategy",
+        "Img": "/assets/game/FallingFloor/FLSS6.webp",
+        "Text": "Falling Floor is all about constant movement and quick decision-making. As you step on the floor tiles, they break and collapse, forcing you to keep moving. The goal is to avoid falling by quickly finding and moving to stable tiles. Every step you take changes the landscape beneath you, creating a constantly shifting environment that demands agility and swift reactions. The game challenges you to think ahead, plan your next move, and adapt to the changing floor."
+      },
+      {
+        "id": "Content2",
+        "Title": "Compete Against Enemies",
+        "Text": "The game features up to 20 other enemies, all of whom are fighting to stay on top of the floor tiles as well. You’ll have to outmaneuver them to secure your place and avoid getting trapped. The competitive element intensifies as you race to stay on the best tiles, while avoiding the players trying to knock you down or take your spot. The pressure builds as the game progresses, and only the most strategic and agile players can outlast the rest.",
+        "Img": "/assets/game/FallingFloor/FLSS4.webp"
+      },
+      {
+        "id": "Content3",
+        "Text": "Unlike traditional battle games, Falling Floor offers multiple layers of floors to keep the action going. When the floor beneath you collapses, you don’t instantly lose. Instead, you fall to the next layer, where you continue competing with the remaining players. This adds an extra layer of strategy to the game, as falling doesn’t immediately mean defeat—it just means more competition. Stay vigilant and ready to outmaneuver your opponents on the lower layers to maintain your chances of winning.",
+        "Img": "/assets/game/FallingFloor/FLSS5.webp",
+        "Title": "Multiple Layers of Floors"
+      },
+      {
+        "id": "Content4",
+        "Texts": [
+          "The controls are straightforward, making Falling Floor easy to pick up but difficult to master. With simple tap-to-move mechanics, you can focus entirely on the action without worrying about complicated controls. This simplicity, combined with the fast-paced, high-stakes gameplay, makes it an addictive experience. Whether you’re playing for a few minutes or hours, the game offers endless fun and competitive excitement.",
+          "The game’s clean, minimalist visuals focus on the action, with a colorful and dynamic design that keeps things visually interesting. As the floor tiles collapse, the visual effects enhance the feeling of chaos, adding to the thrill of each match. Complementing the fast-paced action is an energetic soundtrack and satisfying sound effects that keep the adrenaline flowing as you play. The combination of visuals and sound creates an immersive environment that heightens the intensity of the game.",
+          "Falling Floor offers endless replayability, with each match feeling fresh and unpredictable. The competitive nature of the game ensures that no two rounds are ever the same, keeping you coming back for more. As you get better at predicting your opponents' movements and adapting to the shifting floor, you’ll constantly find new strategies to win. The simple yet engaging mechanics, combined with the thrill of outlasting other players, make Falling Floor an addictive and fun game that’s perfect for short bursts of gameplay."
+        ],
+        "Title": "Simple yet Addictive Gameplay",
+        "Img": "/assets/game/FallingFloor/FLSS1.webp"
+      }
+    ]
+  },
+  {
+    "id": "FlexFight",
+    "StorePage": "https://play.google.com/store/apps/details?id=com.TrimatraStudio.FlexFight",
+    "Features": [
+      "Ragdoll physics for flexible character movements, adding unpredictability and fun to battles.",
+      "Carry enemies when they’re unaware, then release them to push toward the water.",
+      "Eat food to grow, enabling you to carry larger enemies and become stronger.",
+      "Unlock special abilities with growth, including faster movement and powerful enemy push.",
+      "Various environments requiring strategic thinking to eliminate enemies and complete challenges.",
+      "Intuitive controls for simple but strategic gameplay, balancing growth and enemy elimination."
+    ],
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Title": "Flex Fight",
+    "Screenshots": [
+      "/assets/game/FlexFight/FFFeatured.webp",
+      "/assets/game/FlexFight/FFIcon.webp",
+      "/assets/game/FlexFight/FFSS1.webp",
+      "/assets/game/FlexFight/FFSS2.webp",
+      "/assets/game/FlexFight/FFSS3.webp",
+      "/assets/game/FlexFight/FFSS4.webp",
+      "/assets/game/FlexFight/FFSS5.webp",
+      "/assets/game/FlexFight/FFSS6.webp"
+    ],
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "IsClientProject": true,
+    "Img": "/assets/game/FlexFight/FFFeatured.webp",
+    "Description": "Dive into the world of Flex Fight, a dynamic ragdoll-based game where flexibility and strategy reign supreme. As a flexible character with unique abilities, you’ll engage in epic battles against enemies in an environment full of obstacles and opportunities. Whether you’re carrying enemies to victory or growing stronger to defeat bigger foes, every move you make has the potential to change the course of the game.",
+    "MonthDeveloped": 1,
+    "Downloads": 100000,
+    "Contents": [
+      {
+        "id": "Content1",
+        "Title": "Flexible Ragdoll Gameplay",
+        "Vid": "/assets/game/FlexFight/FFGameplay.mp4",
+        "Text": "Experience ragdoll physics like never before! In Flex Fight, both players and enemies are flexible characters, allowing for hilarious, unpredictable, and satisfying combat interactions. Your character’s movements are based on ragdoll mechanics, which gives the gameplay a unique and playful feel. The control system allows you to manipulate your character’s limbs and body to perform various actions, from carrying enemies to strategically positioning yourself for the next move. The result? Fun, chaotic battles full of unexpected moments."
+      },
+      {
+        "id": "Content2",
+        "Text": "One of the key mechanics in Flex Fight is carrying enemies. When an enemy is in front of you and not facing you, you can grab them and carry them towards a designated elimination zone, the water. But it’s not just about picking them up; it’s about timing and strategy. To eliminate enemies, you must release them at the right moment, sending them flying toward the water. Successfully eliminating all enemies requires both careful planning and execution. The challenge escalates as the number of enemies increases, pushing you to refine your strategies.",
+        "Title": "Carry and Eliminate Enemies",
+        "Img": "/assets/game/FlexFight/FFSS3.webp"
+      },
+      {
+        "id": "Content3",
+        "Text": "In Flex Fight, not all enemies are equal in size. You can't carry larger enemies until you grow stronger yourself. To do so, you must eat food scattered throughout the environment, gradually increasing your size. This growth mechanic adds a layer of strategy, as you’ll need to balance the need to defeat your enemies with the necessity of collecting food to grow bigger and stronger. The bigger you get, the more options you have in battle.",
+        "Img": "/assets/game/FlexFight/FFSS6.webp",
+        "Title": "Growth System"
+      },
+      {
+        "id": "Content4",
+        "Title": "Unlock Special Abilities",
+        "Img": "/assets/game/FlexFight/FFSS3.webp",
+        "Text": "As you grow, you’ll unlock powerful abilities that give you an edge in combat. Once you reach a certain size, you’ll transform into a rainbow-colored character with special abilities. This transformation not only gives you a visual boost, but it also significantly enhances your combat potential. When you carry an enemy while in your transformed state and release them, they’ll be pushed a great distance, making it much easier to eliminate them. Additionally, you’ll gain a slight speed boost, allowing you to move faster and outmaneuver opponents. These special abilities provide a satisfying power-up, making your character feel even more unstoppable."
+      },
+      {
+        "id": "Content5",
+        "Screenshots": [
+          "/assets/game/FlexFight/FFFeatured.webp",
+          "/assets/game/FlexFight/FFIcon.webp",
+          "/assets/game/FlexFight/FFSS1.webp",
+          "/assets/game/FlexFight/FFSS2.webp",
+          "/assets/game/FlexFight/FFSS3.webp",
+          "/assets/game/FlexFight/FFSS4.webp",
+          "/assets/game/FlexFight/FFSS5.webp",
+          "/assets/game/FlexFight/FFSS6.webp"
+        ],
+        "Img": "/assets/game/FlexFight/FFSS2.webp",
+        "Texts": [
+          "Flex Fight is as much about strategy as it is about physical combat. You’ll need to carefully plan how to approach each enemy, which ones to target first, and when to grow your character. The game rewards patience, timing, and clever tactics, especially as the enemies become more challenging and the stakes get higher. Whether you're playing for fun or seeking to conquer every challenge, the game offers a variety of scenarios that keep the gameplay fresh and exciting.",
+          "With Flex Fight, simplicity doesn’t mean lack of depth. The control system is designed to be intuitive and easy to grasp, allowing you to jump into the action without a steep learning curve. The ragdoll physics and flexible controls let you carry and release enemies with ease, while also giving you precise control over movement and strategy. The straightforward mechanics combined with the increasingly complex challenges make for a satisfying experience that grows in depth as you advance.",
+          "Whether you’re a casual player looking for a fun, lighthearted challenge or a strategic gamer seeking to test your skills against tougher foes, Flex Fight offers an experience that’s both fun and rewarding. The combination of ragdoll physics, strategic growth, and dynamic abilities ensures that every battle is unique and exciting."
+        ],
+        "Title": "Strategic Combat and Fun Challenges"
+      }
+    ]
+  },
+  {
+    "id": "LandControl",
+    "Feature": [
+      "Strategic gameplay that requires careful planning and adaptation to overcome opponents and obstacles.",
+      "Challenging AI that adapts to your tactics and multiplayer modes for global competition.",
+      "Expanding your territory while managing resources and defending your borders from enemy attacks.",
+      "Smooth, intuitive controls and immersive graphics that make the gameplay engaging and easy to learn.",
+      "Managing resources, building units, and defending territories while balancing offense and defense strategies."
+    ],
+    "Description": "Land Control is an exciting real-time strategy game where your tactical skills are tested as you battle to capture, defend, and expand your territory. Whether you're building a powerful empire, outwitting your opponents, or securing resources, every move counts. Can you dominate the map and rise to the top?",
+    "Title": "Land Control",
+    "Screenshots": [
+      "/assets/game/LandControl/LCFeatured.webp",
+      "/assets/game/LandControl/LCIcon.webp",
+      "/assets/game/LandControl/LCSS1.webp",
+      "/assets/game/LandControl/LCSS2.webp",
+      "/assets/game/LandControl/LCSS3.webp",
+      "/assets/game/LandControl/LCSS4.webp",
+      "/assets/game/LandControl/LCSS5.webp",
+      "/assets/game/LandControl/LCSS6.webp",
+      "/assets/game/LandControl/LCSS7.webp",
+      "/assets/game/LandControl/LCSS8.webp"
+    ],
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Features": [
+      "Strategic gameplay that requires careful planning and adaptation to overcome opponents and obstacles.",
+      "Challenging AI that adapts to your tactics and multiplayer modes for global competition.",
+      "Expanding your territory while managing resources and defending your borders from enemy attacks.",
+      "Various game modes including Quick Match, Campaign, Random Map, and Multiplayer for diverse experiences.",
+      "Smooth, intuitive controls and immersive graphics that make the gameplay engaging and easy to learn.",
+      "Managing resources, building units, and defending territories while balancing offense and defense strategies."
+    ],
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Downloads": 1000,
+    "MonthDeveloped": 1,
+    "Img": "/assets/game/LandControl/LCFeatured.webp",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Text": "Land Control revolves around smart, calculated decisions. The game challenges you to think multiple steps ahead, as every action has a direct impact on the outcome of your conquest. Your strategy will determine whether you can outwit your enemies or succumb to their clever traps. You must balance expansion, defense, and offense while adapting to the ever-changing dynamics of the map. Your empire will only thrive if you manage to outmaneuver your opponents in both offensive and defensive tactics. Should you overextend your boundaries, leaving your core exposed, or focus on gradual expansion and secure growth? The choice is yours, but it’s not a simple one. As the game progresses, the pressure intensifies, forcing you to adjust your strategy to handle unexpected enemy moves and evolving challenges. Success in Land Control isn’t just about making the right move, it’s about reading the game and responding to every shift in the battlefield.",
+        "Img": "/assets/game/LandControl/LCSS1.webp",
+        "Title": "Strategic Gameplay"
+      },
+      {
+        "id": "Content2",
+        "Img": "/assets/game/LandControl/LCSS2.webp",
+        "Text": "The AI in Land Control is anything but predictable. Each enemy has its own strategy and approach, and the difficulty increases as you progress through the game. AI-controlled enemies are not passive – they analyze your weaknesses, exploit your mistakes, and adapt accordingly. This provides a continuously evolving challenge, so you're never facing the same tactics twice. If you're looking for even more of a challenge, you can face off against players from around the world. Competitive multiplayer brings out the true nature of strategic gaming, where every match is different and the stakes are higher. Whether you’re fighting against friends or strangers, the unpredictability of human opponents makes each battle intense and rewarding. The satisfaction of outsmarting a challenging opponent, human or AI, is one of the key thrills of Land Control. With varying difficulty levels, the game ensures that both newcomers and experienced strategists can enjoy the gameplay at their own pace.",
+        "Title": "Challenging Opponents"
+      },
+      {
+        "id": "Content3",
+        "Text": "The map in Land Control is not just a background for gameplay – it is the very foundation upon which all of your strategies are built. Each map is vast and full of opportunities, but it also hides many dangers. Expanding your territory means not only capturing more land but also managing the newly acquired regions efficiently. As you conquer new areas, you'll face increasing pressure to defend your borders and manage resources across multiple territories. Every piece of land you claim adds to your power, but also brings new challenges that require careful planning and foresight. To succeed, you’ll need to understand the terrain, create strategic chokepoints, and utilize the landscape to your advantage. Expanding too quickly can leave you vulnerable, while slow expansion may allow your opponents to outpace you. The key is finding the right balance and ensuring that every expansion aligns with your overall long-term strategy. You’ll also encounter different terrain types, each offering unique advantages and disadvantages, and learning how to exploit them will be critical to your success.",
+        "Title": "Map Expansion",
+        "Img": "/assets/game/LandControl/LCSS3.webp"
+      },
+      {
+        "id": "Content4",
+        "Text": "Navigating Land Control is a breeze, thanks to the game’s intuitive controls. Whether you’re moving units, building defenses, or executing complex strategies, the touch controls are responsive and easy to learn. The user interface is designed with clarity in mind, so you never have to second-guess your next move. Each element of the map is clearly labeled, and zooming in and out is smooth and seamless, making it easy to survey the battlefield. Even if you’re new to strategy games, you’ll quickly feel at home in Land Control. But it’s not just about usability – the visuals are equally captivating. The game’s graphics are designed to be vibrant, yet clear, with a stylized look that gives each map a distinct personality. The animations are fluid, bringing your armies and actions to life in a way that makes every battle feel intense. From the lush forests to the barren deserts, the detailed landscapes add an extra layer of immersion, making each new territory feel fresh and exciting. Every unit you command, every territory you expand into, and every battle you fight is enhanced by these visually appealing graphics, giving you an engaging experience that’s both strategic and eye-catching.",
+        "Title": "Smooth Controls & Immersive Graphics",
+        "Img": "/assets/game/LandControl/LCSS7.webp"
+      },
+      {
+        "id": "Content5",
+        "Texts": [
+          "If you're a fan of strategy games that require deep thought, patience, and careful planning, Land Control is the perfect game for you. Its intricate gameplay mechanics demand that you think several steps ahead, anticipate your opponent’s moves, and adjust your strategy on the fly. Every decision, no matter how small, can have far-reaching consequences, making each match a rewarding puzzle to solve. Whether you’re laying the groundwork for a slow and steady expansion or preparing for a bold offensive, the game keeps you engaged by pushing you to think critically about your every move.",
+          "Land Control caters to both casual players and seasoned strategists. For casual players looking for a fun and quick challenge, the game provides an easy entry point with its user-friendly interface and streamlined mechanics. You can jump straight into the action, enjoy short yet satisfying matches, and quickly improve your skills with each playthrough. The thrill of victory and the sting of defeat are equally fulfilling, whether you’re playing for a few minutes or a few hours.",
+          "For more serious strategists, the game presents a complex and layered experience that rewards thoughtful planning and tactical expertise. Every match can be seen as a mental battleground, where your ability to predict your opponent’s moves, outmaneuver them, and make split-second decisions will determine your success. With advanced AI, multiplayer modes, and a variety of challenges, Land Control offers the depth and complexity that competitive players crave. The ever-changing dynamics of the battlefield keep even the most experienced players on their toes, ensuring that there’s always room to grow and refine your strategic abilities.",
+          "No matter where you fall on the gaming spectrum, Land Control offers a satisfying and challenging experience that will keep you coming back for more. Whether you’re in it for the thrill of quick matches or the long-term satisfaction of mastering complex strategies, the game offers endless opportunities for players to test and improve their skills."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MountRenjana",
+    "Screenshots": [
+      "/assets/game/MountRenjana/mt_renjana_1.webp",
+      "/assets/game/MountRenjana/mt_renjana_2.webp",
+      "/assets/game/MountRenjana/mt_renjana_3.webp",
+      "/assets/game/MountRenjana/mt_renjana_4.webp",
+      "/assets/game/MountRenjana/mt_renjana_5.webp",
+      "/assets/game/MountRenjana/mt_renjana_6.webp",
+      "/assets/game/MountRenjana/mt_renjana_7.webp"
+    ],
+    "MonthDeveloped": 1,
+    "StorePage": "https://www.roblox.com/id/games/118090050965113",
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Downloads": 200000,
+    "Features": [
+      "High-definition visuals are used to create a tranquil and captivating atmosphere.",
+      "The core experience is a symbolic journey focused on emotional introspection.",
+      "Cooperative mechanics are central to the game's shared social experience."
+    ],
+    "Img": "/assets/game/MountRenjana/mt_renjana_1.webp",
+    "Description": "Mount Renjana is a narrative driven exploration game where players embark on a symbolic and emotional journey to the summit of a mountain that represents love and introspection. Designed to be more than a simple platformer, the experience leverages stunning HD visuals to create a tranquil, immersive atmosphere where the environment itself tells a story. The game’s core is a social adventure, encouraging friends to climb together and forge shared memories. Its primary goal is to deliver an emotionally resonant experience, using the physical act of climbing as a metaphor for a deeper, personal journey of the heart, setting it apart as a unique, meditative experience.",
+    "WebPage": "https://trimatra.io/project/mount-renjana",
+    "Title": "Mount Renjana",
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Contents": []
+  },
+  {
+    "id": "WipeIt",
+    "StorePage": "https://play.google.com/store/apps/details?id=com.TazkanGames.WipeIt",
+    "Screenshots": [
+      "/assets/game/WipeIt/WIFeatured.webp",
+      "/assets/game/WipeIt/WIIcon.webp",
+      "/assets/game/WipeIt/WISS1.webp",
+      "/assets/game/WipeIt/WISS2.webp",
+      "/assets/game/WipeIt/WISS3.webp",
+      "/assets/game/WipeIt/WISS4.webp",
+      "/assets/game/WipeIt/WISS5.webp",
+      "/assets/game/WipeIt/WISS6.webp",
+      "/assets/game/WipeIt/WISS7.webp",
+      "/assets/game/WipeIt/WISS8.webp"
+    ],
+    "TechStack": [
+      "Blender",
+      "Atlas Texturing",
+      "Modular Asset Creation",
+      "Rigging"
+    ],
+    "Downloads": 100000,
+    "Description": "a fun and addictive puzzle game that will challenge your reflexes and problem solving skills. Your mission is simple, clean up messy and cluttered surfaces by swiping across them, turning chaotic areas into pristine, satisfying landscapes. As you progress, the difficulty increases, requiring you to think creatively and act quickly. Ready to wipe away the mess?",
+    "MonthDeveloped": 1,
+    "IsClientProject": true,
+    "Role": [
+      "Lead 3D Artist & Visual Director: Spearheading the creation of immersive 3D worlds, from modular asset generation to atlas texturing.",
+      "Lead Level & Game Designer: Crafting engaging gameplay loops and intricately designed levels.",
+      "Economy & Monetization Manager: Designing sustainable in-game economies to ensure long-term player engagement.",
+      "Lead Developer & Technical Supervisor: Bridging the gap between artistic vision and technical implementation.",
+      "Strategic Marketing Specialist: Driving engagement through targeted content on TikTok and social platforms."
+    ],
+    "Features": [
+      "Simple mechanics with increasing complexity, requiring precise swipes to clean surfaces effectively.",
+      "Visually satisfying transitions from messy to clean, complemented by engaging sound effects.",
+      "New challenges with each level, including moving objects and complex messes to clean.",
+      "Variety of environments featuring different types of messes, requiring diverse cleaning strategies.",
+      "Casual, relaxing gameplay ideal for short sessions with no time pressure or stress.",
+      "Competitive elements, including leaderboards to track high scores and challenge friends worldwide."
+    ],
+    "Img": "/assets/game/WipeIt/WIFeatured.webp",
+    "Title": "WipeIt",
+    "Contents": [
+      {
+        "id": "Content1",
+        "Vid": "/assets/game/WipeIt/WIGameplay.mp4",
+        "Text": "The mechanics of Wipe It are easy to grasp: swipe your finger across the screen to clean up different surfaces. However, the real challenge comes from the increasing complexity as you move through levels. The mess becomes more intricate, and your swipes need to be more precise to succeed. What starts as a simple task evolves into a puzzle that requires both quick reflexes and strategic thinking. The game is designed to keep you coming back for more, offering a satisfying sense of accomplishment after every clean-up session.",
+        "Title": "Simple Yet Addictive Gameplay"
+      },
+      {
+        "id": "Content2",
+        "Text": "Wipe It is not only a test of skill, but a feast for the senses. The visual design is sleek, with smooth animations that make each swipe feel fluid and satisfying. As you clean the surfaces, the transition from messy to neat is visually rewarding, giving you an immediate sense of progress. Complementing the visuals is an engaging sound design that adds to the experience, with satisfying sounds of cleaning and wiping that make every level feel like a small victory. The combination of visuals and sounds enhances the game's addictive quality, making it hard to put down.",
+        "Title": "Satisfying Visuals and Sounds",
+        "Img": "/assets/game/WipeIt/WISS4.webp"
+      },
+      {
+        "id": "Content3",
+        "Img": "/assets/game/WipeIt/WISS5.webp",
+        "Text": "While the basic premise of Wipe It remains the same, each new level introduces fresh obstacles that increase the challenge. You’ll face surfaces that require multiple swipes, intricate patterns that must be cleaned in a specific order, and even moving objects that make your task more difficult. As the levels progress, you’ll need to plan your swipes more carefully and adjust to new types of messes. This progression keeps the game exciting and engaging, providing the perfect balance between challenge and enjoyment.",
+        "Title": "Increasing Difficulty with New Challenges"
+      },
+      {
+        "id": "Content4",
+        "Text": "Wipe It offers a wide variety of environments to clean, from simple surfaces like windows to more complex areas such as muddy floors and graffiti-covered walls. Each environment features different types of messes, from stains to dirt, and cleaning them requires different strategies. This variety keeps the gameplay fresh and exciting, as you never know what kind of mess you’ll encounter next. The creative diversity of environments also keeps the game visually interesting, giving players new and dynamic settings to explore with each level.",
+        "Img": "/assets/game/WipeIt/WISS6.webp",
+        "Title": "Variety of Environments and Messes to Clean"
+      },
+      {
+        "id": "Content5",
+        "Text": "Wipe It offers a stress-free experience, perfect for players who want to relax and unwind while still engaging in a fun and satisfying challenge. The easy-to-learn mechanics and the absence of time pressure make it an ideal game for casual play, whether you're taking a break or winding down after a long day. It’s a game that’s easy to pick up and play, but hard to put down once you start. Whether you’re looking for a quick distraction or a more immersive experience, Wipe It fits perfectly into any moment.",
+        "Title": "Casual and Relaxing Experience",
+        "Img": "/assets/game/WipeIt/WISS8.webp"
+      },
+      {
+        "id": "Content6",
+        "Texts": [
+          "As you progress through Wipe It, the game evolves into a relaxing yet engaging puzzle experience, where each level presents a fresh challenge. With its satisfying visual transformations, increasing complexity, and variety of environments, Wipe It offers a unique combination of simplicity and strategic thinking. Its casual nature makes it accessible for all players, while the variety of messes and obstacles ensures that there’s always something new to discover. It’s a game that balances relaxation with challenge, making it enjoyable for players of all skill levels."
+        ]
+      }
+    ]
+  }
+]
