@@ -1,0 +1,189 @@
+%-------------------------
+% ATS-Optimized Resume for Ardi Rudini
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%--- Custom commands ---
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Ardi Rudini} \\ \vspace{1pt}
+    \small +6285659001753 $|$ \href{mailto:ardirdeveloper@gmail.com}{\underline{ardirdeveloper@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/ardirdn/}{\underline{linkedin.com/in/ardirdn}} $|$
+    \href{https://ardigamedev.com/}{\underline{ardigamedev.com}} $|$
+    West Java, Indonesia
+\end{center}
+
+
+%-----------SUMMARY-----------
+\section{Summary}
+  \small{
+    Versatile 3D Artist, Level Designer, and Environment Artist with over 7 years of professional experience producing game-ready 3D environment props, assets, and characters for mobile gaming titles. Shipped over 35 mobile games with 15 million combined downloads and visits. Proficient in Blender, Photoshop, Substance Painter, Unity, Unreal Engine, and Roblox Studio. Strong foundation in art fundamentals including color composition and form, with the ability to quickly adapt to new art styles, technical requirements, and production pipelines.
+  }
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Universitas Pembangunan Nasional Veteran Jakarta}{Jakarta, Indonesia}
+      {Bachelor of Informatics}{September 2019 -- July 2023}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Founder, Lead 3D Artist, and Level Designer}{September 2017 -- Present}
+      {Trimatra Studio}{West Java, Indonesia}
+      \resumeItemListStart
+        \resumeItem{Produced all game-ready 3D environment props, objects, characters, and scenes for 35 shipped mobile games across Google Play and Roblox, following art guidelines and style direction from the Art Director.}
+        \resumeItem{Maintained strict polygon budgets under 50,000 triangles per scene, achieving consistent 60 frames per second on low-end mobile devices.}
+        \resumeItem{Established a modular asset workflow that accelerated content production by 30 percent, meeting production schedule deadlines two times faster while adapting to multiple art styles.}
+        \resumeItem{Streamlined 3D scenes to reduce crash rates by 40 percent on low-end devices through draw call batching, texture atlasing, and multi-tier level of detail systems.}
+        \resumeItem{Led 3D art direction for Aku Si Juragan Empang (3.5 million downloads), crafting modular building kits, environment props, and character rigs with blend shapes for the game engine.}
+        \resumeItem{Constructed a cinematic open-world environment for Mount Nirwana on Roblox (7 million visits) using terrain sculpting, foliage instancing, and dynamic lighting, serving as both 3D Artist and Level Designer.}
+        \resumeItem{Modeled, textured, and rigged 26 unique animal characters and 50 environment props for Juragan Fauna (100,000 downloads) using Photoshop for texture creation and atlas textures for mobile gaming optimization.}
+        \resumeItem{Built custom Blender production tools in Python that automated retopology, PBR texture baking, LOD generation, and export workflows, reducing per-asset time from 30 minutes to under 3 minutes.}
+        \resumeItem{Prototyped over 30 hyper-casual mobile games in partnership with Voodoo, soft-launching Beauty Race (500,000 plus downloads) after rigorous CPI testing and visual optimization.}
+        \resumeItem{Led development on 5 Roblox experiences for RIVRS partnership, accumulating over 1 million total visits by creating immersive 3D environments, props, and scenes.}
+        \resumeItem{Performed quality checks on all 3D art assets before submission, ensuring models and textures met technical requirements and art guidelines set by the production pipeline.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Freelance 3D Artist and Environment Designer}{February 2025 -- Present}
+      {Fiverr}{Remote}
+      \resumeItemListStart
+        \resumeItem{Crafted 3D environment props and character assets for a corporate metaverse on Roblox, reducing load times by 25 percent while increasing client engagement by 20 percent.}
+        \resumeItem{Delivered production-ready stylized 3D assets for 5 gamification prototypes within two-week sprint cycles, following the production schedule and adapting to each project's art style.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\textbf{Modular Character System and Pipeline} $|$ \emph{Blender, Python, Atlas Texturing}}{2024}
+          \resumeItemListStart
+            \resumeItem{Architected a modular character system with swappable body parts, enabling rapid generation of 100 unique character variations and accelerating development by 30 percent.}
+            \resumeItem{Built a Blender randomizer add-on in Python that automates character variant generation with LOD-aware toggling, reducing setup time by 80 percent.}
+            \resumeItem{Applied atlas texturing across all variants, packing material zones into single texture atlases to reduce per-character rendering cost by 45 percent.}
+            \resumeItem{Integrated automatic level of detail generation across four tiers with customizable polygon reduction ratios for seamless visual transitions.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Environment Art and Level Design Portfolio} $|$ \emph{Unreal Engine 5, Unity, Roblox Studio}}{2022 -- 2024}
+          \resumeItemListStart
+            \resumeItem{Assembled 12 complete environment scenes and level designs across Unreal Engine 5, Unity, and Roblox Studio in realistic and stylized art directions.}
+            \resumeItem{Configured cinematic lighting, terrain sculpting, and post-processing in Unreal Engine 5 using Lumen Global Illumination, Nanite, and Material Editor.}
+            \resumeItem{Constructed foliage systems and terrain materials with GPU instanced rendering and distance-based detail levels, maintaining 60 frames per second on target hardware.}
+            \resumeItem{Executed scene-level performance techniques including occlusion culling, draw call reduction, texture streaming, and mesh merging.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{BatchProcessPro Blender Add-on} $|$ \emph{Python, Blender API}}{2024}
+          \resumeItemListStart
+            \resumeItem{Designed a Blender production tool automating retopology, PBR texture baking, LOD generation, rendering, and multi-file export, reducing total asset production time by 90 percent.}
+            \resumeItem{Built an Auto Bake module for 6 PBR map types with automatic cage creation and shader node wiring for game-engine-ready materials.}
+            \resumeItem{Expanded the Auto LOD generator with customizable polygon reduction ratios and optional collider generation for game engine export.}
+            \resumeItem{Introduced Mask Map channel packing tools compatible with Unity HDRP, URP, and Unreal Engine ORM material formats.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+
+%-----------SKILLS-----------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{3D Modeling and Sculpting:}{ Blender (Advanced), Photoshop, Modeling, Modular Asset Creation, Retopology, Mesh Optimization, Texture Creation} \\
+     \textbf{Texturing and Materials:}{ Substance Painter, Substance Designer, Atlas Texturing, PBR Workflows, Hand-Painted Textures, UV Unwrapping, Texture Compression} \\
+     \textbf{Rigging and Animation:}{ Character Rigging, Blend Shapes, Morph Targets, Skinning, Weight Painting, Animation Keyframing} \\
+     \textbf{Rendering and Lighting:}{ Eevee, Cycles, Lumen, Nanite, Post-Processing, Cinematic Lighting, HDRI Lighting, Light Baking, Global Illumination} \\
+     \textbf{Game Engines:}{ Unity 2D and 3D, Unity HDRP and URP, Unreal Engine 5, Blueprints, Landscape Tools, Material Editor, Sequencer, Roblox Studio} \\
+     \textbf{Optimization and Performance:}{ LOD Generation, Draw Call Batching, Occlusion Culling, Texture Streaming, GPU Profiling, Polygon Budget Management, Memory Optimization} \\
+     \textbf{Level Design and Environment Art:}{ Terrain Sculpting, Scene Layout, Lighting Design, World Building, Prop Placement, Player Flow, Blockout, Set Dressing, Environmental Art} \\
+     \textbf{Art Fundamentals:}{ Color Composition, Form, Art Styles, Art Guidelines, Quality Checks, Visual Storytelling} \\
+     \textbf{Pipeline and Technical Art:}{ Python, Blender Plugins, Unity Editor Scripting, Custom Tool Development, Automated Workflows, FBX Export, GLTF Export} \\
+     \textbf{Version Control:}{ Git, GitHub}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
