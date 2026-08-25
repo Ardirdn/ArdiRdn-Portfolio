@@ -14,7 +14,10 @@ import Box from "@mui/material/Box";
 import CardProject from "../components/CardProject";
 import TechStackIcon from "../components/TechStackIcon";
 import ThreeDShowcaseList from "../components/ThreeDShowcase";
-import UiUxSection from "../components/UiUxSection";
+import CutsceneShowcase from "../components/CutsceneShowcase";
+import ShaderShowcase from "../components/ShaderShowcase";
+import VfxUiShowcase from "../components/VfxUiShowcase";
+import GallerySection from "../components/GallerySection";
 import AOS from "aos";
 import { motion, AnimatePresence } from "framer-motion";
 import "aos/dist/aos.css";
@@ -322,8 +325,19 @@ export default function FullWidthTabs() {
   const [tools, setTools] = useState([]);
   const [showAllProjects, setShowAllProjects] = useState(false);
   const [showAllTools, setShowAllTools] = useState(false);
+  const [galleryTab, setGalleryTab] = useState("uiux");
   const isMobile = window.innerWidth < 768;
   const initialItems = isMobile ? 4 : 6;
+
+  // "See All" on a showcase opens its tab in the gallery further down the page.
+  const openGallery = useCallback((tab) => {
+    setGalleryTab(tab);
+    requestAnimationFrame(() => {
+      document
+        .getElementById("Gallery")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  }, []);
 
   useEffect(() => {
     // Initialize AOS once
@@ -462,6 +476,15 @@ export default function FullWidthTabs() {
 
       {/* Level Design List Section */}
       <LevelDesignList />
+
+      {/* Cutscene Section */}
+      <CutsceneShowcase onSeeAll={() => openGallery("cutscene")} />
+
+      {/* Shader Section */}
+      <ShaderShowcase onSeeAll={() => openGallery("shader")} />
+
+      {/* VFX & UI Animation Section */}
+      <VfxUiShowcase onSeeAll={() => openGallery("vfx")} />
 
       {/* 3D Showcase List Section */}
       <ThreeDShowcaseList />
@@ -683,7 +706,7 @@ export default function FullWidthTabs() {
           </TabPanel>
         </SwipeableViews>
       </Box>
-      <UiUxSection />
+      <GallerySection activeTab={galleryTab} onTabChange={setGalleryTab} />
     </div>
   );
 }

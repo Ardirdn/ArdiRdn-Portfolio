@@ -1,0 +1,300 @@
+{
+  "cutscenes": [
+    {
+      "id": "seamless-cutscene-to-gameplay",
+      "title": "Seamless Cutscene to Gameplay",
+      "tag": "Horror Game",
+      "featured": true,
+      "summary": "A scripted cinematic that hands the player straight into live gameplay without a cut or a loading screen.",
+      "description": [
+        "Built for a horror title, where breaking immersion breaks the fear. The cinematic runs on an authored timeline and, on its final beat, the camera is blended back onto the player rig so control is returned exactly where the shot ends, with no fade, no cut and no load.",
+        "The timeline breakdown shows how the shot is orchestrated: camera tracks, character animation, lighting and audio cues are sequenced against gameplay state, so the hand-off lands on the same frame every time."
+      ],
+      "videos": [
+        {
+          "id": "seamless-result",
+          "label": "In-Game Result",
+          "caption": "The full sequence as the player experiences it, cinematic into gameplay in one unbroken take.",
+          "src": "/assets/Cutscenes/Seamless Cutscene To Gameplay/Cutscene.webm",
+          "poster": "/assets/Cutscenes/Seamless Cutscene To Gameplay/Cutscene.webp",
+          "duration": "0:55",
+          "featured": true
+        },
+        {
+          "id": "seamless-timeline",
+          "label": "Timeline Breakdown",
+          "caption": "Authoring view: camera, animation and gameplay cues sequenced on the timeline.",
+          "src": "/assets/Cutscenes/Seamless Cutscene To Gameplay/Timeline.webm",
+          "poster": "/assets/Cutscenes/Seamless Cutscene To Gameplay/Timeline.webp",
+          "duration": "0:27",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "quest-cutscenes",
+      "title": "Quest Cutscenes",
+      "tag": "Narrative",
+      "featured": true,
+      "summary": "Story beats for quest progression, staged and timed to land narrative moments in-game.",
+      "description": [
+        "A set of quest-driven cutscenes covering the full pass: shot staging, camera work, character animation, and timing tuned so each beat reads clearly at gameplay pace."
+      ],
+      "videos": [
+        {
+          "id": "quest-cutscene-7",
+          "label": "Quest Cutscene 07",
+          "caption": "Multi-shot story beat with staged camera work and character performance.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene7.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene7.webp",
+          "duration": "0:43",
+          "featured": true
+        },
+        {
+          "id": "quest-cutscene-1",
+          "label": "Quest Cutscene 01",
+          "caption": "Quest introduction beat.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene1.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene1.webp",
+          "duration": "0:17"
+        },
+        {
+          "id": "quest-cutscene-2",
+          "label": "Quest Cutscene 02",
+          "caption": "Extended dialogue sequence with multiple camera setups.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene2.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene2.webp",
+          "duration": "1:05"
+        },
+        {
+          "id": "quest-cutscene-3",
+          "label": "Quest Cutscene 03",
+          "caption": "Story progression beat.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene3.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene3.webp",
+          "duration": "0:44"
+        },
+        {
+          "id": "quest-cutscene-4",
+          "label": "Quest Cutscene 04",
+          "caption": "Character-focused staging and performance.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene4.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene4.webp",
+          "duration": "0:38"
+        },
+        {
+          "id": "quest-cutscene-5",
+          "label": "Quest Cutscene 05",
+          "caption": "Environment-driven story beat.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene5.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene5.webp",
+          "duration": "0:43"
+        },
+        {
+          "id": "quest-cutscene-6",
+          "label": "Quest Cutscene 06",
+          "caption": "Short transitional beat.",
+          "src": "/assets/Cutscenes/Quest Cutscenes/CutScene6.webm",
+          "poster": "/assets/Cutscenes/Quest Cutscenes/CutScene6.webp",
+          "duration": "0:23"
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "id": "top-down-2d-water-shader",
+      "title": "Top Down 2D Water Shader",
+      "tag": "Stylized Water",
+      "featured": true,
+      "summary": "Fakes real water depth in a 2D top-down scene without ever touching a depth buffer.",
+      "description": [
+        "Depth is authored by hand instead of sampled from the renderer: a black-and-white gradient tilemap is painted to mimic a depth texture, giving full artistic control over where the water reads as shallow or deep.",
+        "The shader samples that value to drive the whole surface, intersection foam, wave motion and shoreline falloff all read from the same gradient. A caustic texture is then sampled and distorted on top, so the light patterns move and refract instead of sitting still."
+      ],
+      "techniques": [
+        "Black-and-white gradient tilemap painted by hand to mimic a depth texture",
+        "Depth sampled to drive the core water visuals: intersection, waves and shoreline",
+        "Caustic texture sampled and distorted for animated, refracted light"
+      ],
+      "videos": [
+        {
+          "id": "water-showcase",
+          "label": "Shader Showcase",
+          "caption": "The shader running in scene: depth-driven shoreline, waves and animated caustics.",
+          "src": "/assets/Shader/2D Top Down Water Shader/Shader Showcase.webm",
+          "poster": "/assets/Shader/2D Top Down Water Shader/Shader Showcase.webp",
+          "duration": "0:30"
+        },
+        {
+          "id": "water-node-view",
+          "label": "Node Graph",
+          "caption": "Graph breakdown of how the depth sample feeds each part of the surface.",
+          "src": "/assets/Shader/2D Top Down Water Shader/Shader Node View.webm",
+          "poster": "/assets/Shader/2D Top Down Water Shader/Shader Node View.webp",
+          "duration": "0:23"
+        }
+      ]
+    },
+    {
+      "id": "paper-sticker-fold-shader",
+      "title": "Paper / Sticker Fold Shader",
+      "tag": "Stylized",
+      "featured": true,
+      "summary": "A customizable shader that simulates a paper or sticker fold along a configurable line.",
+      "description": [
+        "A customizable shader designed to simulate paper or sticker folds. It uses two textures that are masked based on a configurable line defined by an angle and offset. One side retains the original texture, while the other side is replaced with a flat color to create the visual separation of the fold."
+      ],
+      "techniques": [
+        "Two textures masked against a fold line defined by angle and offset",
+        "One side keeps the original texture, the other is replaced with a flat color",
+        "Fully configurable, so the fold can be animated or art-directed per asset"
+      ],
+      "videos": [
+        {
+          "id": "paper-fold-showcase",
+          "label": "Shader Showcase",
+          "caption": "Fold line driven by angle and offset, separating textured and flat-color sides.",
+          "src": "/assets/Shader/Paper  - Sticker Fold Shader/Showcase.webm",
+          "poster": "/assets/Shader/Paper  - Sticker Fold Shader/Showcase.webp",
+          "duration": "0:18"
+        }
+      ]
+    },
+    {
+      "id": "realtime-graphic-content-censorship",
+      "title": "Realtime Graphic Content Censorship",
+      "tag": "Compliance",
+      "featured": true,
+      "summary": "Censors blood and gore in realtime, so one build can ship to stricter content ratings.",
+      "description": [
+        "A custom shader designed to censor graphic content such as blood and gore. It samples the scene color, pixelates the UV coordinates, and reduces color saturation to create a stylized censorship effect."
+      ],
+      "techniques": [
+        "Samples scene color as the shader input",
+        "Pixelates the UV coordinates for a stylized mosaic",
+        "Reduces color saturation to pull back the graphic content"
+      ],
+      "videos": [
+        {
+          "id": "censorship-enabled",
+          "label": "Censorship Enabled",
+          "caption": "Scene color pixelated and desaturated in realtime.",
+          "src": "/assets/Shader/Realtime Graphic Content Cencorship/Enabled.webm",
+          "poster": "/assets/Shader/Realtime Graphic Content Cencorship/Enabled.webp",
+          "duration": "0:09"
+        },
+        {
+          "id": "censorship-disabled",
+          "label": "Censorship Disabled",
+          "caption": "The same scene with the effect switched off, for comparison.",
+          "src": "/assets/Shader/Realtime Graphic Content Cencorship/Disabled.webm",
+          "poster": "/assets/Shader/Realtime Graphic Content Cencorship/Disabled.webp",
+          "duration": "0:10"
+        }
+      ]
+    },
+    {
+      "id": "uv-light-shader",
+      "title": "UV Light Shader",
+      "tag": "Lighting",
+      "featured": false,
+      "summary": "Uses a Spot Light as a lighting mask, so blood decals only reveal where the light falls.",
+      "description": [
+        "A custom shader that uses a Spot Light as a lighting mask. The assigned Spot Light is passed as a global shader value, allowing the shader to determine which areas of the blood decal are affected by the light and create a dynamic illuminated effect."
+      ],
+      "techniques": [
+        "Spot Light passed to the shader as a global value",
+        "Light transform used as a mask to decide which decal areas are lit",
+        "Fully dynamic, the reveal follows the light as it moves"
+      ],
+      "videos": [
+        {
+          "id": "uv-light-enabled",
+          "label": "UV Light Enabled",
+          "caption": "Blood decal revealed only inside the Spot Light mask.",
+          "src": "/assets/Shader/UV Light/Enabled.webm",
+          "poster": "/assets/Shader/UV Light/Enabled.webp",
+          "duration": "0:06"
+        },
+        {
+          "id": "uv-light-disabled",
+          "label": "UV Light Disabled",
+          "caption": "The same scene without the light mask driving the decal.",
+          "src": "/assets/Shader/UV Light/Disabled.webm",
+          "poster": "/assets/Shader/UV Light/Disabled.webp",
+          "duration": "0:20"
+        }
+      ]
+    }
+  ],
+  "vfxUi": [
+    {
+      "id": "giftbox",
+      "label": "Gift Box Reward",
+      "tag": "Reward Flow",
+      "caption": "Full reward sequence: anticipation build, burst on open, then a staged reveal of what dropped.",
+      "src": "/assets/Vfx & Ui Animation/GiftBox.webm",
+      "poster": "/assets/Vfx & Ui Animation/GiftBox.webp",
+      "duration": "0:55",
+      "featured": true
+    },
+    {
+      "id": "case-opening-2",
+      "label": "Case Opening",
+      "tag": "Reward Flow",
+      "caption": "Spinning reel that slows into the result, holding tension right up to the rarity reveal.",
+      "src": "/assets/Vfx & Ui Animation/Case Opening 2.webm",
+      "poster": "/assets/Vfx & Ui Animation/Case Opening 2.webp",
+      "duration": "0:13",
+      "featured": true
+    },
+    {
+      "id": "case-opening-1",
+      "label": "Case Opening (Mobile)",
+      "tag": "Reward Flow",
+      "caption": "Portrait-framed case opening pass built for a mobile layout.",
+      "src": "/assets/Vfx & Ui Animation/Case Opening 1.webm",
+      "poster": "/assets/Vfx & Ui Animation/Case Opening 1.webp",
+      "duration": "0:24",
+      "aspect": "portrait"
+    },
+    {
+      "id": "rng",
+      "label": "RNG Roll",
+      "tag": "Reward Flow",
+      "caption": "Randomised roll presentation, tuned so the outcome lands on a readable beat.",
+      "src": "/assets/Vfx & Ui Animation/Rng.webm",
+      "poster": "/assets/Vfx & Ui Animation/Rng.webp",
+      "duration": "0:08"
+    },
+    {
+      "id": "collecting",
+      "label": "Collection Feedback",
+      "tag": "Game Feel",
+      "caption": "Pickup feedback: rewards fly to the HUD counter with easing and impact pops.",
+      "src": "/assets/Vfx & Ui Animation/Collecting.webm",
+      "poster": "/assets/Vfx & Ui Animation/Collecting.webp",
+      "duration": "0:16"
+    },
+    {
+      "id": "weather-daynight",
+      "label": "Weather & Day-Night Cycle",
+      "tag": "Environment",
+      "caption": "Time-of-day and weather transitions blended in realtime across the scene.",
+      "src": "/assets/Vfx & Ui Animation/Weather & Daynight.webm",
+      "poster": "/assets/Vfx & Ui Animation/Weather & Daynight.webp",
+      "duration": "0:09"
+    },
+    {
+      "id": "button-interaction",
+      "label": "Button Micro-Interactions",
+      "tag": "UI Animation",
+      "caption": "Hover, press and release states tuned so every tap gives immediate feedback.",
+      "src": "/assets/Vfx & Ui Animation/Simple button interaction.webm",
+      "poster": "/assets/Vfx & Ui Animation/Simple button interaction.webp",
+      "duration": "0:55",
+      "aspect": "portrait"
+    }
+  ]
+}
