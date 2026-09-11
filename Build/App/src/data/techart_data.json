@@ -103,40 +103,6 @@
   ],
   "shaders": [
     {
-      "id": "top-down-2d-water-shader",
-      "title": "Top Down 2D Water Shader",
-      "tag": "Stylized Water",
-      "featured": true,
-      "summary": "Fakes real water depth in a 2D top-down scene without ever touching a depth buffer.",
-      "description": [
-        "Depth is authored by hand instead of sampled from the renderer: a black-and-white gradient tilemap is painted to mimic a depth texture, giving full artistic control over where the water reads as shallow or deep.",
-        "The shader samples that value to drive the whole surface, intersection foam, wave motion and shoreline falloff all read from the same gradient. A caustic texture is then sampled and distorted on top, so the light patterns move and refract instead of sitting still."
-      ],
-      "techniques": [
-        "Black-and-white gradient tilemap painted by hand to mimic a depth texture",
-        "Depth sampled to drive the core water visuals: intersection, waves and shoreline",
-        "Caustic texture sampled and distorted for animated, refracted light"
-      ],
-      "videos": [
-        {
-          "id": "water-showcase",
-          "label": "Shader Showcase",
-          "caption": "The shader running in scene: depth-driven shoreline, waves and animated caustics.",
-          "src": "/assets/Shader/2D Top Down Water Shader/Shader Showcase.webm",
-          "poster": "/assets/Shader/2D Top Down Water Shader/Shader Showcase.webp",
-          "duration": "0:30"
-        },
-        {
-          "id": "water-node-view",
-          "label": "Node Graph",
-          "caption": "Graph breakdown of how the depth sample feeds each part of the surface.",
-          "src": "/assets/Shader/2D Top Down Water Shader/Shader Node View.webm",
-          "poster": "/assets/Shader/2D Top Down Water Shader/Shader Node View.webp",
-          "duration": "0:23"
-        }
-      ]
-    },
-    {
       "id": "paper-sticker-fold-shader",
       "title": "Paper / Sticker Fold Shader",
       "tag": "Stylized",

@@ -80,9 +80,10 @@ const ShaderShowcase = ({ onSeeAll }) => {
                     Shader Showcase
                 </h3>
                 <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base">
-                    Custom shaders written to solve a specific production problem — stylized
-                    water without a depth buffer, art-directable folds, and realtime content
-                    censorship that keeps one build shippable across ratings.
+                    Custom shaders written to solve a specific production problem —
+                    art-directable paper folds, realtime content censorship that keeps one
+                    build shippable across ratings, and light-masked reveals driven by a
+                    scene spotlight.
                 </p>
             </div>
 
