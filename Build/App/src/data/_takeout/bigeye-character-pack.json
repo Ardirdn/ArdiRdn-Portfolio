@@ -1,0 +1,406 @@
+{
+  "note": "Temporarily taken out of the live 3D showcase. To restore: re-insert \"pack\" into categories[categoryId].packs at packIndex and put back originalCategoryDescription.",
+  "categoryId": "stylized-character",
+  "packIndex": 2,
+  "originalCategoryDescription": "Dive into a vibrant world of stylized characters! From the adventurous Animal Knights to the primal Cavemen and diverse Fauna Characters, this collection showcases unique personality, clean topology, and expressive designs perfect for RPGs and stylized games.",
+  "pack": {
+    "id": "faunacharacter",
+    "name": "BigEye Character Pack",
+    "folder": "/assets/3d Assets/Stylized Character/FaunaCharacter",
+    "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Cover.webp",
+    "items": [
+      {
+        "id": "akatsuki",
+        "name": "Akatsuki",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Akatsuki/Render/3View/Akatsuki_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Akatsuki/Render/SingleView/Textured/Akatsuki_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "astronot",
+        "name": "Astronot",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot/Render/3View/Astronot_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot/Render/SingleView/Textured/Astronot_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "astronot1",
+        "name": "Astronot1",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot1/Render/3View/Astronot1_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot1/Render/SingleView/Textured/Astronot1_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "astronot2",
+        "name": "Astronot2",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot2/Render/3View/Astronot2_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Astronot2/Render/SingleView/Textured/Astronot2_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "avatar",
+        "name": "Avatar",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Avatar/Render/3View/Avatar_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Avatar/Render/SingleView/Textured/Avatar_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "banana.002",
+        "name": "Banana.002",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Banana.002/Render/3View/Banana.002_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Banana.002/Render/SingleView/Textured/Banana.002_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "batman",
+        "name": "Batman",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Batman/Render/3View/Batman_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Batman/Render/SingleView/Textured/Batman_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "blastx",
+        "name": "BlastX",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/BlastX/Render/3View/BlastX_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/BlastX/Render/SingleView/Textured/BlastX_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "cactus",
+        "name": "Cactus",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Cactus/Render/3View/Cactus_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Cactus/Render/SingleView/Textured/Cactus_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "captaini",
+        "name": "CaptainI",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/CaptainI/Render/3View/CaptainI_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/CaptainI/Render/SingleView/Textured/CaptainI_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "chainsaw",
+        "name": "Chainsaw",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Chainsaw/Render/3View/Chainsaw_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Chainsaw/Render/SingleView/Textured/Chainsaw_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "doyok_muda",
+        "name": "Doyok_Muda",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Doyok_Muda/Render/3View/Doyok_Muda_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Doyok_Muda/Render/SingleView/Textured/Doyok_Muda_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "dracula",
+        "name": "Dracula",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Dracula/Render/3View/Dracula_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Dracula/Render/SingleView/Textured/Dracula_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "fantasy",
+        "name": "Fantasy",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Fantasy/Render/3View/Fantasy_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Fantasy/Render/SingleView/Textured/Fantasy_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "fantasy3",
+        "name": "Fantasy3",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Fantasy3/Render/3View/Fantasy3_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Fantasy3/Render/SingleView/Textured/Fantasy3_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "ghostrider",
+        "name": "GhostRider",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/GhostRider/Render/3View/GhostRider_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/GhostRider/Render/SingleView/Textured/GhostRider_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "gojo",
+        "name": "Gojo",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Gojo/Render/3View/Gojo_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Gojo/Render/SingleView/Textured/Gojo_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "gundam3",
+        "name": "Gundam3",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Gundam3/Render/3View/Gundam3_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Gundam3/Render/SingleView/Textured/Gundam3_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "habibi",
+        "name": "Habibi",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Habibi/Render/3View/Habibi_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Habibi/Render/SingleView/Textured/Habibi_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "jack",
+        "name": "Jack",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Jack/Render/3View/Jack_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Jack/Render/SingleView/Textured/Jack_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "jawa_character",
+        "name": "Jawa_Character",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Jawa_Character/Render/3View/Jawa_Character_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Jawa_Character/Render/SingleView/Textured/Jawa_Character_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "kakashi",
+        "name": "Kakashi",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Kakashi/Render/3View/Kakashi_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Kakashi/Render/SingleView/Textured/Kakashi_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "kakashii",
+        "name": "Kakashii",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Kakashii/Render/3View/Kakashii_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Kakashii/Render/SingleView/Textured/Kakashii_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "leak",
+        "name": "Leak",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Leak/Render/3View/Leak_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Leak/Render/SingleView/Textured/Leak_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "luffy",
+        "name": "Luffy",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Luffy/Render/3View/Luffy_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Luffy/Render/SingleView/Textured/Luffy_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "luffynormal",
+        "name": "LuffyNormal",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/LuffyNormal/Render/3View/LuffyNormal_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/LuffyNormal/Render/SingleView/Textured/LuffyNormal_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "mecha",
+        "name": "Mecha",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Mecha/Render/3View/Mecha_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Mecha/Render/SingleView/Textured/Mecha_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "mikasa",
+        "name": "Mikasa",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Mikasa/Render/3View/Mikasa_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Mikasa/Render/SingleView/Textured/Mikasa_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "naruto",
+        "name": "Naruto",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Naruto/Render/3View/Naruto_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Naruto/Render/SingleView/Textured/Naruto_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "nfc_arena1",
+        "name": "NFC_Arena1",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/NFC_Arena1/Render/3View/NFC_Arena1_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/NFC_Arena1/Render/SingleView/Textured/NFC_Arena1_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "nfc_toko2",
+        "name": "NFC_Toko2",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/NFC_Toko2/Render/3View/NFC_Toko2_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/NFC_Toko2/Render/SingleView/Textured/NFC_Toko2_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pakkumis",
+        "name": "PakKumis",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/PakKumis/Render/3View/PakKumis_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/PakKumis/Render/SingleView/Textured/PakKumis_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pak_dayat",
+        "name": "Pak_Dayat",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pak_Dayat/Render/3View/Pak_Dayat_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pak_Dayat/Render/SingleView/Textured/Pak_Dayat_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pangsi",
+        "name": "Pangsi",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pangsi/Render/3View/Pangsi_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pangsi/Render/SingleView/Textured/Pangsi_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pemburu",
+        "name": "Pemburu",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pemburu/Render/3View/Pemburu_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Pemburu/Render/SingleView/Textured/Pemburu_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pumpkinhead",
+        "name": "PumpkinHead",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/PumpkinHead/Render/3View/PumpkinHead_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/PumpkinHead/Render/SingleView/Textured/PumpkinHead_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "pumpkinheaddinosaur",
+        "name": "PumpkinHeadDinosaur",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/PumpkinHeadDinosaur/Render/3View/PumpkinHeadDinosaur_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/PumpkinHeadDinosaur/Render/SingleView/Textured/PumpkinHeadDinosaur_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "racoon",
+        "name": "Racoon",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Racoon/Render/3View/Racoon_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Racoon/Render/SingleView/Textured/Racoon_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "roma",
+        "name": "Roma",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Roma/Render/3View/Roma_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Roma/Render/SingleView/Textured/Roma_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "saitama",
+        "name": "Saitama",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Saitama/Render/3View/Saitama_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Saitama/Render/SingleView/Textured/Saitama_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "samurai",
+        "name": "Samurai",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Samurai/Render/3View/Samurai_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Samurai/Render/SingleView/Textured/Samurai_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "samuraii",
+        "name": "Samuraii",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Samuraii/Render/3View/Samuraii_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Samuraii/Render/SingleView/Textured/Samuraii_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "sasuke",
+        "name": "Sasuke",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Sasuke/Render/3View/Sasuke_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Sasuke/Render/SingleView/Textured/Sasuke_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "sasukee",
+        "name": "Sasukee",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Sasukee/Render/3View/Sasukee_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Sasukee/Render/SingleView/Textured/Sasukee_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "semangka",
+        "name": "Semangka",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Semangka/Render/3View/Semangka_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Semangka/Render/SingleView/Textured/Semangka_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "skeleton",
+        "name": "Skeleton",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Skeleton/Render/3View/Skeleton_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Skeleton/Render/SingleView/Textured/Skeleton_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "squidgame",
+        "name": "SquidGame",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/SquidGame/Render/3View/SquidGame_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/SquidGame/Render/SingleView/Textured/SquidGame_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "tommy",
+        "name": "Tommy",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Tommy/Render/3View/Tommy_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Tommy/Render/SingleView/Textured/Tommy_SingleView_Textured.webm"
+        }
+      },
+      {
+        "id": "tribes",
+        "name": "Tribes",
+        "cover": "/assets/3d Assets/Stylized Character/FaunaCharacter/Tribes/Render/3View/Tribes_3View_Solid_Wireframe.webp",
+        "webms": {
+          "Textured": "/assets/3d Assets/Stylized Character/FaunaCharacter/Tribes/Render/SingleView/Textured/Tribes_SingleView_Textured.webm"
+        }
+      }
+    ]
+  }
+}
