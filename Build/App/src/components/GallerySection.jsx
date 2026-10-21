@@ -111,7 +111,7 @@ const UiUxTab = () => {
     );
 };
 
-const ClipGrid = ({ clips }) => {
+export const ClipGrid = ({ clips }) => {
     const [clip, setClip] = useState(null);
 
     return (

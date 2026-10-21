@@ -1,0 +1,98 @@
+[
+  {
+    "mp4": "ModularCharacterShowcase/MaterialShowcase.mp4",
+    "webm": "ModularCharacterShowcase/MaterialShowcase.webm",
+    "before": 13717214,
+    "after": 2220090
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Boy.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Boy.webm",
+    "before": 6833568,
+    "after": 1403672
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Fat.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Fat.webm",
+    "before": 5812850,
+    "after": 1206334
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Female.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Female.webm",
+    "before": 8598891,
+    "after": 1745678
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Girl.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Girl.webm",
+    "before": 9049633,
+    "after": 1854534
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Male.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Male.webm",
+    "before": 6575348,
+    "after": 1306480
+  },
+  {
+    "mp4": "ModularCharacterShowcase/ModularCharacter_Muscular.mp4",
+    "webm": "ModularCharacterShowcase/ModularCharacter_Muscular.webm",
+    "before": 7030862,
+    "after": 1421379
+  },
+  {
+    "mp4": "ModularCharacterShowcase/Showcase_Blender.mp4",
+    "webm": "ModularCharacterShowcase/Showcase_Blender.webm",
+    "before": 22369836,
+    "after": 5591386
+  },
+  {
+    "mp4": "ModularCharacterShowcase/Showcase_Scripts.mp4",
+    "webm": "ModularCharacterShowcase/Showcase_Scripts.webm",
+    "before": 8468085,
+    "after": 1602211
+  },
+  {
+    "mp4": "system/Dialogue/Dialogue-Editor.mp4",
+    "webm": "system/Dialogue/Dialogue-Editor.webm",
+    "before": 15561735,
+    "after": 3546672
+  },
+  {
+    "mp4": "system/Dialogue/Dialogue-Gameplay.mp4",
+    "webm": "system/Dialogue/Dialogue-Gameplay.webm",
+    "before": 10892111,
+    "after": 4770769
+  },
+  {
+    "mp4": "system/Easing/Easing_Anim.mp4",
+    "webm": "system/Easing/Easing_Anim.webm",
+    "before": 5025724,
+    "after": 60076
+  },
+  {
+    "mp4": "system/Quest/Quest-Editor.mp4",
+    "webm": "system/Quest/Quest-Editor.webm",
+    "before": 5137804,
+    "after": 1114657
+  },
+  {
+    "mp4": "system/Quest/Quest-Gameplay.mp4",
+    "webm": "system/Quest/Quest-Gameplay.webm",
+    "before": 15255882,
+    "after": 9910421
+  },
+  {
+    "mp4": "system/UIHighlighter/Tutorial1.mp4",
+    "webm": "system/UIHighlighter/Tutorial1.webm",
+    "before": 50497098,
+    "after": 2886992
+  },
+  {
+    "mp4": "system/UIHighlighter/Tutorial2.mp4",
+    "webm": "system/UIHighlighter/Tutorial2.webm",
+    "before": 34360056,
+    "after": 1912279
+  }
+]

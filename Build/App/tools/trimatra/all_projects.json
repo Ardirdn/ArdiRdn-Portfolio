@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1",
+    "link": "/project/juragan-fauna",
+    "icon": "/games/Icons/jf.png",
+    "name": "Juragan Fauna",
+    "category": "Unity"
+  },
+  {
+    "id": "2",
+    "link": "/project/aku-si-juragan-empang",
+    "icon": "/games/Icons/asje.png",
+    "name": "Aku si Juragan Empang",
+    "category": "Unity"
+  },
+  {
+    "id": "4",
+    "link": "/project/aku-si-juragan-ayam",
+    "icon": "/games/Icons/asja.png",
+    "name": "Aku si Juragan Ayam",
+    "category": "Unity"
+  },
+  {
+    "id": "5",
+    "link": "/project/legendary-fish-hunter",
+    "icon": "/games/Icons/lfh.png",
+    "name": "Legendary Fish Hunter",
+    "category": "Unity"
+  },
+  {
+    "id": "6",
+    "link": "/project/aku-si-juragan-kosan",
+    "icon": "/games/Icons/asjk.png",
+    "name": "Aku si Juragan Kosan",
+    "category": "Unity"
+  },
+  {
+    "id": "7",
+    "link": "/project/death-paths",
+    "icon": "/games/Icons/tdp.png",
+    "name": "The Death Paths",
+    "category": "Unity"
+  },
+  {
+    "id": "8",
+    "link": "/project/juragan-nasipadang",
+    "icon": "/games/Icons/jnp.png",
+    "name": "Juragan Nasi Padang",
+    "category": "Unity"
+  },
+  {
+    "id": "9",
+    "link": "/project/aku-si-juragan-pasar",
+    "icon": "/games/Icons/asjp.png",
+    "name": "Aku si Juragan Pasar",
+    "category": "Unity"
+  },
+  {
+    "id": "10",
+    "link": "/project/hole-digger",
+    "icon": "/games/Icons/hd.png",
+    "name": "Hole Digger",
+    "category": "Unity"
+  },
+  {
+    "id": "11",
+    "link": "/project/steal-animegirl",
+    "icon": "/games/Icons/sag.png",
+    "name": "Steal an Anime Girl",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "12",
+    "link": "/project/steal-sneakers",
+    "icon": "/games/Icons/sas.png",
+    "name": "Steal a Sneakers",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "13",
+    "link": "/project/steal-army",
+    "icon": "/games/Icons/saa.png",
+    "name": "Steal an Army",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "14",
+    "link": "/project/mount-halimun",
+    "icon": "/games/Icons/HalimunIco.png",
+    "name": "Mount Halimun",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "15",
+    "link": "/project/throw-my-ride",
+    "icon": "/games/Icons/tmr.png",
+    "name": "Throw My Ride!",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "16",
+    "link": "/project/mount-nirwana",
+    "icon": "/games/Icons/Nirwana.png",
+    "name": "Mount Nirwana",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "17",
+    "link": "/project/mount-kalcer",
+    "icon": "/games/Icons/mk.png",
+    "name": "Mount Kalcer",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "18",
+    "link": "/project/mount-renjana",
+    "icon": "/games/Icons/Renjana.png",
+    "name": "Mount Renjana",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "19",
+    "link": "/project/quarantine-brainrot",
+    "icon": "/games/Icons/qb.png",
+    "name": "Quarantine A Brainrot",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "20",
+    "link": "/project/marching-run",
+    "icon": "/games/Icons/mrun.png",
+    "name": "Marching Run",
+    "category": "Unity"
+  },
+  {
+    "id": "21",
+    "link": "/project/slimy-floor",
+    "icon": "/games/Icons/sf.png",
+    "name": "Slimy Floor",
+    "category": "Unity"
+  },
+  {
+    "id": "22",
+    "link": "/project/land-control",
+    "icon": "/games/Icons/lc.png",
+    "name": "Land Control",
+    "category": "Unity"
+  },
+  {
+    "id": "23",
+    "link": "/project/land-fight",
+    "icon": "/games/Icons/lf.png",
+    "name": "Land Fight",
+    "category": "Unity"
+  },
+  {
+    "id": "24",
+    "link": "/project/centipede-run",
+    "icon": "/games/Icons/cr.png",
+    "name": "Centipede Run",
+    "category": "Unity"
+  },
+  {
+    "id": "25",
+    "link": "/project/lato-lato",
+    "icon": "/games/Icons/ltlt.png",
+    "name": "Latto-Latto 3D",
+    "category": "Unity"
+  },
+  {
+    "id": "26",
+    "link": "/project/gamelanku",
+    "icon": "/games/Icons/gamelanku.png",
+    "name": "Gamelanku",
+    "category": "Unity"
+  },
+  {
+    "id": "27",
+    "link": "/project/dropstack-ball",
+    "icon": "/games/Icons/dsb.png",
+    "name": "Dropstack Ball",
+    "category": "Unity"
+  },
+  {
+    "id": "28",
+    "link": "/project/tts-gaul",
+    "icon": "/games/Icons/tts.png",
+    "name": "TTS Gaul",
+    "category": "Unity"
+  },
+  {
+    "id": "29",
+    "link": "/project/worms-planet",
+    "icon": "/games/Icons/worm.png",
+    "name": "Worms Planet",
+    "category": "Unity"
+  },
+  {
+    "id": "30",
+    "link": "/project/beauty-race",
+    "icon": "/games/Icons/br.png",
+    "name": "Beauty Race",
+    "category": "Unity"
+  },
+  {
+    "id": "31",
+    "link": "/project/wipe-it",
+    "icon": "/games/Icons/wipeit.png",
+    "name": "Wipe It",
+    "category": "Unity"
+  },
+  {
+    "id": "32",
+    "link": "/project/hungry-scream",
+    "icon": "/games/Icons/hs.webp",
+    "name": "Hungry Scream",
+    "category": "Unity"
+  },
+  {
+    "id": "33",
+    "link": "/project/falling-floor",
+    "icon": "/games/Icons/ff.webp",
+    "name": "Falling Floor",
+    "category": "Unity"
+  },
+  {
+    "id": "34",
+    "link": "/project/slice",
+    "icon": "/games/Icons/ms.webp",
+    "name": "Mr. Slice 3D",
+    "category": "Unity"
+  },
+  {
+    "id": "35",
+    "link": "/project/flex-fight",
+    "icon": "/games/Icons/flexf.webp",
+    "name": "Flex Fight",
+    "category": "Unity"
+  },
+  {
+    "id": "36",
+    "link": "/project/crowd-painter",
+    "icon": "/games/Icons/cp.png",
+    "name": "Crowd Painter",
+    "category": "Unity"
+  },
+  {
+    "id": "38",
+    "link": "/project/partyclub",
+    "icon": "/portfolio/IconSalon512.png",
+    "name": "Beach Party",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "40",
+    "link": "/project/speedlimitsim",
+    "icon": "/portfolio/SpeedLimit/IconSLS.png",
+    "name": "Speed Limit Sim",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "42",
+    "link": "/project/mancing-mania",
+    "icon": "/portfolio/mancing/IconMancing512.png",
+    "name": "Mancing Mania",
+    "category": "Roblox Studio"
+  },
+  {
+    "id": "43",
+    "link": "/project/bungee-jump",
+    "icon": "/portfolio/BungeeJump/BungeeIcon.jpeg",
+    "name": "Bungee Jump",
+    "category": "Roblox Studio"
+  }
+]

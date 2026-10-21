@@ -1,0 +1,7 @@
+# Raw capture masters for the Character Skills section (~48 GB).
+# Transcoded webm/webp live in Build/App/public/assets/CharacterSkills/ and ARE committed.
+/CharacterSkills/
+
+# Raw sources for the later level-design and system batches (~2.3 GB).
+# Converted webp/webm live under Build/App/public/assets/ and ARE committed.
+/New/

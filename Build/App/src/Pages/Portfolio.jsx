@@ -17,7 +17,9 @@ import ThreeDShowcaseList from "../components/ThreeDShowcase";
 import CutsceneShowcase from "../components/CutsceneShowcase";
 import ShaderShowcase from "../components/ShaderShowcase";
 import VfxUiShowcase from "../components/VfxUiShowcase";
-import GallerySection from "../components/GallerySection";
+import GallerySection, { GALLERY_TABS } from "../components/GallerySection";
+import CharacterSkillsShowcase from "../components/CharacterSkillsShowcase";
+import SystemsShowcase from "../components/SystemsShowcase";
 import AOS from "aos";
 import { motion, AnimatePresence } from "framer-motion";
 import "aos/dist/aos.css";
@@ -325,7 +327,13 @@ export default function FullWidthTabs() {
   const [tools, setTools] = useState([]);
   const [showAllProjects, setShowAllProjects] = useState(false);
   const [showAllTools, setShowAllTools] = useState(false);
-  const [galleryTab, setGalleryTab] = useState("uiux");
+  // Deep links such as /?gallery=characters#Gallery come back from a character
+  // detail page and should reopen the tab the visitor left from.
+  const [galleryTab, setGalleryTab] = useState(() => {
+    if (typeof window === "undefined") return "uiux";
+    const wanted = new URLSearchParams(window.location.search).get("gallery");
+    return GALLERY_TABS.some((tab) => tab.id === wanted) ? wanted : "uiux";
+  });
   const isMobile = window.innerWidth < 768;
   const initialItems = isMobile ? 4 : 6;
 
@@ -485,6 +493,12 @@ export default function FullWidthTabs() {
 
       {/* VFX & UI Animation Section */}
       <VfxUiShowcase onSeeAll={() => openGallery("vfx")} />
+
+      {/* Systems & Mechanics Section */}
+      <SystemsShowcase />
+
+      {/* Character Skills Section */}
+      <CharacterSkillsShowcase />
 
       {/* 3D Showcase List Section */}
       <ThreeDShowcaseList />

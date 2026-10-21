@@ -1,15 +1,22 @@
 import React, { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
+import { Link, useLocation } from "react-router-dom";
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
     const [activeSection, setActiveSection] = useState("Home");
+    const { pathname } = useLocation();
+
+    // Anchor items light up from the scroll spy; route items from the URL.
+    const isActive = (item) =>
+        item.to ? pathname === item.to : activeSection === item.href.substring(1);
 
     const navItems = [
         { href: "#Home", label: "Home" },
         { href: "#About", label: "About" },
         { href: "#Portfolio", label: "Portfolio" },
+        { to: "/roblox", label: "Roblox" },
         { href: "#Service", label: "Service" },
         { href: "#Contact", label: "Contact" },
     ];
@@ -17,7 +24,7 @@ const Navbar = () => {
     useEffect(() => {
         const handleScroll = () => {
             setScrolled(window.scrollY > 20);
-            const sections = navItems.map(item => {
+            const sections = navItems.filter(item => item.href).map(item => {
                 const section = document.querySelector(item.href);
                 if (section) {
                     return {
@@ -91,15 +98,22 @@ const Navbar = () => {
                     {/* Desktop Navigation */}
                     <div className="hidden md:block">
                         <div className="ml-8 flex items-center space-x-8">
-                            {navItems.map((item) => (
-                                <a
+                            {navItems.map((item) => {
+                                const Tag = item.to ? Link : "a";
+                                const linkProps = item.to
+                                    ? { to: item.to }
+                                    : {
+                                        href: item.href,
+                                        onClick: (e) => scrollToSection(e, item.href),
+                                    };
+                                return (
+                                <Tag
                                     key={item.label}
-                                    href={item.href}
-                                    onClick={(e) => scrollToSection(e, item.href)}
+                                    {...linkProps}
                                     className="group relative px-1 py-2 text-sm font-medium"
                                 >
                                     <span
-                                        className={`relative z-10 transition-colors duration-300 ${activeSection === item.href.substring(1)
+                                        className={`relative z-10 transition-colors duration-300 ${isActive(item)
                                                 ? "bg-gradient-to-r from-[#1659f5] to-[#14ace3] bg-clip-text text-transparent font-semibold"
                                                 : "text-[#e2d3fd] group-hover:text-white"
                                             }`}
@@ -107,13 +121,14 @@ const Navbar = () => {
                                         {item.label}
                                     </span>
                                     <span
-                                        className={`absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-[#1659f5] to-[#14ace3] transform origin-left transition-transform duration-300 ${activeSection === item.href.substring(1)
+                                        className={`absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-[#1659f5] to-[#14ace3] transform origin-left transition-transform duration-300 ${isActive(item)
                                                 ? "scale-x-100"
                                                 : "scale-x-0 group-hover:scale-x-100"
                                             }`}
                                     />
-                                </a>
-                            ))}
+                                </Tag>
+                                );
+                            })}
                         </div>
                     </div>
 
@@ -144,12 +159,19 @@ const Navbar = () => {
             >
                 <div className="flex flex-col h-full">
                     <div className="px-4 py-6 space-y-4 flex-1 ">
-                        {navItems.map((item, index) => (
-                            <a
+                        {navItems.map((item, index) => {
+                            const Tag = item.to ? Link : "a";
+                            const linkProps = item.to
+                                ? { to: item.to, onClick: () => setIsOpen(false) }
+                                : {
+                                    href: item.href,
+                                    onClick: (e) => scrollToSection(e, item.href),
+                                };
+                            return (
+                            <Tag
                                 key={item.label}
-                                href={item.href}
-                                onClick={(e) => scrollToSection(e, item.href)}
-                                className={`block px-4 py-3 text-lg font-medium transition-all duration-300 ease ${activeSection === item.href.substring(1)
+                                {...linkProps}
+                                className={`block px-4 py-3 text-lg font-medium transition-all duration-300 ease ${isActive(item)
                                         ? "bg-gradient-to-r from-[#1659f5] to-[#14ace3] bg-clip-text text-transparent font-semibold"
                                         : "text-[#e2d3fd] hover:text-white"
                                     }`}
@@ -160,8 +182,9 @@ const Navbar = () => {
                                 }}
                             >
                                 {item.label}
-                            </a>
-                        ))}
+                            </Tag>
+                            );
+                        })}
                     </div>
                 </div>
             </div>

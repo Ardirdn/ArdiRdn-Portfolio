@@ -64,7 +64,7 @@ const ModularCharacterSection = () => {
                         data-aos-duration="1200"
                     >
                         <ReactPlayer
-                            url={assetPath("/assets/ModularCharacterShowcase/Showcase_Scripts.mp4")}
+                            url={assetPath("/assets/ModularCharacterShowcase/Showcase_Scripts.webm")}
                             width="100%"
                             height="100%"
                             playing={true}

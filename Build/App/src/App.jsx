@@ -21,6 +21,12 @@ import ItemPage from "./Pages/ThreeD/ItemPage";
 import UiUxPage from "./Pages/UiUxPage";
 import UiUxDetail from "./Pages/UiUxDetail";
 import ModularCharacterDetail from "./Pages/ModularCharacterDetail";
+import CharacterSkillDetail from "./Pages/CharacterSkillDetail";
+import Roblox from "./Pages/Roblox";
+import RobloxGames from "./Pages/RobloxGames";
+import Systems from "./Pages/Systems";
+import SystemDetail from "./Pages/SystemDetail";
+import CharacterSkills from "./Pages/CharacterSkills";
 
 const LandingPage = ({ showWelcome, setShowWelcome }) => {
   return (
@@ -126,6 +132,12 @@ function App() {
         <Route path="/3d-assets/:categoryId" element={<CategoryPage />} />
         <Route path="/3d-assets/:categoryId/:packId" element={<PackPage />} />
         <Route path="/3d-assets/:categoryId/:packId/:itemId" element={<ItemPage />} />
+        <Route path="/roblox" element={<Roblox />} />
+        <Route path="/roblox/games" element={<RobloxGames />} />
+        <Route path="/systems" element={<Systems />} />
+        <Route path="/systems/:id" element={<SystemDetail />} />
+        <Route path="/character-skills" element={<CharacterSkills />} />
+        <Route path="/character-skills/:id" element={<CharacterSkillDetail />} />
         <Route path="/ui-ux" element={<UiUxPage />} />
         <Route path="/ui-ux/:id" element={<UiUxDetail />} />
       </Routes>

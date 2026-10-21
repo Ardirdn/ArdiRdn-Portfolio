@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from "react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { fetchLevelDesigns } from "../services/dataService";
 import { assetPath } from "../utils/assetPath";
 import { motion, AnimatePresence } from "framer-motion";
@@ -120,7 +120,13 @@ const LevelDesignCard = ({ levelDesign }) => {
 
 export default function LevelDesignPage() {
     const [levelDesigns, setLevelDesigns] = useState([]);
-    const [activeFilter, setActiveFilter] = useState("all");
+    // /level-designs?engine=roblox arrives from the Roblox page, which shows
+    // only its own maps and hands the filter over rather than resetting it.
+    const [searchParams] = useSearchParams();
+    const [activeFilter, setActiveFilter] = useState(() => {
+        const wanted = searchParams.get("engine");
+        return engines.some((e) => e.id === wanted) ? wanted : "all";
+    });
 
     useEffect(() => {
         AOS.init({ once: false });

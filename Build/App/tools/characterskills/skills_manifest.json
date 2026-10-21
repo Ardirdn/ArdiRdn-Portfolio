@@ -1,0 +1,2786 @@
+[
+  {
+    "character": "Aizen",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/m1s-solo.webm",
+        "bytes": 637251,
+        "duration": 3.4
+      },
+      "enemy": {
+        "webm": "Aizen/m1s-enemy.webm",
+        "bytes": 681981,
+        "duration": 3.43
+      }
+    }
+  },
+  {
+    "character": "Aizen",
+    "key": "skill1",
+    "rawName": "IllusionStrike",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/skill1-solo.webm",
+        "bytes": 248593,
+        "duration": 3.53
+      },
+      "enemy": {
+        "webm": "Aizen/skill1-enemy.webm",
+        "bytes": 811885,
+        "duration": 3.53
+      }
+    }
+  },
+  {
+    "character": "Aizen",
+    "key": "skill2",
+    "rawName": "HadoBlast",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/skill2-solo.webm",
+        "bytes": 640270,
+        "duration": 3.85
+      },
+      "enemy": {
+        "webm": "Aizen/skill2-enemy.webm",
+        "bytes": 982023,
+        "duration": 3.87
+      }
+    }
+  },
+  {
+    "character": "Aizen",
+    "key": "skill3",
+    "rawName": "Danku",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/skill3-solo.webm",
+        "bytes": 318936,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "Aizen/skill3-enemy.webm",
+        "bytes": 457146,
+        "duration": 3.18
+      }
+    }
+  },
+  {
+    "character": "Aizen",
+    "key": "skill4",
+    "rawName": "KyokaSuigetsu",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/skill4-solo.webm",
+        "bytes": 284460,
+        "duration": 6.13
+      },
+      "enemy": {
+        "webm": "Aizen/skill4-enemy.webm",
+        "bytes": 308120,
+        "duration": 6.12
+      }
+    }
+  },
+  {
+    "character": "Aizen",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Aizen/skill5-solo.webm",
+        "bytes": 1733253,
+        "duration": 6.5
+      },
+      "enemy": {
+        "webm": "Aizen/skill5-enemy.webm",
+        "bytes": 1930314,
+        "duration": 6.52
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Android18/m1s-solo.webm",
+        "bytes": 482513,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Android18/m1s-enemy.webm",
+        "bytes": 479797,
+        "duration": 3.12
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "skill1",
+    "rawName": "EnergyVolley",
+    "variants": {
+      "solo": {
+        "webm": "Android18/skill1-solo.webm",
+        "bytes": 312902,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Android18/skill1-enemy.webm",
+        "bytes": 407159,
+        "duration": 3.1
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "skill2",
+    "rawName": "BladeThrow",
+    "variants": {
+      "solo": {
+        "webm": "Android18/skill2-solo.webm",
+        "bytes": 228703,
+        "duration": 3.0
+      },
+      "enemy": {
+        "webm": "Android18/skill2-enemy.webm",
+        "bytes": 367857,
+        "duration": 3.0
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "skill3",
+    "rawName": "PhotonBarrage",
+    "variants": {
+      "solo": {
+        "webm": "Android18/skill3-solo.webm",
+        "bytes": 630155,
+        "duration": 4.5
+      },
+      "enemy": {
+        "webm": "Android18/skill3-enemy.webm",
+        "bytes": 1656794,
+        "duration": 4.52
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "skill4",
+    "rawName": "PhotonCannon",
+    "variants": {
+      "solo": {
+        "webm": "Android18/skill4-solo.webm",
+        "bytes": 435835,
+        "duration": 3.72
+      },
+      "enemy": {
+        "webm": "Android18/skill4-enemy.webm",
+        "bytes": 472311,
+        "duration": 3.68
+      }
+    }
+  },
+  {
+    "character": "Android18",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Android18/skill5-solo.webm",
+        "bytes": 1019792,
+        "duration": 5.55
+      },
+      "enemy": {
+        "webm": "Android18/skill5-enemy.webm",
+        "bytes": 1054098,
+        "duration": 5.55
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/m1s-solo.webm",
+        "bytes": 534199,
+        "duration": 3.78
+      },
+      "enemy": {
+        "webm": "BakiHanma/m1s-enemy.webm",
+        "bytes": 560762,
+        "duration": 3.7
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "skill1",
+    "rawName": "SpinKick",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/skill1-solo.webm",
+        "bytes": 197805,
+        "duration": 1.8
+      },
+      "enemy": {
+        "webm": "BakiHanma/skill1-enemy.webm",
+        "bytes": 366613,
+        "duration": 1.8
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "skill2",
+    "rawName": "DoubleHit",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/skill2-solo.webm",
+        "bytes": 318779,
+        "duration": 3.3
+      },
+      "enemy": {
+        "webm": "BakiHanma/skill2-enemy.webm",
+        "bytes": 516914,
+        "duration": 3.3
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "skill3",
+    "rawName": "TriKick",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/skill3-solo.webm",
+        "bytes": 201404,
+        "duration": 2.1
+      },
+      "enemy": {
+        "webm": "BakiHanma/skill3-enemy.webm",
+        "bytes": 406696,
+        "duration": 2.1
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "skill4",
+    "rawName": "Smash",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/skill4-solo.webm",
+        "bytes": 166877,
+        "duration": 2.2
+      },
+      "enemy": {
+        "webm": "BakiHanma/skill4-enemy.webm",
+        "bytes": 309623,
+        "duration": 2.2
+      }
+    }
+  },
+  {
+    "character": "BakiHanma",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "BakiHanma/skill5-solo.webm",
+        "bytes": 338024,
+        "duration": 3.72
+      },
+      "enemy": {
+        "webm": "BakiHanma/skill5-enemy.webm",
+        "bytes": 705792,
+        "duration": 3.72
+      }
+    }
+  },
+  {
+    "character": "Balanced1",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Balanced1/m1s-solo.webm",
+        "bytes": 430361,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Balanced1/m1s-enemy.webm",
+        "bytes": 541230,
+        "duration": 3.43
+      }
+    }
+  },
+  {
+    "character": "Balanced1",
+    "key": "skill1",
+    "rawName": "TwinFang",
+    "variants": {
+      "solo": {
+        "webm": "Balanced1/skill1-solo.webm",
+        "bytes": 697323,
+        "duration": 3.98
+      },
+      "enemy": {
+        "webm": "Balanced1/skill1-enemy.webm",
+        "bytes": 577105,
+        "duration": 3.98
+      }
+    }
+  },
+  {
+    "character": "Balanced2",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Balanced2/m1s-solo.webm",
+        "bytes": 368513,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Balanced2/m1s-enemy.webm",
+        "bytes": 428297,
+        "duration": 3.45
+      }
+    }
+  },
+  {
+    "character": "Balanced2",
+    "key": "skill1",
+    "rawName": "PowerBlast",
+    "variants": {
+      "solo": {
+        "webm": "Balanced2/skill1-solo.webm",
+        "bytes": 350270,
+        "duration": 3.48
+      },
+      "enemy": {
+        "webm": "Balanced2/skill1-enemy.webm",
+        "bytes": 431760,
+        "duration": 3.48
+      }
+    }
+  },
+  {
+    "character": "BeamStrike",
+    "key": "thunderstrike",
+    "rawName": "ThunderStrike",
+    "variants": {
+      "full": {
+        "webm": "BeamStrike/thunderstrike-full.webm",
+        "bytes": 4096089,
+        "duration": 44.13
+      }
+    }
+  },
+  {
+    "character": "BeamStrike",
+    "key": "tornadojudge",
+    "rawName": "TornadoJudge",
+    "variants": {
+      "full": {
+        "webm": "BeamStrike/tornadojudge-full.webm",
+        "bytes": 4421976,
+        "duration": 31.7
+      }
+    }
+  },
+  {
+    "character": "BeamStrike",
+    "key": "windspike",
+    "rawName": "WindSpike",
+    "variants": {
+      "full": {
+        "webm": "BeamStrike/windspike-full.webm",
+        "bytes": 2741088,
+        "duration": 25.92
+      }
+    }
+  },
+  {
+    "character": "Beatrice",
+    "key": "spike",
+    "rawName": "Spike",
+    "variants": {
+      "full": {
+        "webm": "Beatrice/spike-full.webm",
+        "bytes": 5388363,
+        "duration": 43.0
+      }
+    }
+  },
+  {
+    "character": "Beatrice",
+    "key": "ultimate",
+    "rawName": "Ultimate",
+    "variants": {
+      "full": {
+        "webm": "Beatrice/ultimate-full.webm",
+        "bytes": 5810512,
+        "duration": 21.43
+      }
+    }
+  },
+  {
+    "character": "Beatrice",
+    "key": "wormhole",
+    "rawName": "Wormhole",
+    "variants": {
+      "full": {
+        "webm": "Beatrice/wormhole-full.webm",
+        "bytes": 957645,
+        "duration": 8.58
+      }
+    }
+  },
+  {
+    "character": "BillCIpher",
+    "key": "checkerslam",
+    "rawName": "CheckerSlam",
+    "variants": {
+      "full": {
+        "webm": "BillCIpher/checkerslam-full.webm",
+        "bytes": 4037658,
+        "duration": 21.95
+      }
+    }
+  },
+  {
+    "character": "BillCIpher",
+    "key": "firesoot",
+    "rawName": "FireSoot",
+    "variants": {
+      "full": {
+        "webm": "BillCIpher/firesoot-full.webm",
+        "bytes": 837922,
+        "duration": 12.33
+      }
+    }
+  },
+  {
+    "character": "BillCIpher",
+    "key": "goldenfist",
+    "rawName": "GoldenFist",
+    "variants": {
+      "full": {
+        "webm": "BillCIpher/goldenfist-full.webm",
+        "bytes": 6813944,
+        "duration": 25.13
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/m1s-solo.webm",
+        "bytes": 550323,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Ejin/m1s-enemy.webm",
+        "bytes": 794098,
+        "duration": 3.12
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "skill1",
+    "rawName": "DrillRush",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/skill1-solo.webm",
+        "bytes": 467376,
+        "duration": 2.3
+      },
+      "enemy": {
+        "webm": "Ejin/skill1-enemy.webm",
+        "bytes": 602973,
+        "duration": 2.3
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "skill2",
+    "rawName": "BlastWave",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/skill2-solo.webm",
+        "bytes": 585119,
+        "duration": 2.7
+      },
+      "enemy": {
+        "webm": "Ejin/skill2-enemy.webm",
+        "bytes": 494700,
+        "duration": 2.7
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "skill3",
+    "rawName": "SpiralDrive",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/skill3-solo.webm",
+        "bytes": 2022280,
+        "duration": 5.35
+      },
+      "enemy": {
+        "webm": "Ejin/skill3-enemy.webm",
+        "bytes": 2222202,
+        "duration": 5.37
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "skill4",
+    "rawName": "GroundBurst",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/skill4-solo.webm",
+        "bytes": 518735,
+        "duration": 4.0
+      },
+      "enemy": {
+        "webm": "Ejin/skill4-enemy.webm",
+        "bytes": 1195382,
+        "duration": 3.98
+      }
+    }
+  },
+  {
+    "character": "Ejin",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Ejin/skill5-solo.webm",
+        "bytes": 1434118,
+        "duration": 3.98
+      },
+      "enemy": {
+        "webm": "Ejin/skill5-enemy.webm",
+        "bytes": 1847209,
+        "duration": 3.98
+      }
+    }
+  },
+  {
+    "character": "Emilia",
+    "key": "icering",
+    "rawName": "IceRing",
+    "variants": {
+      "full": {
+        "webm": "Emilia/icering-full.webm",
+        "bytes": 7437841,
+        "duration": 13.72
+      },
+      "preview": {
+        "webm": "Emilia/icering-preview.webm",
+        "bytes": 2019374,
+        "duration": 6.0
+      }
+    }
+  },
+  {
+    "character": "Emilia",
+    "key": "iceslam",
+    "rawName": "IceSlam",
+    "variants": {
+      "full": {
+        "webm": "Emilia/iceslam-full.webm",
+        "bytes": 3483424,
+        "duration": 19.2
+      },
+      "preview": {
+        "webm": "Emilia/iceslam-preview.webm",
+        "bytes": 1108810,
+        "duration": 6.0
+      }
+    }
+  },
+  {
+    "character": "Emilia",
+    "key": "iceslide",
+    "rawName": "IceSlide",
+    "variants": {
+      "full": {
+        "webm": "Emilia/iceslide-full.webm",
+        "bytes": 8676280,
+        "duration": 27.33
+      }
+    }
+  },
+  {
+    "character": "Emilia",
+    "key": "icesoldier",
+    "rawName": "IceSoldier",
+    "variants": {
+      "full": {
+        "webm": "Emilia/icesoldier-full.webm",
+        "bytes": 991372,
+        "duration": 9.53
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/m1s-solo.webm",
+        "bytes": 435593,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Frieza/m1s-enemy.webm",
+        "bytes": 529882,
+        "duration": 3.18
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "skill1",
+    "rawName": "DeathBeam",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/skill1-solo.webm",
+        "bytes": 311701,
+        "duration": 3.15
+      },
+      "enemy": {
+        "webm": "Frieza/skill1-enemy.webm",
+        "bytes": 323588,
+        "duration": 3.15
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "skill2",
+    "rawName": "StoneBarrage",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/skill2-solo.webm",
+        "bytes": 527827,
+        "duration": 3.8
+      },
+      "enemy": {
+        "webm": "Frieza/skill2-enemy.webm",
+        "bytes": 546236,
+        "duration": 3.8
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "skill3",
+    "rawName": "DeathSaucer",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/skill3-solo.webm",
+        "bytes": 477386,
+        "duration": 3.65
+      },
+      "enemy": {
+        "webm": "Frieza/skill3-enemy.webm",
+        "bytes": 624971,
+        "duration": 3.67
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "skill4",
+    "rawName": "EarthBreaker",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/skill4-solo.webm",
+        "bytes": 531485,
+        "duration": 3.48
+      },
+      "enemy": {
+        "webm": "Frieza/skill4-enemy.webm",
+        "bytes": 831976,
+        "duration": 3.5
+      }
+    }
+  },
+  {
+    "character": "Frieza",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Frieza/skill5-solo.webm",
+        "bytes": 917253,
+        "duration": 4.25
+      },
+      "enemy": {
+        "webm": "Frieza/skill5-enemy.webm",
+        "bytes": 1194196,
+        "duration": 4.25
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/m1s-solo.webm",
+        "bytes": 613200,
+        "duration": 3.32
+      },
+      "enemy": {
+        "webm": "Gilgamesh/m1s-enemy.webm",
+        "bytes": 659781,
+        "duration": 3.3
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "skill1",
+    "rawName": "BladeCyclone",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/skill1-solo.webm",
+        "bytes": 506765,
+        "duration": 2.75
+      },
+      "enemy": {
+        "webm": "Gilgamesh/skill1-enemy.webm",
+        "bytes": 702338,
+        "duration": 2.75
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "skill2",
+    "rawName": "Enkidu",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/skill2-solo.webm",
+        "bytes": 174019,
+        "duration": 2.12
+      },
+      "enemy": {
+        "webm": "Gilgamesh/skill2-enemy.webm",
+        "bytes": 496352,
+        "duration": 2.1
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "skill3",
+    "rawName": "GateOfBabylon",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/skill3-solo.webm",
+        "bytes": 652231,
+        "duration": 4.53
+      },
+      "enemy": {
+        "webm": "Gilgamesh/skill3-enemy.webm",
+        "bytes": 1379447,
+        "duration": 4.5
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "skill4",
+    "rawName": "SwordRain",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/skill4-solo.webm",
+        "bytes": 1082793,
+        "duration": 4.52
+      },
+      "enemy": {
+        "webm": "Gilgamesh/skill4-enemy.webm",
+        "bytes": 1311730,
+        "duration": 4.52
+      }
+    }
+  },
+  {
+    "character": "Gilgamesh",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Gilgamesh/skill5-solo.webm",
+        "bytes": 4046895,
+        "duration": 10.42
+      },
+      "enemy": {
+        "webm": "Gilgamesh/skill5-enemy.webm",
+        "bytes": 5420368,
+        "duration": 10.4
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/m1s-solo.webm",
+        "bytes": 488650,
+        "duration": 3.17
+      },
+      "enemy": {
+        "webm": "Gojo/m1s-enemy.webm",
+        "bytes": 540463,
+        "duration": 3.18
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "skill1",
+    "rawName": "InfinityShot",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/skill1-solo.webm",
+        "bytes": 398586,
+        "duration": 4.03
+      },
+      "enemy": {
+        "webm": "Gojo/skill1-enemy.webm",
+        "bytes": 518276,
+        "duration": 4.03
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "skill2",
+    "rawName": "TwinOrbs",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/skill2-solo.webm",
+        "bytes": 228772,
+        "duration": 3.58
+      },
+      "enemy": {
+        "webm": "Gojo/skill2-enemy.webm",
+        "bytes": 523038,
+        "duration": 3.58
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "skill3",
+    "rawName": "Red",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/skill3-solo.webm",
+        "bytes": 829055,
+        "duration": 4.65
+      },
+      "enemy": {
+        "webm": "Gojo/skill3-enemy.webm",
+        "bytes": 970915,
+        "duration": 4.65
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "skill4",
+    "rawName": "Blue",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/skill4-solo.webm",
+        "bytes": 1086117,
+        "duration": 3.75
+      },
+      "enemy": {
+        "webm": "Gojo/skill4-enemy.webm",
+        "bytes": 1367435,
+        "duration": 3.75
+      }
+    }
+  },
+  {
+    "character": "Gojo",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Gojo/skill5-solo.webm",
+        "bytes": 3071263,
+        "duration": 15.55
+      },
+      "enemy": {
+        "webm": "Gojo/skill5-enemy.webm",
+        "bytes": 3157664,
+        "duration": 15.53
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Goku/m1s-solo.webm",
+        "bytes": 447738,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Goku/m1s-enemy.webm",
+        "bytes": 414164,
+        "duration": 3.15
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "skill1",
+    "rawName": "Flash",
+    "variants": {
+      "solo": {
+        "webm": "Goku/skill1-solo.webm",
+        "bytes": 305035,
+        "duration": 2.4
+      },
+      "enemy": {
+        "webm": "Goku/skill1-enemy.webm",
+        "bytes": 300784,
+        "duration": 2.4
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "skill2",
+    "rawName": "Impact",
+    "variants": {
+      "solo": {
+        "webm": "Goku/skill2-solo.webm",
+        "bytes": 380610,
+        "duration": 2.9
+      },
+      "enemy": {
+        "webm": "Goku/skill2-enemy.webm",
+        "bytes": 328861,
+        "duration": 2.9
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "skill3",
+    "rawName": "KiBlast",
+    "variants": {
+      "solo": {
+        "webm": "Goku/skill3-solo.webm",
+        "bytes": 762922,
+        "duration": 5.52
+      },
+      "enemy": {
+        "webm": "Goku/skill3-enemy.webm",
+        "bytes": 1209514,
+        "duration": 5.52
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "skill4",
+    "rawName": "EnergyBurst",
+    "variants": {
+      "solo": {
+        "webm": "Goku/skill4-solo.webm",
+        "bytes": 611020,
+        "duration": 3.5
+      },
+      "enemy": {
+        "webm": "Goku/skill4-enemy.webm",
+        "bytes": 435940,
+        "duration": 3.5
+      }
+    }
+  },
+  {
+    "character": "Goku",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Goku/skill5-solo.webm",
+        "bytes": 1425879,
+        "duration": 4.7
+      },
+      "enemy": {
+        "webm": "Goku/skill5-enemy.webm",
+        "bytes": 1262466,
+        "duration": 4.7
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/m1s-solo.webm",
+        "bytes": 496564,
+        "duration": 3.32
+      },
+      "enemy": {
+        "webm": "GonFreecss/m1s-enemy.webm",
+        "bytes": 529544,
+        "duration": 3.32
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "skill1",
+    "rawName": "OrbLaunch",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/skill1-solo.webm",
+        "bytes": 263127,
+        "duration": 2.5
+      },
+      "enemy": {
+        "webm": "GonFreecss/skill1-enemy.webm",
+        "bytes": 292162,
+        "duration": 2.52
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "skill2",
+    "rawName": "Slash",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/skill2-solo.webm",
+        "bytes": 305713,
+        "duration": 3.62
+      },
+      "enemy": {
+        "webm": "GonFreecss/skill2-enemy.webm",
+        "bytes": 360621,
+        "duration": 3.62
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "skill3",
+    "rawName": "OrbSmash",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/skill3-solo.webm",
+        "bytes": 384829,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "GonFreecss/skill3-enemy.webm",
+        "bytes": 420131,
+        "duration": 3.1
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "skill4",
+    "rawName": "StoneUp",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/skill4-solo.webm",
+        "bytes": 476148,
+        "duration": 3.0
+      },
+      "enemy": {
+        "webm": "GonFreecss/skill4-enemy.webm",
+        "bytes": 912974,
+        "duration": 3.02
+      }
+    }
+  },
+  {
+    "character": "GonFreecss",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "GonFreecss/skill5-solo.webm",
+        "bytes": 375922,
+        "duration": 3.7
+      },
+      "enemy": {
+        "webm": "GonFreecss/skill5-enemy.webm",
+        "bytes": 434491,
+        "duration": 3.7
+      }
+    }
+  },
+  {
+    "character": "Healer",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Healer/m1s-solo.webm",
+        "bytes": 318341,
+        "duration": 3.17
+      },
+      "enemy": {
+        "webm": "Healer/m1s-enemy.webm",
+        "bytes": 423556,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "Healer",
+    "key": "skill1",
+    "rawName": "HealingWave",
+    "variants": {
+      "solo": {
+        "webm": "Healer/skill1-solo.webm",
+        "bytes": 284611,
+        "duration": 2.75
+      },
+      "enemy": {
+        "webm": "Healer/skill1-enemy.webm",
+        "bytes": 369650,
+        "duration": 2.78
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/m1s-solo.webm",
+        "bytes": 790780,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "Ichigo/m1s-enemy.webm",
+        "bytes": 967560,
+        "duration": 3.17
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "skill1",
+    "rawName": "CrescentSlash",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/skill1-solo.webm",
+        "bytes": 297208,
+        "duration": 2.15
+      },
+      "enemy": {
+        "webm": "Ichigo/skill1-enemy.webm",
+        "bytes": 468475,
+        "duration": 2.15
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "skill2",
+    "rawName": "Getsuga",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/skill2-solo.webm",
+        "bytes": 328807,
+        "duration": 3.27
+      },
+      "enemy": {
+        "webm": "Ichigo/skill2-enemy.webm",
+        "bytes": 473819,
+        "duration": 3.25
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "skill3",
+    "rawName": "BladeSpin",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/skill3-solo.webm",
+        "bytes": 711874,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Ichigo/skill3-enemy.webm",
+        "bytes": 1222620,
+        "duration": 3.12
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "skill4",
+    "rawName": "ReiatsuPillar",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/skill4-solo.webm",
+        "bytes": 1321992,
+        "duration": 3.98
+      },
+      "enemy": {
+        "webm": "Ichigo/skill4-enemy.webm",
+        "bytes": 1936260,
+        "duration": 3.98
+      }
+    }
+  },
+  {
+    "character": "Ichigo",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Ichigo/skill5-solo.webm",
+        "bytes": 1361110,
+        "duration": 8.45
+      },
+      "enemy": {
+        "webm": "Ichigo/skill5-enemy.webm",
+        "bytes": 1611757,
+        "duration": 8.45
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/m1s-solo.webm",
+        "bytes": 673914,
+        "duration": 3.58
+      },
+      "enemy": {
+        "webm": "Kaguya/m1s-enemy.webm",
+        "bytes": 727376,
+        "duration": 3.6
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "skill1",
+    "rawName": "FistShot",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/skill1-solo.webm",
+        "bytes": 371085,
+        "duration": 2.98
+      },
+      "enemy": {
+        "webm": "Kaguya/skill1-enemy.webm",
+        "bytes": 376856,
+        "duration": 2.97
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "skill2",
+    "rawName": "GroundFist",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/skill2-solo.webm",
+        "bytes": 291995,
+        "duration": 2.42
+      },
+      "enemy": {
+        "webm": "Kaguya/skill2-enemy.webm",
+        "bytes": 568905,
+        "duration": 2.45
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "skill3",
+    "rawName": "FistBarrage",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/skill3-solo.webm",
+        "bytes": 1644742,
+        "duration": 4.78
+      },
+      "enemy": {
+        "webm": "Kaguya/skill3-enemy.webm",
+        "bytes": 2115639,
+        "duration": 4.75
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "skill4",
+    "rawName": "PortalStrike",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/skill4-solo.webm",
+        "bytes": 2499233,
+        "duration": 6.87
+      },
+      "enemy": {
+        "webm": "Kaguya/skill4-enemy.webm",
+        "bytes": 2374093,
+        "duration": 6.87
+      }
+    }
+  },
+  {
+    "character": "Kaguya",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Kaguya/skill5-solo.webm",
+        "bytes": 936423,
+        "duration": 5.0
+      },
+      "enemy": {
+        "webm": "Kaguya/skill5-enemy.webm",
+        "bytes": 1094779,
+        "duration": 4.98
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/m1s-solo.webm",
+        "bytes": 488670,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "Luffy/m1s-enemy.webm",
+        "bytes": 552523,
+        "duration": 3.18
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "skill1",
+    "rawName": "Pistol",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/skill1-solo.webm",
+        "bytes": 355501,
+        "duration": 2.43
+      },
+      "enemy": {
+        "webm": "Luffy/skill1-enemy.webm",
+        "bytes": 395585,
+        "duration": 2.43
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "skill2",
+    "rawName": "GearSecond",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/skill2-solo.webm",
+        "bytes": 440343,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Luffy/skill2-enemy.webm",
+        "bytes": 421167,
+        "duration": 3.1
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "skill3",
+    "rawName": "JetRocket",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/skill3-solo.webm",
+        "bytes": 677522,
+        "duration": 2.93
+      },
+      "enemy": {
+        "webm": "Luffy/skill3-enemy.webm",
+        "bytes": 785056,
+        "duration": 2.95
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "skill4",
+    "rawName": "RedHawk",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/skill4-solo.webm",
+        "bytes": 555550,
+        "duration": 3.05
+      },
+      "enemy": {
+        "webm": "Luffy/skill4-enemy.webm",
+        "bytes": 563711,
+        "duration": 3.05
+      }
+    }
+  },
+  {
+    "character": "Luffy",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Luffy/skill5-solo.webm",
+        "bytes": 746277,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Luffy/skill5-enemy.webm",
+        "bytes": 1213515,
+        "duration": 3.42
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Madara/m1s-solo.webm",
+        "bytes": 425236,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Madara/m1s-enemy.webm",
+        "bytes": 459303,
+        "duration": 3.23
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "skill1",
+    "rawName": "Sharingan",
+    "variants": {
+      "solo": {
+        "webm": "Madara/skill1-solo.webm",
+        "bytes": 172934,
+        "duration": 2.55
+      },
+      "enemy": {
+        "webm": "Madara/skill1-enemy.webm",
+        "bytes": 177414,
+        "duration": 2.55
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "skill2",
+    "rawName": "FireAnnihilation",
+    "variants": {
+      "solo": {
+        "webm": "Madara/skill2-solo.webm",
+        "bytes": 662287,
+        "duration": 4.48
+      },
+      "enemy": {
+        "webm": "Madara/skill2-enemy.webm",
+        "bytes": 758913,
+        "duration": 4.48
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "skill3",
+    "rawName": "MudClone",
+    "variants": {
+      "solo": {
+        "webm": "Madara/skill3-solo.webm",
+        "bytes": 397430,
+        "duration": 3.58
+      },
+      "enemy": {
+        "webm": "Madara/skill3-enemy.webm",
+        "bytes": 406646,
+        "duration": 3.6
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "skill4",
+    "rawName": "FlameOrb",
+    "variants": {
+      "solo": {
+        "webm": "Madara/skill4-solo.webm",
+        "bytes": 364969,
+        "duration": 3.48
+      },
+      "enemy": {
+        "webm": "Madara/skill4-enemy.webm",
+        "bytes": 431443,
+        "duration": 3.48
+      }
+    }
+  },
+  {
+    "character": "Madara",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Madara/skill5-solo.webm",
+        "bytes": 756170,
+        "duration": 4.43
+      },
+      "enemy": {
+        "webm": "Madara/skill5-enemy.webm",
+        "bytes": 1213205,
+        "duration": 4.5
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/m1s-solo.webm",
+        "bytes": 440224,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Naruto/m1s-enemy.webm",
+        "bytes": 558387,
+        "duration": 3.22
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "skill1",
+    "rawName": "CloneStrike",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/skill1-solo.webm",
+        "bytes": 224171,
+        "duration": 2.75
+      },
+      "enemy": {
+        "webm": "Naruto/skill1-enemy.webm",
+        "bytes": 372157,
+        "duration": 2.75
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "skill2",
+    "rawName": "FumaShuriken",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/skill2-solo.webm",
+        "bytes": 245236,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "Naruto/skill2-enemy.webm",
+        "bytes": 395158,
+        "duration": 3.15
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "skill3",
+    "rawName": "CloneAssault",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/skill3-solo.webm",
+        "bytes": 215159,
+        "duration": 2.43
+      },
+      "enemy": {
+        "webm": "Naruto/skill3-enemy.webm",
+        "bytes": 372530,
+        "duration": 2.43
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "skill4",
+    "rawName": "CloneDive",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/skill4-solo.webm",
+        "bytes": 147654,
+        "duration": 2.85
+      },
+      "enemy": {
+        "webm": "Naruto/skill4-enemy.webm",
+        "bytes": 313924,
+        "duration": 2.83
+      }
+    }
+  },
+  {
+    "character": "Naruto",
+    "key": "skill5",
+    "rawName": "ShadowClones",
+    "variants": {
+      "solo": {
+        "webm": "Naruto/skill5-solo.webm",
+        "bytes": 448948,
+        "duration": 2.27
+      },
+      "enemy": {
+        "webm": "Naruto/skill5-enemy.webm",
+        "bytes": 305515,
+        "duration": 2.25
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/m1s-solo.webm",
+        "bytes": 433281,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Natsu/m1s-enemy.webm",
+        "bytes": 538750,
+        "duration": 3.17
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "skill1",
+    "rawName": "FlameKick",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/skill1-solo.webm",
+        "bytes": 504437,
+        "duration": 3.58
+      },
+      "enemy": {
+        "webm": "Natsu/skill1-enemy.webm",
+        "bytes": 572101,
+        "duration": 3.58
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "skill2",
+    "rawName": "SwordHorn",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/skill2-solo.webm",
+        "bytes": 753866,
+        "duration": 4.17
+      },
+      "enemy": {
+        "webm": "Natsu/skill2-enemy.webm",
+        "bytes": 822855,
+        "duration": 4.13
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "skill3",
+    "rawName": "FlameBarrage",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/skill3-solo.webm",
+        "bytes": 912497,
+        "duration": 4.25
+      },
+      "enemy": {
+        "webm": "Natsu/skill3-enemy.webm",
+        "bytes": 1351940,
+        "duration": 4.27
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "skill4",
+    "rawName": "DragonRoar",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/skill4-solo.webm",
+        "bytes": 992129,
+        "duration": 4.98
+      },
+      "enemy": {
+        "webm": "Natsu/skill4-enemy.webm",
+        "bytes": 856871,
+        "duration": 4.98
+      }
+    }
+  },
+  {
+    "character": "Natsu",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Natsu/skill5-solo.webm",
+        "bytes": 1064303,
+        "duration": 5.45
+      },
+      "enemy": {
+        "webm": "Natsu/skill5-enemy.webm",
+        "bytes": 1389694,
+        "duration": 5.45
+      }
+    }
+  },
+  {
+    "character": "Ranger1",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Ranger1/m1s-solo.webm",
+        "bytes": 483934,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Ranger1/m1s-enemy.webm",
+        "bytes": 441934,
+        "duration": 3.47
+      }
+    }
+  },
+  {
+    "character": "Ranger1",
+    "key": "skill1",
+    "rawName": "FireballBarrage",
+    "variants": {
+      "solo": {
+        "webm": "Ranger1/skill1-solo.webm",
+        "bytes": 455154,
+        "duration": 4.83
+      },
+      "enemy": {
+        "webm": "Ranger1/skill1-enemy.webm",
+        "bytes": 587320,
+        "duration": 4.83
+      }
+    }
+  },
+  {
+    "character": "Ranger2",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Ranger2/m1s-solo.webm",
+        "bytes": 507913,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Ranger2/m1s-enemy.webm",
+        "bytes": 510195,
+        "duration": 3.45
+      }
+    }
+  },
+  {
+    "character": "Ranger2",
+    "key": "skill1",
+    "rawName": "EnergyBeam",
+    "variants": {
+      "solo": {
+        "webm": "Ranger2/skill1-solo.webm",
+        "bytes": 618752,
+        "duration": 3.48
+      },
+      "enemy": {
+        "webm": "Ranger2/skill1-enemy.webm",
+        "bytes": 625226,
+        "duration": 3.48
+      }
+    }
+  },
+  {
+    "character": "Ranger3",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Ranger3/m1s-solo.webm",
+        "bytes": 460836,
+        "duration": 3.43
+      },
+      "enemy": {
+        "webm": "Ranger3/m1s-enemy.webm",
+        "bytes": 374263,
+        "duration": 3.45
+      }
+    }
+  },
+  {
+    "character": "Ranger3",
+    "key": "skill1",
+    "rawName": "TripleShot",
+    "variants": {
+      "solo": {
+        "webm": "Ranger3/skill1-solo.webm",
+        "bytes": 234540,
+        "duration": 2.98
+      },
+      "enemy": {
+        "webm": "Ranger3/skill1-enemy.webm",
+        "bytes": 245854,
+        "duration": 2.98
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/m1s-solo.webm",
+        "bytes": 498147,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Saitama/m1s-enemy.webm",
+        "bytes": 598537,
+        "duration": 3.1
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "skill1",
+    "rawName": "NormalPunch",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/skill1-solo.webm",
+        "bytes": 410558,
+        "duration": 2.4
+      },
+      "enemy": {
+        "webm": "Saitama/skill1-enemy.webm",
+        "bytes": 491376,
+        "duration": 2.42
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "skill2",
+    "rawName": "DashPunch",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/skill2-solo.webm",
+        "bytes": 436389,
+        "duration": 2.9
+      },
+      "enemy": {
+        "webm": "Saitama/skill2-enemy.webm",
+        "bytes": 445079,
+        "duration": 2.9
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "skill3",
+    "rawName": "SeriousSmash",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/skill3-solo.webm",
+        "bytes": 676471,
+        "duration": 4.0
+      },
+      "enemy": {
+        "webm": "Saitama/skill3-enemy.webm",
+        "bytes": 705964,
+        "duration": 4.02
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "skill4",
+    "rawName": "LoopedSmash",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/skill4-solo.webm",
+        "bytes": 811307,
+        "duration": 4.5
+      },
+      "enemy": {
+        "webm": "Saitama/skill4-enemy.webm",
+        "bytes": 683331,
+        "duration": 4.5
+      }
+    }
+  },
+  {
+    "character": "Saitama",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Saitama/skill5-solo.webm",
+        "bytes": 1133672,
+        "duration": 5.62
+      },
+      "enemy": {
+        "webm": "Saitama/skill5-enemy.webm",
+        "bytes": 2067022,
+        "duration": 5.6
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/m1s-solo.webm",
+        "bytes": 471581,
+        "duration": 3.17
+      },
+      "enemy": {
+        "webm": "Sasuke/m1s-enemy.webm",
+        "bytes": 521071,
+        "duration": 3.18
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "skill1",
+    "rawName": "PhoenixFlame",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/skill1-solo.webm",
+        "bytes": 466666,
+        "duration": 3.32
+      },
+      "enemy": {
+        "webm": "Sasuke/skill1-enemy.webm",
+        "bytes": 810120,
+        "duration": 3.38
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "skill2",
+    "rawName": "GreatFireball",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/skill2-solo.webm",
+        "bytes": 318502,
+        "duration": 2.77
+      },
+      "enemy": {
+        "webm": "Sasuke/skill2-enemy.webm",
+        "bytes": 448865,
+        "duration": 3.05
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "skill3",
+    "rawName": "Chidori",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/skill3-solo.webm",
+        "bytes": 830793,
+        "duration": 2.9
+      },
+      "enemy": {
+        "webm": "Sasuke/skill3-enemy.webm",
+        "bytes": 845307,
+        "duration": 2.88
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "skill4",
+    "rawName": "ChidoriCurrent",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/skill4-solo.webm",
+        "bytes": 1267629,
+        "duration": 3.65
+      },
+      "enemy": {
+        "webm": "Sasuke/skill4-enemy.webm",
+        "bytes": 1539739,
+        "duration": 3.67
+      }
+    }
+  },
+  {
+    "character": "Sasuke",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Sasuke/skill5-solo.webm",
+        "bytes": 1125336,
+        "duration": 4.47
+      },
+      "enemy": {
+        "webm": "Sasuke/skill5-enemy.webm",
+        "bytes": 2126135,
+        "duration": 4.73
+      }
+    }
+  },
+  {
+    "character": "SteroidMan",
+    "key": "groundrapture",
+    "rawName": "GroundRapture",
+    "variants": {
+      "full": {
+        "webm": "SteroidMan/groundrapture-full.webm",
+        "bytes": 2515691,
+        "duration": 37.77
+      },
+      "preview": {
+        "webm": "SteroidMan/groundrapture-preview.webm",
+        "bytes": 457176,
+        "duration": 6.0
+      }
+    }
+  },
+  {
+    "character": "SteroidMan",
+    "key": "venomrush",
+    "rawName": "Venomrush",
+    "variants": {
+      "full": {
+        "webm": "SteroidMan/venomrush-full.webm",
+        "bytes": 18126965,
+        "duration": 47.6
+      },
+      "preview": {
+        "webm": "SteroidMan/venomrush-preview.webm",
+        "bytes": 1745635,
+        "duration": 6.0
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/m1s-solo.webm",
+        "bytes": 435119,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Sukuna/m1s-enemy.webm",
+        "bytes": 613102,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "skill1",
+    "rawName": "DashSlash",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/skill1-solo.webm",
+        "bytes": 728896,
+        "duration": 3.08
+      },
+      "enemy": {
+        "webm": "Sukuna/skill1-enemy.webm",
+        "bytes": 931468,
+        "duration": 3.08
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "skill2",
+    "rawName": "FlameBurst",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/skill2-solo.webm",
+        "bytes": 475205,
+        "duration": 2.83
+      },
+      "enemy": {
+        "webm": "Sukuna/skill2-enemy.webm",
+        "bytes": 529726,
+        "duration": 2.85
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "skill3",
+    "rawName": "MeteorBlast",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/skill3-solo.webm",
+        "bytes": 634134,
+        "duration": 2.75
+      },
+      "enemy": {
+        "webm": "Sukuna/skill3-enemy.webm",
+        "bytes": 1085027,
+        "duration": 2.77
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "skill4",
+    "rawName": "Fuga",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/skill4-solo.webm",
+        "bytes": 742469,
+        "duration": 4.17
+      },
+      "enemy": {
+        "webm": "Sukuna/skill4-enemy.webm",
+        "bytes": 2064148,
+        "duration": 4.15
+      }
+    }
+  },
+  {
+    "character": "Sukuna",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Sukuna/skill5-solo.webm",
+        "bytes": 6980629,
+        "duration": 17.5
+      },
+      "enemy": {
+        "webm": "Sukuna/skill5-enemy.webm",
+        "bytes": 9499990,
+        "duration": 17.5
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/m1s-solo.webm",
+        "bytes": 546456,
+        "duration": 3.5
+      },
+      "enemy": {
+        "webm": "Tanjiro/m1s-enemy.webm",
+        "bytes": 689102,
+        "duration": 3.53
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "skill1",
+    "rawName": "Hinokami",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/skill1-solo.webm",
+        "bytes": 841139,
+        "duration": 2.97
+      },
+      "enemy": {
+        "webm": "Tanjiro/skill1-enemy.webm",
+        "bytes": 770545,
+        "duration": 2.97
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "skill2",
+    "rawName": "WaterSurface",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/skill2-solo.webm",
+        "bytes": 321699,
+        "duration": 3.6
+      },
+      "enemy": {
+        "webm": "Tanjiro/skill2-enemy.webm",
+        "bytes": 576742,
+        "duration": 3.6
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "skill3",
+    "rawName": "StrikingTide",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/skill3-solo.webm",
+        "bytes": 335043,
+        "duration": 2.9
+      },
+      "enemy": {
+        "webm": "Tanjiro/skill3-enemy.webm",
+        "bytes": 787147,
+        "duration": 2.88
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "skill4",
+    "rawName": "Whirlpool",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/skill4-solo.webm",
+        "bytes": 1615061,
+        "duration": 3.45
+      },
+      "enemy": {
+        "webm": "Tanjiro/skill4-enemy.webm",
+        "bytes": 2496588,
+        "duration": 3.45
+      }
+    }
+  },
+  {
+    "character": "Tanjiro",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Tanjiro/skill5-solo.webm",
+        "bytes": 4758513,
+        "duration": 6.47
+      },
+      "enemy": {
+        "webm": "Tanjiro/skill5-enemy.webm",
+        "bytes": 5395151,
+        "duration": 6.47
+      }
+    }
+  },
+  {
+    "character": "TankSoldier1",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier1/m1s-solo.webm",
+        "bytes": 439444,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "TankSoldier1/m1s-enemy.webm",
+        "bytes": 525207,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "TankSoldier1",
+    "key": "skill1",
+    "rawName": "GroundSlam",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier1/skill1-solo.webm",
+        "bytes": 459535,
+        "duration": 4.08
+      },
+      "enemy": {
+        "webm": "TankSoldier1/skill1-enemy.webm",
+        "bytes": 567767,
+        "duration": 4.08
+      }
+    }
+  },
+  {
+    "character": "TankSoldier2",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier2/m1s-solo.webm",
+        "bytes": 421815,
+        "duration": 3.22
+      },
+      "enemy": {
+        "webm": "TankSoldier2/m1s-enemy.webm",
+        "bytes": 471659,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "TankSoldier2",
+    "key": "skill1",
+    "rawName": "TitanPunch",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier2/skill1-solo.webm",
+        "bytes": 280855,
+        "duration": 2.68
+      },
+      "enemy": {
+        "webm": "TankSoldier2/skill1-enemy.webm",
+        "bytes": 340052,
+        "duration": 2.7
+      }
+    }
+  },
+  {
+    "character": "TankSoldier3",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier3/m1s-solo.webm",
+        "bytes": 522159,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "TankSoldier3/m1s-enemy.webm",
+        "bytes": 622510,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "TankSoldier3",
+    "key": "skill1",
+    "rawName": "EarthBreaker",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier3/skill1-solo.webm",
+        "bytes": 732861,
+        "duration": 3.45
+      },
+      "enemy": {
+        "webm": "TankSoldier3/skill1-enemy.webm",
+        "bytes": 922299,
+        "duration": 3.43
+      }
+    }
+  },
+  {
+    "character": "TankSoldier4",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier4/m1s-solo.webm",
+        "bytes": 386576,
+        "duration": 3.18
+      },
+      "enemy": {
+        "webm": "TankSoldier4/m1s-enemy.webm",
+        "bytes": 512214,
+        "duration": 3.17
+      }
+    }
+  },
+  {
+    "character": "TankSoldier4",
+    "key": "skill1",
+    "rawName": "PhantomDash",
+    "variants": {
+      "solo": {
+        "webm": "TankSoldier4/skill1-solo.webm",
+        "bytes": 228167,
+        "duration": 2.33
+      },
+      "enemy": {
+        "webm": "TankSoldier4/skill1-enemy.webm",
+        "bytes": 357024,
+        "duration": 2.33
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/m1s-solo.webm",
+        "bytes": 511879,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Vegeta/m1s-enemy.webm",
+        "bytes": 632956,
+        "duration": 3.12
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "skill1",
+    "rawName": "Impact",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/skill1-solo.webm",
+        "bytes": 306208,
+        "duration": 2.1
+      },
+      "enemy": {
+        "webm": "Vegeta/skill1-enemy.webm",
+        "bytes": 418718,
+        "duration": 2.1
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "skill2",
+    "rawName": "Barrage",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/skill2-solo.webm",
+        "bytes": 869933,
+        "duration": 4.7
+      },
+      "enemy": {
+        "webm": "Vegeta/skill2-enemy.webm",
+        "bytes": 1328263,
+        "duration": 4.73
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "skill3",
+    "rawName": "Volley",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/skill3-solo.webm",
+        "bytes": 583191,
+        "duration": 4.03
+      },
+      "enemy": {
+        "webm": "Vegeta/skill3-enemy.webm",
+        "bytes": 1419498,
+        "duration": 4.0
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "skill4",
+    "rawName": "FinalFlash",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/skill4-solo.webm",
+        "bytes": 407067,
+        "duration": 3.3
+      },
+      "enemy": {
+        "webm": "Vegeta/skill4-enemy.webm",
+        "bytes": 657423,
+        "duration": 3.3
+      }
+    }
+  },
+  {
+    "character": "Vegeta",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Vegeta/skill5-solo.webm",
+        "bytes": 727716,
+        "duration": 4.22
+      },
+      "enemy": {
+        "webm": "Vegeta/skill5-enemy.webm",
+        "bytes": 1855168,
+        "duration": 4.23
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/m1s-solo.webm",
+        "bytes": 537845,
+        "duration": 3.38
+      },
+      "enemy": {
+        "webm": "Yoriichi/m1s-enemy.webm",
+        "bytes": 585958,
+        "duration": 3.37
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "skill1",
+    "rawName": "SunBlast",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/skill1-solo.webm",
+        "bytes": 568744,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "Yoriichi/skill1-enemy.webm",
+        "bytes": 573927,
+        "duration": 3.2
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "skill2",
+    "rawName": "BlazingRush",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/skill2-solo.webm",
+        "bytes": 600753,
+        "duration": 3.1
+      },
+      "enemy": {
+        "webm": "Yoriichi/skill2-enemy.webm",
+        "bytes": 897841,
+        "duration": 3.1
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "skill3",
+    "rawName": "ThunderBurst",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/skill3-solo.webm",
+        "bytes": 259546,
+        "duration": 2.48
+      },
+      "enemy": {
+        "webm": "Yoriichi/skill3-enemy.webm",
+        "bytes": 315527,
+        "duration": 2.5
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "skill4",
+    "rawName": "StormField",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/skill4-solo.webm",
+        "bytes": 513032,
+        "duration": 3.05
+      },
+      "enemy": {
+        "webm": "Yoriichi/skill4-enemy.webm",
+        "bytes": 725770,
+        "duration": 3.05
+      }
+    }
+  },
+  {
+    "character": "Yoriichi",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "Yoriichi/skill5-solo.webm",
+        "bytes": 878349,
+        "duration": 4.6
+      },
+      "enemy": {
+        "webm": "Yoriichi/skill5-enemy.webm",
+        "bytes": 988695,
+        "duration": 4.58
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "m1s",
+    "rawName": "m1s",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/m1s-solo.webm",
+        "bytes": 391424,
+        "duration": 3.05
+      },
+      "enemy": {
+        "webm": "YoujiItadori/m1s-enemy.webm",
+        "bytes": 451048,
+        "duration": 3.08
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "skill1",
+    "rawName": "ChargedFist",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/skill1-solo.webm",
+        "bytes": 318169,
+        "duration": 2.27
+      },
+      "enemy": {
+        "webm": "YoujiItadori/skill1-enemy.webm",
+        "bytes": 334027,
+        "duration": 2.27
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "skill2",
+    "rawName": "BlackFlash",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/skill2-solo.webm",
+        "bytes": 489992,
+        "duration": 3.3
+      },
+      "enemy": {
+        "webm": "YoujiItadori/skill2-enemy.webm",
+        "bytes": 429743,
+        "duration": 3.3
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "skill3",
+    "rawName": "TwinStrike",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/skill3-solo.webm",
+        "bytes": 592388,
+        "duration": 3.2
+      },
+      "enemy": {
+        "webm": "YoujiItadori/skill3-enemy.webm",
+        "bytes": 638091,
+        "duration": 3.22
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "skill4",
+    "rawName": "GroundSmash",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/skill4-solo.webm",
+        "bytes": 468619,
+        "duration": 2.6
+      },
+      "enemy": {
+        "webm": "YoujiItadori/skill4-enemy.webm",
+        "bytes": 617989,
+        "duration": 2.62
+      }
+    }
+  },
+  {
+    "character": "YoujiItadori",
+    "key": "skill5",
+    "rawName": "Ult",
+    "variants": {
+      "solo": {
+        "webm": "YoujiItadori/skill5-solo.webm",
+        "bytes": 479151,
+        "duration": 3.17
+      },
+      "enemy": {
+        "webm": "YoujiItadori/skill5-enemy.webm",
+        "bytes": 638812,
+        "duration": 3.4
+      }
+    }
+  }
+]

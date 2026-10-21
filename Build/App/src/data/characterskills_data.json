@@ -1,0 +1,3166 @@
+{
+  "title": "Character Skills",
+  "blurb": "Every ability in the battlegrounds project, recorded per character: basic combo, four skills and an ultimate. Each clip is shown solo so the effect reads clearly, and again against a target so the impact, hit-stop and knockback land in context.",
+  "characters": [
+    {
+      "id": "sosuke-aizen",
+      "name": "Sosuke Aizen",
+      "folder": "Aizen",
+      "series": "Bleach",
+      "role": "Technical",
+      "summary": "Illusion kit built around misdirection: the clone reveal lands before the real hit does.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Aizen/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Illusion Strike",
+          "slot": "Skill 1",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Hado Blast",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Danku",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Kyoka Suigetsu",
+          "slot": "Skill 4",
+          "duration": "0:06",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:07",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Aizen/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Aizen/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Aizen/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "android-18",
+      "name": "Android 18",
+      "folder": "Android18",
+      "series": "Dragon Ball",
+      "role": "Ranger",
+      "summary": "Energy volleys and blade throws, tuned for sustained chip damage at range.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Android18/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Energy Volley",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Blade Throw",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Photon Barrage",
+          "slot": "Skill 3",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Photon Cannon",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:06",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Android18/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Android18/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Android18/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "baki-hanma",
+      "name": "Baki Hanma",
+      "folder": "BakiHanma",
+      "series": "Baki",
+      "role": "Bruiser",
+      "summary": "Pure hand-to-hand chain — spin kick into double hit into a committed smash.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/BakiHanma/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Spin Kick",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Double Hit",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Tri Kick",
+          "slot": "Skill 3",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Smash",
+          "slot": "Skill 4",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/BakiHanma/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/BakiHanma/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "beam-strike",
+      "name": "Beam Strike",
+      "folder": "BeamStrike",
+      "series": "Original",
+      "role": "Ranger",
+      "summary": "Elemental ranged kit: wind spike, thunder strike and a tornado that judges the field.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/BeamStrike/thumb.webp",
+      "thumbnailOrigin": "unknown",
+      "skills": [
+        {
+          "key": "windspike",
+          "name": "Wind Spike",
+          "slot": "Skill 1",
+          "duration": "0:26",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BeamStrike/windspike-full.webm",
+              "poster": "/assets/CharacterSkills/BeamStrike/windspike-full.webp"
+            }
+          }
+        },
+        {
+          "key": "thunderstrike",
+          "name": "Thunder Strike",
+          "slot": "Skill 2",
+          "duration": "0:44",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BeamStrike/thunderstrike-full.webm",
+              "poster": "/assets/CharacterSkills/BeamStrike/thunderstrike-full.webp"
+            }
+          }
+        },
+        {
+          "key": "tornadojudge",
+          "name": "Tornado Judge",
+          "slot": "Skill 3",
+          "duration": "0:32",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BeamStrike/tornadojudge-full.webm",
+              "poster": "/assets/CharacterSkills/BeamStrike/tornadojudge-full.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "beatrice",
+      "name": "Beatrice",
+      "folder": "Beatrice",
+      "series": "Re:Zero",
+      "role": "Burst",
+      "summary": "Spatial kit built on wormholes, with spikes arriving from wherever she opens one.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Beatrice/thumb.webp",
+      "thumbnailOrigin": "unknown",
+      "skills": [
+        {
+          "key": "spike",
+          "name": "Spike",
+          "slot": "Skill 1",
+          "duration": "0:43",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Beatrice/spike-full.webm",
+              "poster": "/assets/CharacterSkills/Beatrice/spike-full.webp"
+            }
+          }
+        },
+        {
+          "key": "wormhole",
+          "name": "Wormhole",
+          "slot": "Skill 2",
+          "duration": "0:09",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Beatrice/wormhole-full.webm",
+              "poster": "/assets/CharacterSkills/Beatrice/wormhole-full.webp"
+            }
+          }
+        },
+        {
+          "key": "ultimate",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:21",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Beatrice/ultimate-full.webm",
+              "poster": "/assets/CharacterSkills/Beatrice/ultimate-full.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bill-cipher",
+      "name": "Bill Cipher",
+      "folder": "BillCIpher",
+      "series": "Gravity Falls",
+      "role": "Burst",
+      "summary": "Reality-warping set: a checkerboard slam, soot fire and a golden fist finisher.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/BillCIpher/thumb.webp",
+      "thumbnailOrigin": "unknown",
+      "skills": [
+        {
+          "key": "firesoot",
+          "name": "Fire Soot",
+          "slot": "Skill 1",
+          "duration": "0:12",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BillCIpher/firesoot-full.webm",
+              "poster": "/assets/CharacterSkills/BillCIpher/firesoot-full.webp"
+            }
+          }
+        },
+        {
+          "key": "checkerslam",
+          "name": "Checker Slam",
+          "slot": "Skill 2",
+          "duration": "0:22",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BillCIpher/checkerslam-full.webm",
+              "poster": "/assets/CharacterSkills/BillCIpher/checkerslam-full.webp"
+            }
+          }
+        },
+        {
+          "key": "goldenfist",
+          "name": "Golden Fist",
+          "slot": "Skill 3",
+          "duration": "0:25",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/BillCIpher/goldenfist-full.webm",
+              "poster": "/assets/CharacterSkills/BillCIpher/goldenfist-full.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ejin",
+      "name": "Ejin",
+      "folder": "Ejin",
+      "series": "Original",
+      "role": "Bruiser",
+      "summary": "Original design: a drill-rush opener that converts into a ground-burst finisher.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Ejin/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Drill Rush",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Blast Wave",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Spiral Drive",
+          "slot": "Skill 3",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Ground Burst",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ejin/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ejin/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Ejin/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "emilia",
+      "name": "Emilia",
+      "folder": "Emilia",
+      "series": "Re:Zero",
+      "role": "Technical",
+      "summary": "Ice control kit: rings and slides that shape the ground before the slam lands.",
+      "featured": true,
+      "previewSkills": [
+        "icering",
+        "iceslam"
+      ],
+      "thumbnail": "/assets/CharacterSkills/Emilia/thumb.webp",
+      "thumbnailOrigin": "unknown",
+      "skills": [
+        {
+          "key": "icesoldier",
+          "name": "Ice Soldier",
+          "slot": "Skill 1",
+          "duration": "0:10",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Emilia/icesoldier-full.webm",
+              "poster": "/assets/CharacterSkills/Emilia/icesoldier-full.webp"
+            }
+          }
+        },
+        {
+          "key": "iceslide",
+          "name": "Ice Slide",
+          "slot": "Skill 2",
+          "duration": "0:27",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Emilia/iceslide-full.webm",
+              "poster": "/assets/CharacterSkills/Emilia/iceslide-full.webp"
+            }
+          }
+        },
+        {
+          "key": "icering",
+          "name": "Ice Ring",
+          "slot": "Skill 3",
+          "duration": "0:14",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Emilia/icering-full.webm",
+              "poster": "/assets/CharacterSkills/Emilia/icering-full.webp"
+            },
+            "preview": {
+              "src": "/assets/CharacterSkills/Emilia/icering-preview.webm",
+              "poster": "/assets/CharacterSkills/Emilia/icering-preview.webp"
+            }
+          }
+        },
+        {
+          "key": "iceslam",
+          "name": "Ice Slam",
+          "slot": "Skill 4",
+          "duration": "0:19",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/Emilia/iceslam-full.webm",
+              "poster": "/assets/CharacterSkills/Emilia/iceslam-full.webp"
+            },
+            "preview": {
+              "src": "/assets/CharacterSkills/Emilia/iceslam-preview.webm",
+              "poster": "/assets/CharacterSkills/Emilia/iceslam-preview.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "frieza",
+      "name": "Frieza",
+      "folder": "Frieza",
+      "series": "Dragon Ball",
+      "role": "Ranger",
+      "summary": "Precision beams and saucers, every skill built to punish from a distance.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Frieza/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Death Beam",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Stone Barrage",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Death Saucer",
+          "slot": "Skill 3",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Earth Breaker",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Frieza/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Frieza/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Frieza/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gilgamesh",
+      "name": "Gilgamesh",
+      "folder": "Gilgamesh",
+      "series": "Fate",
+      "role": "Burst",
+      "summary": "Projectile-heavy kit — the ultimate opens a full sword rain over the arena.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Gilgamesh/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Blade Cyclone",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Enkidu",
+          "slot": "Skill 2",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Gate Of Babylon",
+          "slot": "Skill 3",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Sword Rain",
+          "slot": "Skill 4",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:10",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gilgamesh/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Gilgamesh/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "satoru-gojo",
+      "name": "Satoru Gojo",
+      "folder": "Gojo",
+      "series": "Jujutsu Kaisen",
+      "role": "Burst",
+      "summary": "Red, Blue and the hollow purple finisher, each with its own charge language.",
+      "featured": true,
+      "previewSkills": [
+        "skill3"
+      ],
+      "thumbnail": "/assets/CharacterSkills/Gojo/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Infinity Shot",
+          "slot": "Skill 1",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Twin Orbs",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Red",
+          "slot": "Skill 3",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Blue",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:16",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Gojo/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Gojo/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Gojo/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "son-goku",
+      "name": "Son Goku",
+      "folder": "Goku",
+      "series": "Dragon Ball",
+      "role": "Balanced",
+      "summary": "Classic rush-down: flash step into impact, then a full energy burst.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Goku/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Flash",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Impact",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Ki Blast",
+          "slot": "Skill 3",
+          "duration": "0:06",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Energy Burst",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Goku/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Goku/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Goku/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gon-freecss",
+      "name": "Gon Freecss",
+      "folder": "GonFreecss",
+      "series": "Hunter x Hunter",
+      "role": "Bruiser",
+      "summary": "Aura orbs that launch, smash and finally rip the ground up.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/GonFreecss/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Orb Launch",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Slash",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Orb Smash",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Stone Up",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/GonFreecss/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/GonFreecss/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ichigo-kurosaki",
+      "name": "Ichigo Kurosaki",
+      "folder": "Ichigo",
+      "series": "Bleach",
+      "role": "Bruiser",
+      "summary": "Crescent slashes and Getsuga arcs, all reading off one blade trail system.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Ichigo/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Crescent Slash",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Getsuga",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Blade Spin",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Reiatsu Pillar",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:08",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ichigo/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ichigo/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Ichigo/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "kaguya-otsutsuki",
+      "name": "Kaguya Otsutsuki",
+      "folder": "Kaguya",
+      "series": "Naruto",
+      "role": "Technical",
+      "summary": "Portal-based kit: strikes arrive from somewhere other than where she stands.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Kaguya/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Fist Shot",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Ground Fist",
+          "slot": "Skill 2",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Fist Barrage",
+          "slot": "Skill 3",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Portal Strike",
+          "slot": "Skill 4",
+          "duration": "0:07",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Kaguya/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Kaguya/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Kaguya/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "monkey-d-luffy",
+      "name": "Monkey D. Luffy",
+      "folder": "Luffy",
+      "series": "One Piece",
+      "role": "Bruiser",
+      "summary": "Stretch attacks with a Gear Second state that re-times the whole kit.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Luffy/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Pistol",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Gear Second",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Jet Rocket",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Red Hawk",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Luffy/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Luffy/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Luffy/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "madara-uchiha",
+      "name": "Madara Uchiha",
+      "folder": "Madara",
+      "series": "Naruto",
+      "role": "Technical",
+      "summary": "Fire annihilation and clones, with a Sharingan opener that sets up the rest.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Madara/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Sharingan",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Fire Annihilation",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Mud Clone",
+          "slot": "Skill 3",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Flame Orb",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Madara/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Madara/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Madara/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "naruto-uzumaki",
+      "name": "Naruto Uzumaki",
+      "folder": "Naruto",
+      "series": "Naruto",
+      "role": "Balanced",
+      "summary": "Shadow-clone kit — every skill spawns, strikes with, and despawns clones.",
+      "featured": true,
+      "previewSkills": [
+        "skill5"
+      ],
+      "thumbnail": "/assets/CharacterSkills/Naruto/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Clone Strike",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Fuma Shuriken",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Clone Assault",
+          "slot": "Skill 3",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Clone Dive",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Shadow Clones",
+          "slot": "Ultimate",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Naruto/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Naruto/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Naruto/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "natsu-dragneel",
+      "name": "Natsu Dragneel",
+      "folder": "Natsu",
+      "series": "Fairy Tail",
+      "role": "Burst",
+      "summary": "Fire dragon kit, from flame kick to a full-cone dragon roar.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Natsu/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Flame Kick",
+          "slot": "Skill 1",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Sword Horn",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Flame Barrage",
+          "slot": "Skill 3",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Dragon Roar",
+          "slot": "Skill 4",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Natsu/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Natsu/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Natsu/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "saitama",
+      "name": "Saitama",
+      "folder": "Saitama",
+      "series": "One Punch Man",
+      "role": "Bruiser",
+      "summary": "The joke is the design: ordinary punches that escalate to a serious smash.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Saitama/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Normal Punch",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Dash Punch",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Serious Smash",
+          "slot": "Skill 3",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Looped Smash",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:06",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Saitama/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Saitama/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Saitama/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sasuke-uchiha",
+      "name": "Sasuke Uchiha",
+      "folder": "Sasuke",
+      "series": "Naruto",
+      "role": "Technical",
+      "summary": "Fire and lightning in one kit — Chidori current closes the gap.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Sasuke/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Phoenix Flame",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Great Fireball",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Chidori",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Chidori Current",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sasuke/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sasuke/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Sasuke/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "steroid-man",
+      "name": "Steroid Man",
+      "folder": "SteroidMan",
+      "series": "Original",
+      "role": "Bruiser",
+      "summary": "Two heavy commitments - the ground rapture opens the arena, venom rush fills it.",
+      "featured": true,
+      "previewSkills": [
+        "venomrush",
+        "groundrapture"
+      ],
+      "thumbnail": "/assets/CharacterSkills/SteroidMan/thumb.webp",
+      "thumbnailOrigin": "unknown",
+      "skills": [
+        {
+          "key": "groundrapture",
+          "name": "Ground Rapture",
+          "slot": "Skill 1",
+          "duration": "0:38",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/SteroidMan/groundrapture-full.webm",
+              "poster": "/assets/CharacterSkills/SteroidMan/groundrapture-full.webp"
+            },
+            "preview": {
+              "src": "/assets/CharacterSkills/SteroidMan/groundrapture-preview.webm",
+              "poster": "/assets/CharacterSkills/SteroidMan/groundrapture-preview.webp"
+            }
+          }
+        },
+        {
+          "key": "venomrush",
+          "name": "Venom Rush",
+          "slot": "Skill 2",
+          "duration": "0:48",
+          "variants": {
+            "full": {
+              "src": "/assets/CharacterSkills/SteroidMan/venomrush-full.webm",
+              "poster": "/assets/CharacterSkills/SteroidMan/venomrush-full.webp"
+            },
+            "preview": {
+              "src": "/assets/CharacterSkills/SteroidMan/venomrush-preview.webm",
+              "poster": "/assets/CharacterSkills/SteroidMan/venomrush-preview.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ryomen-sukuna",
+      "name": "Ryomen Sukuna",
+      "folder": "Sukuna",
+      "series": "Jujutsu Kaisen",
+      "role": "Burst",
+      "summary": "Heaviest kit in the set; the ultimate is the longest sequence recorded.",
+      "featured": true,
+      "previewSkills": [
+        "skill3"
+      ],
+      "thumbnail": "/assets/CharacterSkills/Sukuna/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Dash Slash",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Flame Burst",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Meteor Blast",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Fuga",
+          "slot": "Skill 4",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:18",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Sukuna/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Sukuna/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Sukuna/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tanjiro-kamado",
+      "name": "Tanjiro Kamado",
+      "folder": "Tanjiro",
+      "series": "Demon Slayer",
+      "role": "Balanced",
+      "summary": "Breathing forms — water surface and whirlpool share one flowing trail shader.",
+      "featured": true,
+      "previewSkills": [
+        "skill1"
+      ],
+      "thumbnail": "/assets/CharacterSkills/Tanjiro/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Hinokami",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Water Surface",
+          "slot": "Skill 2",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Striking Tide",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Whirlpool",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:06",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Tanjiro/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Tanjiro/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "vegeta",
+      "name": "Vegeta",
+      "folder": "Vegeta",
+      "series": "Dragon Ball",
+      "role": "Burst",
+      "summary": "Barrage into Final Flash — the kit builds to one committed beam.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Vegeta/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Impact",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Barrage",
+          "slot": "Skill 2",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Volley",
+          "slot": "Skill 3",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Final Flash",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Vegeta/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Vegeta/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Vegeta/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "yoriichi-tsugikuni",
+      "name": "Yoriichi Tsugikuni",
+      "folder": "Yoriichi",
+      "series": "Demon Slayer",
+      "role": "Technical",
+      "summary": "Sun breathing: blazing rush and storm field layered over one trail system.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Yoriichi/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Sun Blast",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Blazing Rush",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Thunder Burst",
+          "slot": "Skill 3",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Storm Field",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Yoriichi/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/Yoriichi/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "yuji-itadori",
+      "name": "Yuji Itadori",
+      "folder": "YoujiItadori",
+      "series": "Jujutsu Kaisen",
+      "role": "Bruiser",
+      "summary": "Charged fists leading into Black Flash, the kit's one high-impact beat.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/YoujiItadori/thumb.webp",
+      "thumbnailOrigin": "myanimelist",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Charged Fist",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill1-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill2",
+          "name": "Black Flash",
+          "slot": "Skill 2",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill2-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill2-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill2-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill2-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill3",
+          "name": "Twin Strike",
+          "slot": "Skill 3",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill3-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill3-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill3-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill3-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill4",
+          "name": "Ground Smash",
+          "slot": "Skill 4",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill4-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill4-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill4-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill4-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill5",
+          "name": "Ultimate",
+          "slot": "Ultimate",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill5-enemy.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill5-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/YoujiItadori/skill5-solo.webm",
+              "poster": "/assets/CharacterSkills/YoujiItadori/skill5-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "balanced-i",
+      "name": "Balanced I",
+      "folder": "Balanced1",
+      "series": "Class Archetype",
+      "role": "Balanced",
+      "summary": "Starter archetype used to tune baseline damage and cooldown pacing.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Balanced1/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Balanced1/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Balanced1/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Balanced1/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Balanced1/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Twin Fang",
+          "slot": "Skill 1",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Balanced1/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Balanced1/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Balanced1/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Balanced1/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "balanced-ii",
+      "name": "Balanced II",
+      "folder": "Balanced2",
+      "series": "Class Archetype",
+      "role": "Balanced",
+      "summary": "Second balanced preset: a slower wind-up traded for a wider blast.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Balanced2/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Balanced2/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Balanced2/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Balanced2/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Balanced2/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Power Blast",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Balanced2/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Balanced2/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Balanced2/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Balanced2/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "healer",
+      "name": "Healer",
+      "folder": "Healer",
+      "series": "Class Archetype",
+      "role": "Support",
+      "summary": "Support preset — the healing wave drove the buff/aura VFX language.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Healer/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Healer/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Healer/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Healer/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Healer/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Healing Wave",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Healer/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Healer/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Healer/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Healer/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ranger-i",
+      "name": "Ranger I",
+      "folder": "Ranger1",
+      "series": "Class Archetype",
+      "role": "Ranger",
+      "summary": "Ranged preset: fireball barrage used to tune projectile spacing.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Ranger1/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger1/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger1/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger1/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger1/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Fireball Barrage",
+          "slot": "Skill 1",
+          "duration": "0:05",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger1/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger1/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger1/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger1/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ranger-ii",
+      "name": "Ranger II",
+      "folder": "Ranger2",
+      "series": "Class Archetype",
+      "role": "Ranger",
+      "summary": "Sustained-beam variant of the ranger archetype.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Ranger2/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger2/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger2/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger2/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger2/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Energy Beam",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger2/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger2/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger2/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger2/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ranger-iii",
+      "name": "Ranger III",
+      "folder": "Ranger3",
+      "series": "Class Archetype",
+      "role": "Ranger",
+      "summary": "Burst variant — triple shot with a tighter spread.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/Ranger3/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger3/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger3/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger3/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger3/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Triple Shot",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/Ranger3/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/Ranger3/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/Ranger3/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/Ranger3/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tank-soldier-i",
+      "name": "Tank Soldier I",
+      "folder": "TankSoldier1",
+      "series": "Class Archetype",
+      "role": "Tank",
+      "summary": "Tank preset: ground slam used to tune knockback and screen shake.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/TankSoldier1/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier1/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier1/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier1/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier1/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Ground Slam",
+          "slot": "Skill 1",
+          "duration": "0:04",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier1/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier1/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier1/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier1/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tank-soldier-ii",
+      "name": "Tank Soldier II",
+      "folder": "TankSoldier2",
+      "series": "Class Archetype",
+      "role": "Tank",
+      "summary": "Heavy single-target punch variant of the tank archetype.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/TankSoldier2/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier2/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier2/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier2/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier2/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Titan Punch",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier2/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier2/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier2/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier2/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tank-soldier-iii",
+      "name": "Tank Soldier III",
+      "folder": "TankSoldier3",
+      "series": "Class Archetype",
+      "role": "Tank",
+      "summary": "Area-denial variant — earth breaker with a wide impact ring.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/TankSoldier3/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier3/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier3/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier3/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier3/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Earth Breaker",
+          "slot": "Skill 1",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier3/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier3/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier3/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier3/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tank-soldier-iv",
+      "name": "Tank Soldier IV",
+      "folder": "TankSoldier4",
+      "series": "Class Archetype",
+      "role": "Tank",
+      "summary": "Mobility tank: phantom dash closes distance before the slam.",
+      "featured": false,
+      "previewSkills": [],
+      "thumbnail": "/assets/CharacterSkills/TankSoldier4/thumb.webp",
+      "thumbnailOrigin": "gameplay",
+      "skills": [
+        {
+          "key": "m1s",
+          "name": "Basic Combo",
+          "slot": "Basic",
+          "duration": "0:03",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier4/m1s-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier4/m1s-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier4/m1s-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier4/m1s-solo.webp"
+            }
+          }
+        },
+        {
+          "key": "skill1",
+          "name": "Phantom Dash",
+          "slot": "Skill 1",
+          "duration": "0:02",
+          "variants": {
+            "enemy": {
+              "src": "/assets/CharacterSkills/TankSoldier4/skill1-enemy.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier4/skill1-enemy.webp"
+            },
+            "solo": {
+              "src": "/assets/CharacterSkills/TankSoldier4/skill1-solo.webm",
+              "poster": "/assets/CharacterSkills/TankSoldier4/skill1-solo.webp"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

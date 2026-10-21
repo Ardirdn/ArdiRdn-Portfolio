@@ -14,33 +14,33 @@ const ModularCharacterDetail = () => {
     }, []);
 
     const topVideos = [
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Boy.mp4"),
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Fat.mp4"),
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Female.mp4"),
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Girl.mp4"),
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Male.mp4"),
-        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Muscular.mp4")
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Boy.webm"),
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Fat.webm"),
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Female.webm"),
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Girl.webm"),
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Male.webm"),
+        assetPath("/assets/ModularCharacterShowcase/ModularCharacter_Muscular.webm")
     ];
 
     const contentSections = [
         {
             title: "Randomize",
             text: "Utilizing atlas texturing and a shared armature, we separate outfits and body parts to prevent overlap during animation. This allows for randomization where one fat NPC can wear dozens of shirts, pants, hair, and heads, creating hundreds or thousands of unique looks. This variety makes levels feel more flexible, modular, and easy to iterate because everything is shared.",
-            media: assetPath("/assets/ModularCharacterShowcase/Showcase_Scripts.mp4"),
+            media: assetPath("/assets/ModularCharacterShowcase/Showcase_Scripts.webm"),
             type: "video",
             reversed: false
         },
         {
             title: "Shared Armature & Optimized",
             text: "A single armature is shared across every NPC type—whether fat, muscular, male, or female. This unified rig simplifies the animation pipeline, ensuring consistent behavior across all character variations while maintaining high performance.",
-            media: assetPath("/assets/ModularCharacterShowcase/Showcase_Blender.mp4"),
+            media: assetPath("/assets/ModularCharacterShowcase/Showcase_Blender.webm"),
             type: "video",
             reversed: true
         },
         {
             title: "Single Material",
             text: "Optimized for performance, the entire character system uses a single material. This significantly reduces draw calls and rendering overhead, making it ideal for mobile and high-performance game environments.",
-            media: assetPath("/assets/ModularCharacterShowcase/MaterialShowcase.mp4"),
+            media: assetPath("/assets/ModularCharacterShowcase/MaterialShowcase.webm"),
             type: "video",
             reversed: false
         },
