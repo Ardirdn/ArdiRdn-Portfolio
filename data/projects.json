@@ -926,5 +926,264 @@
         ]
       }
     ]
+  },
+  {
+    "id": "StealAnAnimeGirl",
+    "Description": "In a world where countless anime universes collide, heroes and villains coexist in chaos. But hidden in the shadows is a figure whispered about in every realm — The Thief, a legend known for one thing: stealing the most iconic anime girls from across dimensions. Now, you are their successor. Armed with skill, charm, and a bit of luck, you’ll infiltrate one anime world after another — stealing characters once thought untouchable. But every heist has its risks. Rival thieves, guardians, and vengeful heroes will stop at nothing to take back what you’ve stolen. Will you become the next legend… or just another thief lost to the void?",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_cover.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_1.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_2.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_3.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_4.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_5.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_6.webp",
+      "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_7.webp"
+    ],
+    "Img": "/assets/game/StealAnAnimeGirl/StealAnAnimeGirl_cover.webp",
+    "Title": "Steal an Anime Girl",
+    "WebPage": "https://www.trimatra.io/project/steal-animegirl",
+    "StorePage": "https://www.roblox.com/games/91901171676586/Steal-an-Anime-Girl",
+    "Role": [],
+    "Features": [
+      "Steal an Anime Girl is a fast-paced sneak and collection simulator with light strategy and action elements.",
+      "Your mission: infiltrate anime worlds, avoid detection, and steal your favorite heroines before anyone notices.",
+      "Build your exclusive vault of stolen characters, upgrade your thief skills, and defend your collection from rival players trying to take them back.",
+      "Each character brings unique bonuses and powers that enhance your future heists and unlock deeper layers of the game.",
+      "Master stealth, speed, and cunning as you climb the ranks of the underworld.",
+      "In a universe where every anime realm collides, only one thief can own it all."
+    ],
+    "Order": 998,
+    "Contents": []
+  },
+  {
+    "id": "StealASneakers",
+    "Description": "In a city where hype is everything, sneakers aren’t just shoes — they’re power, status, and obsession. You start as a street-level thief with nothing but speed, style, and a dream: to steal the rarest kicks and build a sneaker empire that the city will never forget. But every heist comes with risk. Rival thieves lurk in the shadows, ready to snatch your loot and take your crown. Only the smartest, fastest, and boldest will rise from the alleys to the top of the sneaker underworld. Will you become the ultimate sneaker legend… or lose it all chasing hype?",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/StealASneakers/StealASneakers_cover.webp",
+      "/assets/game/StealASneakers/StealASneakers_1.webp",
+      "/assets/game/StealASneakers/StealASneakers_2.webp",
+      "/assets/game/StealASneakers/StealASneakers_3.webp",
+      "/assets/game/StealASneakers/StealASneakers_4.webp",
+      "/assets/game/StealASneakers/StealASneakers_5.webp",
+      "/assets/game/StealASneakers/StealASneakers_6.webp"
+    ],
+    "Img": "/assets/game/StealASneakers/StealASneakers_cover.webp",
+    "Title": "Steal a Sneakers",
+    "WebPage": "https://www.trimatra.io/project/steal-sneakers",
+    "StorePage": "https://www.roblox.com/games/84024220008213/Steal-A-Sneaker",
+    "Role": [],
+    "Features": [
+      "Every heist builds your legend.",
+      "Are you ready to rule the streets as the ultimate sneaker thief?"
+    ],
+    "Order": 997,
+    "Contents": []
+  },
+  {
+    "id": "StealAnArmy",
+    "Description": "In a world where power is everything, you start with nothing but determination and a single recruit. The land is ruled by rival generals, each commanding massive armies and unstoppable machines of war. To survive, you must build your own army — not just by recruiting, but by stealing troops, tanks, and choppers from others. Every battle strengthens your forces and brings you one step closer to becoming the ultimate Army General. But remember — in this world, loyalty is earned, and armies can be taken just as easily as they’re built.",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/StealAnArmy/StealAnArmy_cover.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_1.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_2.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_3.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_4.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_5.webp",
+      "/assets/game/StealAnArmy/StealAnArmy_6.webp"
+    ],
+    "Img": "/assets/game/StealAnArmy/StealAnArmy_cover.webp",
+    "Title": "Steal an Army",
+    "WebPage": "https://www.trimatra.io/project/steal-army",
+    "StorePage": "https://www.roblox.com/games/137450204024991/Steal-an-Army",
+    "Role": [],
+    "Features": [
+      "Steal an Army combines base-building, combat, and chaos in a fast-paced military simulation!",
+      "Recruit soldiers, expand your base, and raid other players to steal their troops and vehicles.",
+      "Use your earnings to upgrade weapons, unlock troll gear, and strengthen your defenses.",
+      "Rebirth to boost your stats and dominate the battlefield even faster.",
+      "Whether you prefer strategy or pure chaos, every choice you make defines your rise to power."
+    ],
+    "Order": 996,
+    "Contents": []
+  },
+  {
+    "id": "ThrowMyRide",
+    "Description": "In a world where speed alone isn’t enough, one challenge reigns supreme — how far can you throw your car? You’re a daring mechanic-turned-launcher, obsessed with pushing machines beyond their limits. From scrap junkers to supercars, every vehicle is a new experiment in chaos, flight, and distance. It’s not just about driving anymore… it’s about launching your ride into the stratosphere and proving you’ve got what it takes to defy gravity itself.",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/ThrowMyRide/ThrowMyRide_cover.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_1.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_2.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_3.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_4.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_5.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_6.webp",
+      "/assets/game/ThrowMyRide/ThrowMyRide_7.webp"
+    ],
+    "Img": "/assets/game/ThrowMyRide/ThrowMyRide_cover.webp",
+    "Title": "Throw My Ride!",
+    "WebPage": "https://www.trimatra.io/project/throw-my-ride",
+    "StorePage": "https://www.roblox.com/games/73611144922902/Throw-My-Ride",
+    "Role": [],
+    "Features": [
+      "Throw My Ride is a physics-based car-launching simulator where power meets precision!",
+      "Load your car into a massive slingshot, fire it across wild landscapes, and watch it bounce, flip, and soar for record-breaking distances.",
+      "Earn rewards based on how far you travel, then use them to upgrade your car, slingshot, and launch tower.",
+      "Unlock new vehicles, explore extreme zones, and perfect your timing to reach impossible heights.",
+      "Every launch brings you closer to the ultimate goal — the farthest throw in the world!"
+    ],
+    "Order": 995,
+    "Contents": []
+  },
+  {
+    "id": "MountKalcer",
+    "Description": "Gunung Kalcer bukan gunung biasa — ia hanya muncul di bawah cahaya bulan. Konon, siapa pun yang berhasil mencapai puncaknya akan menemukan arti sejati dari “malam yang hidup”. Kamu dan teman-temanmu memulai perjalanan menuju puncak mistis ini, menembus kabut tebal, melintasi lembah bercahaya, dan menghadapi makhluk bayangan yang menjaga rahasia gunung. Namun, semakin tinggi kamu mendaki, semakin nyata keajaiban yang menunggu di atas sana — tempat di mana bintang, musik, dan persahabatan bersatu di bawah bulan sabit besar..",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/MountKalcer/MountKalcer_cover.webp",
+      "/assets/game/MountKalcer/MountKalcer_1.webp",
+      "/assets/game/MountKalcer/MountKalcer_2.webp",
+      "/assets/game/MountKalcer/MountKalcer_3.webp",
+      "/assets/game/MountKalcer/MountKalcer_4.webp",
+      "/assets/game/MountKalcer/MountKalcer_5.webp"
+    ],
+    "Img": "/assets/game/MountKalcer/MountKalcer_cover.webp",
+    "Title": "Mount Kalcer",
+    "WebPage": "https://www.trimatra.io/project/mount-kalcer",
+    "StorePage": "https://www.roblox.com/games/101961766985364/NEW-Gunung-Kalcer",
+    "Role": [],
+    "Features": [
+      "Gunung Kalcer adalah game petualangan sosial penuh misteri dan fantasi.",
+      "Jelajahi jalur malam yang indah, hindari rintangan, dan gunakan kekuatan unik seperti berubah menjadi rusa ajaib atau terbang di langit berbintang.",
+      "Bekerjasama dengan teman untuk melewati jalan berbahaya, membawa satu sama lain melewati jurang, dan menaklukkan monster bayangan yang menghalangi jalan menuju puncak.",
+      "Nikmati momen santai di atas gunung — berfoto, berjoget, atau sekadar menatap ribuan bintang setelah perjalanan panjangmu.",
+      "Setiap langkah membawa kisah baru, dan setiap puncak adalah kenangan tak terlupakan."
+    ],
+    "Order": 994,
+    "Contents": []
+  },
+  {
+    "id": "QuarantineABrainrot",
+    "Description": "",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_cover.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_1.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_2.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_3.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_4.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_5.webp",
+      "/assets/game/QuarantineABrainrot/QuarantineABrainrot_6.webp"
+    ],
+    "Img": "/assets/game/QuarantineABrainrot/QuarantineABrainrot_cover.webp",
+    "Title": "Quarantine A Brainrot",
+    "WebPage": "https://www.trimatra.io/project/quarantine-brainrot",
+    "StorePage": "https://www.roblox.com/games/97365289307749/Kill-A-Brainrot",
+    "Role": [],
+    "Features": [],
+    "Order": 993,
+    "Contents": []
+  },
+  {
+    "id": "BeachParty",
+    "Description": "is an open-air festival map featuring vibrant neon lights, a futuristic DJ booth, and a large main stage under the night sky. The entire area is filled with festival decorations like hanging lights, glowing bars, cozy outdoor lounges, and a wide dance floor. The atmosphere is energetic, modern, and perfect for players to chill and party together.",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/BeachParty/BeachParty_cover.webp",
+      "/assets/game/BeachParty/BeachParty_1.webp",
+      "/assets/game/BeachParty/BeachParty_2.webp",
+      "/assets/game/BeachParty/BeachParty_3.webp",
+      "/assets/game/BeachParty/BeachParty_4.webp",
+      "/assets/game/BeachParty/BeachParty_5.webp",
+      "/assets/game/BeachParty/BeachParty_6.webp",
+      "/assets/game/BeachParty/BeachParty_7.webp"
+    ],
+    "Img": "/assets/game/BeachParty/BeachParty_cover.webp",
+    "Title": "Beach Party",
+    "WebPage": "https://www.trimatra.io/project/partyclub",
+    "StorePage": "https://www.roblox.com/games/81688725739094/",
+    "Role": [],
+    "Features": [
+      "is an open-air festival map featuring vibrant neon lights, a futuristic DJ booth, and a large main stage under the night sky.",
+      "The entire area is filled with festival decorations like hanging lights, glowing bars, cozy outdoor lounges, and a wide dance floor.",
+      "The atmosphere is energetic, modern, and perfect for players to chill and party together."
+    ],
+    "Order": 992,
+    "Contents": []
+  },
+  {
+    "id": "SpeedLimitSim",
+    "Description": "🏎️ Speed Limit Simulator: GET FLASHED! 📸 Welcome to the wildest racing game on Roblox! Start with a slow car, train up, and turn into a supersonic beast! 🚀",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_cover.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_1.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_2.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_3.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_4.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_5.webp",
+      "/assets/game/SpeedLimitSim/SpeedLimitSim_6.webp"
+    ],
+    "Img": "/assets/game/SpeedLimitSim/SpeedLimitSim_cover.webp",
+    "Title": "Speed Limit Sim",
+    "WebPage": "https://www.trimatra.io/project/speedlimitsim",
+    "StorePage": "https://www.roblox.com/games/126540984936932",
+    "Role": [],
+    "Features": [
+      "💥 Break the Limit: Drive so fast the Police Radars BLOW UP! 🚓 Don't get Caught: A cop car is right behind you... keep moving! 🐶 Pet System: Hatch eggs to get multipliers! 🎨Customize: Cool skins, neon trails, and wild auras!"
+    ],
+    "Order": 991,
+    "Contents": []
+  },
+  {
+    "id": "MancingMania",
+    "Description": "Sate Anomali is a game about a satay seller who is placed on a quiet and haunted street with strange, mysterious buyers and ghosts.",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/MancingMania/MancingMania_cover.webp",
+      "/assets/game/MancingMania/MancingMania_1.webp",
+      "/assets/game/MancingMania/MancingMania_2.webp",
+      "/assets/game/MancingMania/MancingMania_3.webp",
+      "/assets/game/MancingMania/MancingMania_4.webp",
+      "/assets/game/MancingMania/MancingMania_5.webp"
+    ],
+    "Img": "/assets/game/MancingMania/MancingMania_cover.webp",
+    "Title": "Mancing Mania",
+    "WebPage": "https://www.trimatra.io/project/mancing-mania",
+    "StorePage": "https://www.roblox.com/games/104683666584105",
+    "Role": [],
+    "Features": [
+      "Keep selling satay until the target is met.",
+      "Don't let the anomalies bother you."
+    ],
+    "Order": 990,
+    "Contents": []
+  },
+  {
+    "id": "BungeeJump",
+    "Description": "🧠 Dive, Grab, Get Rich! 🪢💸 🕹️ How to Play 🎯 Leap from the edge and aim for the rarest brainrots on the lower platforms! 🧺 Collect as many as you can before your bungee cord pulls you back up. 🚀 Upgrade everything to reach deeper levels and unlock the ultimate brainrot collection!",
+    "TechStack": [],
+    "Screenshots": [
+      "/assets/game/BungeeJump/BungeeJump_cover.webp",
+      "/assets/game/BungeeJump/BungeeJump_1.webp",
+      "/assets/game/BungeeJump/BungeeJump_2.webp",
+      "/assets/game/BungeeJump/BungeeJump_3.webp",
+      "/assets/game/BungeeJump/BungeeJump_4.webp",
+      "/assets/game/BungeeJump/BungeeJump_5.webp"
+    ],
+    "Img": "/assets/game/BungeeJump/BungeeJump_cover.webp",
+    "Title": "Bungee Jump",
+    "WebPage": "https://www.trimatra.io/project/bungee-jump",
+    "StorePage": "https://www.roblox.com/games/90812038071748",
+    "Role": [],
+    "Features": [
+      "🧠 Dive, Grab, Get Rich! 🪢💸 🕹️ How to Play 🎯 Leap from the edge and aim for the rarest brainrots on the lower platforms! 🧺 Collect as many as you can before your bungee cord pulls you back up. 🚀 Upgrade everything to reach deeper levels and unlock the ultimate brainrot collection!"
+    ],
+    "Order": 989,
+    "Contents": []
   }
 ]
