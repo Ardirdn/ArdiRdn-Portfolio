@@ -1,0 +1,1563 @@
+[
+  {
+    "file": "Other/Featured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 8873600,
+    "after": 1700670
+  },
+  {
+    "file": "Other/Gun/Gun_AK47/Render/SingleView/Textured/Gun_AK47_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1797979,
+    "after": 506465
+  },
+  {
+    "file": "Other/Gun/Gun_Anchor/Render/SingleView/Textured/Gun_Anchor_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2492577,
+    "after": 713452
+  },
+  {
+    "file": "Other/Gun/Gun_Blaster/Render/SingleView/Textured/Gun_Blaster_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2331375,
+    "after": 690297
+  },
+  {
+    "file": "Other/Gun/Gun_GoldenGun/Render/SingleView/Textured/Gun_GoldenGun_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2441167,
+    "after": 723140
+  },
+  {
+    "file": "Other/Gun/Gun_Kokang_Crabs/Render/SingleView/Textured/Gun_Kokang_Crabs_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3292418,
+    "after": 902737
+  },
+  {
+    "file": "Other/Gun/Gun_RobotGUn/Render/SingleView/Textured/Gun_RobotGUn_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2741685,
+    "after": 842987
+  },
+  {
+    "file": "Other/Gun/Gun_Sniper/Render/SingleView/Textured/Gun_Sniper_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2145599,
+    "after": 588618
+  },
+  {
+    "file": "Other/Gun/Gun_TransformerGun/Render/SingleView/Textured/Gun_TransformerGun_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2305295,
+    "after": 644275
+  },
+  {
+    "file": "Other/Gun/Gun_WoodenGUn2/Render/SingleView/Textured/Gun_WoodenGUn2_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1853125,
+    "after": 490632
+  },
+  {
+    "file": "Other/Gun/Gun_WoodenGun/Render/SingleView/Textured/Gun_WoodenGun_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1730496,
+    "after": 492218
+  },
+  {
+    "file": "Other/Gun/Gun_WoodenGun3/Render/SingleView/Textured/Gun_WoodenGun3_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1920336,
+    "after": 533383
+  },
+  {
+    "file": "Other/Gun/Gun_WoodenGun4/Render/SingleView/Textured/Gun_WoodenGun4_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1921466,
+    "after": 532707
+  },
+  {
+    "file": "Other/Gun/Gun_WoodenGun5/Render/SingleView/Textured/Gun_WoodenGun5_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1394665,
+    "after": 351276
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Beat/Render/SingleView/Normal/Motor_Beat_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2138458,
+    "after": 583103
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Beat/Render/SingleView/Textured/Motor_Beat_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1580995,
+    "after": 427257
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_BeatMerah/Render/SingleView/Normal/Motor_BeatMerah_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2136272,
+    "after": 583400
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_BeatMerah/Render/SingleView/Textured/Motor_BeatMerah_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1525015,
+    "after": 409767
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_CafeRacer2/Render/SingleView/Normal/Motor_CafeRacer2_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2460309,
+    "after": 687652
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_CafeRacer2/Render/SingleView/Textured/Motor_CafeRacer2_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1792440,
+    "after": 486878
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Futuristik/Render/SingleView/Normal/Motor_Futuristik_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3156486,
+    "after": 935496
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Futuristik/Render/SingleView/Textured/Motor_Futuristik_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2570076,
+    "after": 779539
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_KawasakiNinja/Render/SingleView/Normal/Motor_KawasakiNinja_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2716320,
+    "after": 774420
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_KawasakiNinja/Render/SingleView/Textured/Motor_KawasakiNinja_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2101786,
+    "after": 612529
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Mio/Render/SingleView/Normal/Motor_Mio_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2488108,
+    "after": 669117
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Mio/Render/SingleView/Textured/Motor_Mio_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1885703,
+    "after": 505495
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Racer/Render/SingleView/Normal/Motor_Racer_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3406036,
+    "after": 947170
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Racer/Render/SingleView/Textured/Motor_Racer_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2843466,
+    "after": 799444
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Rider/Render/SingleView/Normal/Motor_Rider_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4910825,
+    "after": 1333189
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Rider/Render/SingleView/Textured/Motor_Rider_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4205380,
+    "after": 1134142
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Rxking/Render/SingleView/Normal/Motor_Rxking_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3741378,
+    "after": 1049944
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Rxking/Render/SingleView/Textured/Motor_Rxking_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2785370,
+    "after": 759485
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Scoopy/Render/SingleView/Normal/Motor_Scoopy_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2504493,
+    "after": 678012
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Scoopy/Render/SingleView/Textured/Motor_Scoopy_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2042157,
+    "after": 579873
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_SupraTas/Render/SingleView/Normal/Motor_SupraTas_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2751113,
+    "after": 800883
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_SupraTas/Render/SingleView/Textured/Motor_SupraTas_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2348248,
+    "after": 677880
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Vespa/Render/SingleView/Normal/Motor_Vespa_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1896343,
+    "after": 517216
+  },
+  {
+    "file": "Other/low Poly Bike/Motor_Vespa/Render/SingleView/Textured/Motor_Vespa_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1465371,
+    "after": 404504
+  },
+  {
+    "file": "Other/loyPolyShips/Pirate_Ship/Render/SingleView/Normal/Pirate_Ship_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 8514103,
+    "after": 2016529
+  },
+  {
+    "file": "Other/loyPolyShips/Pirate_Ship/Render/SingleView/Textured/Pirate_Ship_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6917636,
+    "after": 1597744
+  },
+  {
+    "file": "Other/loyPolyShips/Shark_Ship/Render/SingleView/Normal/Shark_Ship_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2894255,
+    "after": 790800
+  },
+  {
+    "file": "Other/loyPolyShips/Shark_Ship/Render/SingleView/Textured/Shark_Ship_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2135175,
+    "after": 574502
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Angle/Render/SingleView/Normal/Ship_Angle_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3045587,
+    "after": 813136
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Angle/Render/SingleView/Textured/Ship_Angle_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2878976,
+    "after": 760728
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Basics/Render/SingleView/Normal/Ship_Basics_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2623466,
+    "after": 747276
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Basics/Render/SingleView/Textured/Ship_Basics_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1819350,
+    "after": 502209
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Bone/Render/SingleView/Normal/Ship_Bone_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6724783,
+    "after": 1764461
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Bone/Render/SingleView/Textured/Ship_Bone_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 5918425,
+    "after": 1552093
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Dragon_Merah/Render/SingleView/Normal/Ship_Dragon_Merah_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2550405,
+    "after": 678832
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Dragon_Merah/Render/SingleView/Textured/Ship_Dragon_Merah_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1987121,
+    "after": 520973
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Fantasy2/Render/SingleView/Normal/Ship_Fantasy2_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3817373,
+    "after": 939753
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Fantasy2/Render/SingleView/Textured/Ship_Fantasy2_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3019422,
+    "after": 727360
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Fantsy/Render/SingleView/Normal/Ship_Fantsy_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3273103,
+    "after": 885307
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Fantsy/Render/SingleView/Textured/Ship_Fantsy_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2836083,
+    "after": 790871
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Ghost/Render/SingleView/Normal/Ship_Ghost_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 8779095,
+    "after": 2149124
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Ghost/Render/SingleView/Textured/Ship_Ghost_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6894261,
+    "after": 1692659
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Red_Pirate/Render/SingleView/Normal/Ship_Red_Pirate_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 7909160,
+    "after": 1875789
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Red_Pirate/Render/SingleView/Textured/Ship_Red_Pirate_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6667595,
+    "after": 1538404
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Robot/Render/SingleView/Normal/Ship_Robot_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3827161,
+    "after": 1017693
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Robot/Render/SingleView/Textured/Ship_Robot_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3158083,
+    "after": 819768
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Satelit/Render/SingleView/Normal/Ship_Satelit_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2368377,
+    "after": 717671
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Satelit/Render/SingleView/Textured/Ship_Satelit_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1904444,
+    "after": 577994
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Scorpio/Render/SingleView/Normal/Ship_Scorpio_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6792806,
+    "after": 2102863
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Scorpio/Render/SingleView/Textured/Ship_Scorpio_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4814668,
+    "after": 1459643
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Skin_One_Piece/Render/SingleView/Normal/Ship_Skin_One_Piece_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4045675,
+    "after": 1090957
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Skin_One_Piece/Render/SingleView/Textured/Ship_Skin_One_Piece_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3535619,
+    "after": 948807
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Turtle/Render/SingleView/Normal/Ship_Turtle_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4761001,
+    "after": 1224107
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Turtle/Render/SingleView/Textured/Ship_Turtle_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3481700,
+    "after": 880505
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Water_MillWheel/Render/SingleView/Normal/Ship_Water_MillWheel_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2859232,
+    "after": 871325
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Water_MillWheel/Render/SingleView/Textured/Ship_Water_MillWheel_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2257415,
+    "after": 663426
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Wings/Render/SingleView/Normal/Ship_Wings_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2573724,
+    "after": 650155
+  },
+  {
+    "file": "Other/loyPolyShips/Ship_Wings/Render/SingleView/Textured/Ship_Wings_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2186159,
+    "after": 549905
+  },
+  {
+    "file": "Other/loyPolyShips/Space_Skin/Render/SingleView/Normal/Space_Skin_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4163273,
+    "after": 1073982
+  },
+  {
+    "file": "Other/loyPolyShips/Space_Skin/Render/SingleView/Textured/Space_Skin_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3852954,
+    "after": 1018239
+  },
+  {
+    "file": "Other/loyPolyShips/Tribes_Ship/Render/SingleView/Normal/Tribes_Ship_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 7354768,
+    "after": 1846087
+  },
+  {
+    "file": "Other/loyPolyShips/Tribes_Ship/Render/SingleView/Textured/Tribes_Ship_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6102528,
+    "after": 1520644
+  },
+  {
+    "file": "Other/loyPolyShips/Viking_Shipss/Render/SingleView/Normal/Viking_Shipss_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 7959547,
+    "after": 1938358
+  },
+  {
+    "file": "Other/loyPolyShips/Viking_Shipss/Render/SingleView/Textured/Viking_Shipss_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 6396220,
+    "after": 1518109
+  },
+  {
+    "file": "PBR/Featured.webm",
+    "from": "1920x1088",
+    "to": "960x544",
+    "before": 5419952,
+    "after": 1282488
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Ant/Render/SingleView/MaterialPreview/AnimalKnight_Ant_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2566120,
+    "after": 600512
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Ant/Render/SingleView/Normal/AnimalKnight_Ant_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4082111,
+    "after": 1139227
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Ant/Render/SingleView/Solid/AnimalKnight_Ant_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3793593,
+    "after": 1042696
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Ant/Render/SingleView/Textured/AnimalKnight_Ant_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3255306,
+    "after": 886862
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Capybara/Render/SingleView/MaterialPreview/AnimalKnight_Capybara_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2267240,
+    "after": 553350
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Capybara/Render/SingleView/Normal/AnimalKnight_Capybara_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 5960942,
+    "after": 1476449
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Capybara/Render/SingleView/Solid/AnimalKnight_Capybara_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 5466894,
+    "after": 1320368
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Capybara/Render/SingleView/Textured/AnimalKnight_Capybara_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3486226,
+    "after": 903949
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Dog/Render/SingleView/MaterialPreview/AnimalKnight_Dog_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2156190,
+    "after": 528713
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Dog/Render/SingleView/Normal/AnimalKnight_Dog_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3810150,
+    "after": 1101615
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Dog/Render/SingleView/Solid/AnimalKnight_Dog_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3492483,
+    "after": 987632
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Dog/Render/SingleView/Textured/AnimalKnight_Dog_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2781645,
+    "after": 783288
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Eagle/Render/SingleView/MaterialPreview/AnimalKnight_Eagle_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2953567,
+    "after": 752168
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Eagle/Render/SingleView/Normal/AnimalKnight_Eagle_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4971201,
+    "after": 1468694
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Eagle/Render/SingleView/Solid/AnimalKnight_Eagle_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4598471,
+    "after": 1340252
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Eagle/Render/SingleView/Textured/AnimalKnight_Eagle_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3811932,
+    "after": 1096475
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Geraph/Render/SingleView/MaterialPreview/AnimalKnight_Geraph_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2209639,
+    "after": 538858
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Geraph/Render/SingleView/Normal/AnimalKnight_Geraph_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3511317,
+    "after": 1014566
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Geraph/Render/SingleView/Solid/AnimalKnight_Geraph_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3231996,
+    "after": 916116
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Geraph/Render/SingleView/Textured/AnimalKnight_Geraph_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2888020,
+    "after": 815318
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Hippo/Render/SingleView/MaterialPreview/AnimalKnight_Hippo_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2189174,
+    "after": 584722
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Hippo/Render/SingleView/Normal/AnimalKnight_Hippo_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3500666,
+    "after": 1053313
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Hippo/Render/SingleView/Solid/AnimalKnight_Hippo_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3184723,
+    "after": 940137
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Hippo/Render/SingleView/Textured/AnimalKnight_Hippo_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2733956,
+    "after": 805355
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Horse/Render/SingleView/MaterialPreview/AnimalKnight_Horse_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2355414,
+    "after": 600161
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Horse/Render/SingleView/Normal/AnimalKnight_Horse_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3664407,
+    "after": 1086944
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Horse/Render/SingleView/Solid/AnimalKnight_Horse_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3367519,
+    "after": 982417
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Horse/Render/SingleView/Textured/AnimalKnight_Horse_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3063204,
+    "after": 881499
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lion/Render/SingleView/MaterialPreview/AnimalKnight_Lion_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2276354,
+    "after": 603071
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lion/Render/SingleView/Normal/AnimalKnight_Lion_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3704113,
+    "after": 1122483
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lion/Render/SingleView/Solid/AnimalKnight_Lion_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3377408,
+    "after": 1012943
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lion/Render/SingleView/Textured/AnimalKnight_Lion_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2974288,
+    "after": 879168
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lizard/Render/SingleView/MaterialPreview/AnimalKnight_Lizard_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2480979,
+    "after": 599539
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lizard/Render/SingleView/Normal/AnimalKnight_Lizard_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4188857,
+    "after": 1224401
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lizard/Render/SingleView/Solid/AnimalKnight_Lizard_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3846110,
+    "after": 1110638
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Lizard/Render/SingleView/Textured/AnimalKnight_Lizard_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3219475,
+    "after": 898919
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_PolarBear/Render/SingleView/MaterialPreview/AnimalKnight_PolarBear_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2657008,
+    "after": 760244
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_PolarBear/Render/SingleView/Normal/AnimalKnight_PolarBear_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4222658,
+    "after": 1292835
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_PolarBear/Render/SingleView/Solid/AnimalKnight_PolarBear_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3846953,
+    "after": 1167593
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_PolarBear/Render/SingleView/Textured/AnimalKnight_PolarBear_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3682984,
+    "after": 1132493
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Rhinos/Render/SingleView/MaterialPreview/AnimalKnight_Rhinos_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2187592,
+    "after": 595116
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Rhinos/Render/SingleView/Normal/AnimalKnight_Rhinos_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3385196,
+    "after": 1008148
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Rhinos/Render/SingleView/Solid/AnimalKnight_Rhinos_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3074015,
+    "after": 901808
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Rhinos/Render/SingleView/Textured/AnimalKnight_Rhinos_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2733415,
+    "after": 815675
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Tiger/Render/SingleView/MaterialPreview/AnimalKnight_Tiger_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2601730,
+    "after": 681811
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Tiger/Render/SingleView/Normal/AnimalKnight_Tiger_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3982164,
+    "after": 1174789
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Tiger/Render/SingleView/Solid/AnimalKnight_Tiger_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3615468,
+    "after": 1048259
+  },
+  {
+    "file": "Stylized Character/AnimalKnight/AnimalKnight_Tiger/Render/SingleView/Textured/AnimalKnight_Tiger_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3324397,
+    "after": 972767
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Farmer_High/Render/SingleView/MaterialPreview/Caveman_Farmer_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1653781,
+    "after": 384564
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Farmer_High/Render/SingleView/Normal/Caveman_Farmer_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3113625,
+    "after": 936910
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Farmer_High/Render/SingleView/Solid/Caveman_Farmer_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2847094,
+    "after": 853398
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Farmer_High/Render/SingleView/Textured/Caveman_Farmer_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2295535,
+    "after": 656396
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Guy_High/Render/SingleView/MaterialPreview/Caveman_Guy_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1170411,
+    "after": 264081
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Guy_High/Render/SingleView/Normal/Caveman_Guy_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2159668,
+    "after": 624719
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Guy_High/Render/SingleView/Solid/Caveman_Guy_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1989332,
+    "after": 576026
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Guy_High/Render/SingleView/Textured/Caveman_Guy_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1578735,
+    "after": 431067
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Kid_High/Render/SingleView/MaterialPreview/Caveman_Kid_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1534658,
+    "after": 352473
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Kid_High/Render/SingleView/Normal/Caveman_Kid_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2915152,
+    "after": 843655
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Kid_High/Render/SingleView/Solid/Caveman_Kid_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2694909,
+    "after": 772362
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Kid_High/Render/SingleView/Textured/Caveman_Kid_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2118374,
+    "after": 577226
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_King_High/Render/SingleView/MaterialPreview/Caveman_King_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2190684,
+    "after": 485131
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_King_High/Render/SingleView/Normal/Caveman_King_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4192477,
+    "after": 1245180
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_King_High/Render/SingleView/Solid/Caveman_King_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3828115,
+    "after": 1121255
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_King_High/Render/SingleView/Textured/Caveman_King_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2985685,
+    "after": 821979
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Mom_High/Render/SingleView/MaterialPreview/Caveman_Mom_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1589769,
+    "after": 383079
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Mom_High/Render/SingleView/Normal/Caveman_Mom_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3046030,
+    "after": 905913
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Mom_High/Render/SingleView/Solid/Caveman_Mom_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2810528,
+    "after": 833703
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Mom_High/Render/SingleView/Textured/Caveman_Mom_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2196718,
+    "after": 629413
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Nerd_High/Render/SingleView/MaterialPreview/Caveman_Nerd_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1590619,
+    "after": 347285
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Nerd_High/Render/SingleView/Normal/Caveman_Nerd_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2941932,
+    "after": 858046
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Nerd_High/Render/SingleView/Solid/Caveman_Nerd_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2697307,
+    "after": 775849
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Nerd_High/Render/SingleView/Textured/Caveman_Nerd_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2146320,
+    "after": 584785
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Soldier_High/Render/SingleView/MaterialPreview/Caveman_Soldier_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2189528,
+    "after": 539899
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Soldier_High/Render/SingleView/Normal/Caveman_Soldier_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3943675,
+    "after": 1179747
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Soldier_High/Render/SingleView/Solid/Caveman_Soldier_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3618989,
+    "after": 1070875
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Soldier_High/Render/SingleView/Textured/Caveman_Soldier_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2925828,
+    "after": 844398
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_StrongMan_High/Render/SingleView/MaterialPreview/Caveman_StrongMan_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2025360,
+    "after": 463171
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_StrongMan_High/Render/SingleView/Normal/Caveman_StrongMan_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3797412,
+    "after": 1123780
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_StrongMan_High/Render/SingleView/Solid/Caveman_StrongMan_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3468276,
+    "after": 1012155
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_StrongMan_High/Render/SingleView/Textured/Caveman_StrongMan_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2715446,
+    "after": 760175
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Witch_High/Render/SingleView/MaterialPreview/Caveman_Witch_High_SingleView_MaterialPreview.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1944902,
+    "after": 429623
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Witch_High/Render/SingleView/Normal/Caveman_Witch_High_SingleView_Normal.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3618646,
+    "after": 1065724
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Witch_High/Render/SingleView/Solid/Caveman_Witch_High_SingleView_Solid.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3282356,
+    "after": 949180
+  },
+  {
+    "file": "Stylized Character/Caveman/Caveman_Witch_High/Render/SingleView/Textured/Caveman_Witch_High_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2644013,
+    "after": 735852
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Akatsuki/Render/SingleView/Textured/Akatsuki_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1374484,
+    "after": 385472
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Astronot/Render/SingleView/Textured/Astronot_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1528795,
+    "after": 434763
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Astronot1/Render/SingleView/Textured/Astronot1_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2563179,
+    "after": 771361
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Astronot2/Render/SingleView/Textured/Astronot2_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2105051,
+    "after": 620136
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Avatar/Render/SingleView/Textured/Avatar_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1943793,
+    "after": 518893
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Banana.002/Render/SingleView/Textured/Banana.002_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1394286,
+    "after": 375133
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Batman/Render/SingleView/Textured/Batman_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1273306,
+    "after": 326040
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/BlastX/Render/SingleView/Textured/BlastX_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3318606,
+    "after": 911137
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Cactus/Render/SingleView/Textured/Cactus_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1487172,
+    "after": 412810
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/CaptainI/Render/SingleView/Textured/CaptainI_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1367633,
+    "after": 413066
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Chainsaw/Render/SingleView/Textured/Chainsaw_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2316131,
+    "after": 573416
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Doyok_Muda/Render/SingleView/Textured/Doyok_Muda_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1235307,
+    "after": 343982
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Dracula/Render/SingleView/Textured/Dracula_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2281801,
+    "after": 613011
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Fantasy/Render/SingleView/Textured/Fantasy_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2417162,
+    "after": 663611
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Fantasy3/Render/SingleView/Textured/Fantasy3_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2164901,
+    "after": 583160
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/GhostRider/Render/SingleView/Textured/GhostRider_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2635322,
+    "after": 703308
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Gojo/Render/SingleView/Textured/Gojo_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1231022,
+    "after": 324215
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Gundam3/Render/SingleView/Textured/Gundam3_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 4675540,
+    "after": 1413155
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Habibi/Render/SingleView/Textured/Habibi_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1546729,
+    "after": 456523
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Jack/Render/SingleView/Textured/Jack_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1734434,
+    "after": 471598
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Jawa_Character/Render/SingleView/Textured/Jawa_Character_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1774337,
+    "after": 497630
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Kakashi/Render/SingleView/Textured/Kakashi_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2289824,
+    "after": 639511
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Kakashii/Render/SingleView/Textured/Kakashii_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2341151,
+    "after": 653022
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Leak/Render/SingleView/Textured/Leak_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1988525,
+    "after": 593117
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Luffy/Render/SingleView/Textured/Luffy_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2571779,
+    "after": 704414
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/LuffyNormal/Render/SingleView/Textured/LuffyNormal_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1798754,
+    "after": 507234
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Mecha/Render/SingleView/Textured/Mecha_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2921697,
+    "after": 778495
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Mikasa/Render/SingleView/Textured/Mikasa_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2058779,
+    "after": 571150
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/NFC_Arena1/Render/SingleView/Textured/NFC_Arena1_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1304262,
+    "after": 353213
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/NFC_Toko2/Render/SingleView/Textured/NFC_Toko2_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1428585,
+    "after": 395884
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Naruto/Render/SingleView/Textured/Naruto_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1652860,
+    "after": 451114
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/PakKumis/Render/SingleView/Textured/PakKumis_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1259202,
+    "after": 346282
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Pak_Dayat/Render/SingleView/Textured/Pak_Dayat_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1245641,
+    "after": 346249
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Pangsi/Render/SingleView/Textured/Pangsi_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1195930,
+    "after": 326953
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Pemburu/Render/SingleView/Textured/Pemburu_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1428460,
+    "after": 389703
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/PumpkinHead/Render/SingleView/Textured/PumpkinHead_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1769843,
+    "after": 491576
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/PumpkinHeadDinosaur/Render/SingleView/Textured/PumpkinHeadDinosaur_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2860190,
+    "after": 809516
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Racoon/Render/SingleView/Textured/Racoon_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1685017,
+    "after": 464025
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Roma/Render/SingleView/Textured/Roma_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2465840,
+    "after": 652803
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Saitama/Render/SingleView/Textured/Saitama_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1242073,
+    "after": 325408
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Samurai/Render/SingleView/Textured/Samurai_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2722189,
+    "after": 758042
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Samuraii/Render/SingleView/Textured/Samuraii_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2557062,
+    "after": 706178
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Sasuke/Render/SingleView/Textured/Sasuke_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1845085,
+    "after": 485682
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Sasukee/Render/SingleView/Textured/Sasukee_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1840536,
+    "after": 483044
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Semangka/Render/SingleView/Textured/Semangka_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1259843,
+    "after": 353770
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Skeleton/Render/SingleView/Textured/Skeleton_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2935465,
+    "after": 720354
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/SquidGame/Render/SingleView/Textured/SquidGame_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1141530,
+    "after": 311593
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Tommy/Render/SingleView/Textured/Tommy_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1345213,
+    "after": 355881
+  },
+  {
+    "file": "Stylized Character/FaunaCharacter/Tribes/Render/SingleView/Textured/Tribes_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3271832,
+    "after": 902145
+  },
+  {
+    "file": "Stylized Character/Featured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 3219475,
+    "after": 898919
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Army/Render/SingleView/Textured/LolPlay_Army_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1519953,
+    "after": 406897
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Astronout/Render/SingleView/Textured/LolPlay_Astronout_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2529078,
+    "after": 696546
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Cheaf/Render/SingleView/Textured/LolPlay_Cheaf_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1590235,
+    "after": 427464
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Clown/Render/SingleView/Textured/LolPlay_Clown_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1585516,
+    "after": 432106
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_FireFigter/Render/SingleView/Textured/LolPlay_FireFigter_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1833679,
+    "after": 501937
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Pilot/Render/SingleView/Textured/LolPlay_Pilot_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2331592,
+    "after": 666087
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Pirate/Render/SingleView/Textured/LolPlay_Pirate_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1817618,
+    "after": 524050
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Racer/Render/SingleView/Textured/LolPlay_Racer_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1752861,
+    "after": 510576
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_StreetWear/Render/SingleView/Textured/LolPlay_StreetWear_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 1723361,
+    "after": 476043
+  },
+  {
+    "file": "Stylized Character/LolPlay/LolPlay_Worker/Render/SingleView/Textured/LolPlay_Worker_SingleView_Textured.webm",
+    "from": "2048x2048",
+    "to": "960x960",
+    "before": 2004504,
+    "after": 535250
+  }
+]

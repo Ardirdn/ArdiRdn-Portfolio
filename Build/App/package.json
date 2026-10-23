@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
-    "postbuild": "node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
+    "postbuild": "node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\" && node tools/prerender/prerender_routes.mjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },
